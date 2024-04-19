@@ -1,0 +1,132 @@
+{
+    "class": "Start Website GPTs",
+    "build_dataset_time": "2024-03-12 00-00-00",
+    "OpenAI_api_key": "",
+    "report_path": "report",
+    "test_dataset_path": "data/test_dataset.json",
+    "GPTs": {
+        "General": {
+            "GPT_name": "General",
+            "class": "conversation",
+            "temperature": 0.0,
+            "model_name": "gpt-3.5-turbo",
+            "database_path": "",
+            "prompt": "你現在是一位電腦配件的專家，你會針對我的問題產生專業的電腦配件回覆。以下為我的輸入：{question}"
+        },
+        "Netizen": {
+            "GPT_name": "Netizen",
+            "using_memory": true,
+            "class": "conversation",
+            "temperature": 0.0,
+            "model_name": "ft:gpt-3.5-turbo-1106:personal::8psJ2g7y",
+            "database_path": "",
+            "prompt": "{question}"
+        },
+        "Classifier": {
+            "GPT_name": "Classifier",
+            "class": "conversation",
+            "temperature": 0.0,
+            "model_name": "gpt-3.5-turbo",
+            "database_path": "",
+            "prompt": "\n你是一個電腦問題的分類器。請你把輸入的問題做出分類\n[問題定義]\n\"1\": \"詢問電腦與零件知識的問題。\",\n\"2\": \"查詢特定型號的資訊，而非產品名稱，例如價格、公司名稱\",\n\"4\": \"一台電腦或者一份清單\"\n\"5\": \"詢問與電腦、零件無關的問題\"\n[範例]\n1.詢問電腦與零件知識的問題。\n    (1).電腦配置中的主板選擇為何重要？ (2).什麼是貓扇? (2).白色的機殼有什麼優點？\n2.查詢特定型號的資訊，而非產品名稱，例如價格、公司名稱\n    (1).RTX4070價格多少? (2). i7-14700請問是哪家公司的產品？\n4.想要一台電腦或者一份清單\n    (1).詢問一般娛樂需求的電腦 (2).想要繪圖需求的電腦 (3).30K遊戲機的組套詢問\n5.詢問與電腦、零件無關的問題\n    (1).現在養樂多一瓶多少錢？ (2).貓比較可愛還是狗比較可愛？\n[提示]\n1.機殼的問題請分到類別1 2.CPU的規格問題請分到類別1\n\n問題：{question}\n回覆：1,2,4,5 其中一個數字\n"
+        },
+        "Retrieve_old": {
+            "GPT_name": "Retrieve",
+            "class": "rag",
+            "temperature": 0.0,
+            "model_name": "gpt-3.5-turbo",
+            "database_path": "data/RAG_test.json",
+            "prompt": "，另外請提供該清單的序號給我，例如：序號3。請限定在30字內",
+            "JQ_SCHEMA": ".[] | \"清單序號\\(.index) 清單：\\(.question)\""
+        },
+        "SQL": {
+            "GPT_name": "SQL",
+            "class": "query",
+            "temperature": 0.0,
+            "model_name": "gpt-3.5-turbo",
+            "database_path": "data/sqlchain.db",
+            "prompt": "如果 SQLResult 的後面沒有任何數字或資料，請回覆：查無資料",
+            "return_direct": true,
+            "sample_rows": 3,
+            "verbose": false
+        },
+        "Refuse": {
+            "message": "這個問題超出了小X能回答的範圍，請嘗試詢問其他PC DIY問題～"
+        },
+        "Consultant": {
+            "GPT_name": "Consultant",
+            "using_memory": true,
+            "class": "conversation",
+            "temperature": 0.0,
+            "model_name": "gpt-3.5-turbo",
+            "database_path": "",
+            "prompt": "你現在是一位電腦配件的顧問，接下來你會針對我們問答給予電腦相關知識的專業回覆。以下為我的輸入：{question}，回覆的訊息必須在100字以內。"
+        },
+        "Comment": {
+            "GPT_name": "Comment",
+            "class": "conversation",
+            "temperature": 0.0,
+            "model_name": "gpt-3.5-turbo",
+            "database_path": "",
+            "prompt": "\n    你現在是一位電腦配件的專家，你現在要對下列的 Answer 作出評估。 \n    關於評估，你可以參考 Question，接著查看 Answer。\n\n    [以下為輸入資料]\n    Question:{question}\n    Answer:{answer}\n    \n    [格式]\n    輸出:[填寫你的評論] 說出你的看法，評論這個 Answer 的優劣。\n    \n    [範例]\n    輸出:關於主機板與CPU的組合問題，這個評論很實用。\n"
+        },
+        "Score": {
+            "GPT_name": "Evaluation",
+            "class": "conversation",
+            "temperature": 0.0,
+            "model_name": "gpt-3.5-turbo",
+            "database_path": "",
+            "prompt": "\n    你現在是一位電腦配件的專家，你現在要對下列的 Evaluation ，做出評分，並且給出一個數字。 \n    關於評估，你參考了 Answer, Question，接著查看 Evaluation。\n    \n    [以下為輸入]\n    Question:{question}\n    Answer:{answer}\n    Evaluation:{evaluation}\n    \n    看完 Question,Answer, Evaluation，1~10給出一個數字，分數越代表品質越好，分數越低代表品質越差。\n    \n    [格式]\n    score:[1~10]\n    [範例]\n    score:3\n"
+        },
+        "General_user_score": {
+            "GPT_name": "Evaluation",
+            "class": "conversation",
+            "temperature": 0.0,
+            "model_name": "gpt-3.5-turbo",
+            "database_path": "",
+            "prompt": "\n    你現在是一位想要自己組裝電腦的消費者，你現在要對下列的 Answer，做出評分，並且給出一個數字。 \n    關於評估，你參考了 Answer, Question。\n    \n    [以下為輸入]\n    Question:{question}\n    Answer:{answer}\n \n    看完 Question,Answer，1~10給出一個數字，分數越代表品質越好，分數越低代表品質越差。\n    \n    [格式]\n    score:[1~10]\n    [範例]\n    score:3\n"
+        },
+        "Recommend_evaluation": {
+            "GPT_name": "Evaluation",
+            "class": "conversation",
+            "temperature": 0.0,
+            "model_name": "gpt-3.5-turbo",
+            "database_path": "",
+            "prompt": "\n    你現在是一位電腦配件的專家，你現在要對下列的 Recommend 作出評估。 \n    關於評估，你可以參考 Question，接著查看 Recommend\n\n    [以下為輸入資料]\n    Question:{question}\n    Recommend:{predict}\n    \n    [格式]\n    輸出:[填寫你的評論] 說出你的看法，評論這個 Recommend 的優劣。\n    \n    [範例]\n    輸出:關於提出的 question，這個 recommend 很實用。\n"
+        },
+        "Consultant_Comment": {
+            "GPT_name": "Consultant_Comment",
+            "class": "conversation",
+            "temperature": 0.0,
+            "model_name": "gpt-3.5-turbo",
+            "database_path": "",
+            "prompt": "你現在是一位電腦配件的顧問，現在我將提供一連串的諮詢對話給你，對於整個諮詢的回覆，你將會給予一些專業性的評論，評論這場諮詢的品質。以下為整個對話的主要問題：{question}\n以下整場諮詢的對對話：{predict}"
+        },
+        "Retrieve": {
+            "GPT_name": "Retrieve",
+            "class": "rag",
+            "temperature": 0.0,
+            "model_name": "gpt-3.5-turbo",
+            "json_path": "data/combined_ptt_mobile01_documents_all_ptt_smaller_v2.jsonl",
+            "embedding_data": "data/embedding_data.pkl",
+            "embedding_model_name": "text-embedding-3-small",
+            "prompt": "\n你是一個電腦組裝助手，請依照使用者的'預算'與'需求'，以及網路論壇找到的組裝清單與網友評價，挑選網友評價好的品項給使用者。\nPerform the following actions:\n- 1. 請寫出使用者的 預算 與 需求。\n- 2. 請寫出你找到的清單數量。\n- 3. 依序列出你找到的每一張清單的內容。依以下子步驟 (3.1~3.5) 寫下每一張清單的內容。\n- 3.1. 網路找到的組裝清單通常有註名是依什麼預算挑出零件的，所以你必須先比對組裝清單裡的預算與使用者的預算之間的差額，請寫下清單的預算與清單的預算和使用者預算的差額，若沒有清單預算則計算清單總價，並寫下清單總價與使用者預算的差額！\n- 3.2. 清單總價或是清單裡的預算和使用者的預算差額的絕對值要在30000元內才算是符合使用者的預算.\n- 3.3. 寫出清單裡的每一個零件時，一定要附上每個零件的網友的評價與網友推薦原因，如果有評價不好的，一定要把不好的評價附上給使用者參考！\n- 3.4. 請註名清單來自 PTT or Mobile01！\n- 3.5. 請註名文章日期！\n- 4. 總結哪一張清單的總價與使用者的預算最接近，且網友評價好的，並予以推薦.\n網路論壇找到的組裝清單與網友評價: ```{background_context}```\nHard requirements that must be followed:\n- 千萬不要列出 step 的數字！\n",
+            "JQ_SCHEMA": ".text",
+            "document_num": 1
+        },
+        "Extractor": {
+            "GPT_name": "information Extractor",
+            "class": "conversation",
+            "temperature": 0.0,
+            "model_name": "gpt-3.5-turbo",
+            "prompt": "\n規則：以下我會給你一段內容，開始的時候會用[內容開始]表明文字敘述的開始，結束的時候會表明[內容結束]，你需要對以下的內容抽取出資料並且格式化\n目標：CPU, MB, RAM, VGA, Cooler, SSD, HDD, PSU, CHASSIS，請把抽取過的資料寫入[商品名稱]裡面，以及商品的價格[商品價格]，如果沒有相對應資料，請填寫(暫無)，如果沒有價格，請填寫(暫無價格)\n格式：\nCPU (中央處理器)：[商品名稱], [商品價格]\nMB      (主機板)：[商品名稱], [商品價格]\nRAM     (記憶體)：[商品名稱], [商品價格]\nVGA     (顯示卡)：[商品名稱], [商品價格]\nCooler  (散熱器)：[商品名稱], [商品價格]\nSSD   (固態硬碟)：[商品名稱], [商品價格]\nHDD       (硬碟)：[商品名稱], [商品價格]\nPSU (電源供應器)：[商品名稱], [商品價格]\nCHASSIS   (機殼)：[商品名稱], [商品價格]\n內容：[內容開始]{content}[內容開始]\n"
+        },
+        "Question_Splitter": {
+            "GPT_name": "question_splitter",
+            "class": "conversation",
+            "temperature": 0.0,
+            "model_name": "gpt-3.5-turbo",
+            "prompt": "想像你是一位想買電腦的顧客，你現在想要組一台 {question}，你現在正在跟一個電腦顧問諮詢相關意見，試著跟這位顧問，提出與你的需求有關係的5~7個問題。"
+        }
+    }
+}

@@ -1,0 +1,679 @@
+﻿class,name,price,etl_date,brand,casetype,size,material,cut_name
+機殼 CASE,Fractal Design Vector RS Dark TG /深色玻璃/顯卡長44/CPU高18.5/E-ATX 原價$6690,3290,2024-03-17,Fractal,E-ATX 原價$6690,CPU高18.5,玻璃,Fractal Design Vector RS Dark TG
+機殼 CASE,COUGAR Duoface RGB 黑 卡33/U高19/雙面板/Logo燈效/玻璃透側/E-ATX 原價$2490！,1990,2024-03-17,COUGAR,E-ATX 原價$2490！,U高19,玻璃,COUGAR Duoface RGB 黑
+機殼 CASE,COUGAR Duoface RGB 白 卡33/U高19/雙面板/Logo燈效/玻璃透側/E-ATX 原價$2590！,2090,2024-03-17,COUGAR,E-ATX 原價$2590！,U高19,玻璃,COUGAR Duoface RGB 白
+機殼 CASE,COUGAR CONQUER(5LMR) 顯卡長35/CPU高19/玻璃透側/ATX 特價原價$8990！,5990,2024-03-17,COUGAR,ATX 特價原價$8990！,CPU高19,玻璃,COUGAR CONQUER(5LMR)
+機殼 CASE,Apexgaming X魔幻 X1 顯卡長43.2/U高17.2/玻璃透側/E-ATX 下殺原價$1990！,999,2024-03-17,Apexgaming,E-ATX 下殺原價$1990！,U高17.2,玻璃,Apexgaming X魔幻 X1黑
+機殼 CASE,曜越 Ceres 300 TG ARGB(抹茶綠)+曜越 TH280 V2 ARGB(抹茶綠)水冷散熱器 現省$700,5680,2024-03-17,曜越,,,,曜越 Ceres 300 TG ARGB(抹茶綠) + TH280 V2 ARGB(抹茶綠) 水冷散熱器
+機殼 CASE,曜越 Versa T27 TG ARGB 顯卡長38/CPU高17.5/玻璃透側/E-ATX 獨家原價$2690！,1890,2024-03-17,曜越,E-ATX 獨家原價$2690！,CPU高17.5,玻璃,曜越 Versa T27 TG ARGB
+機殼 CASE,曜越 View 300 MX 黑 顯卡長40/CPU高17.5/玻璃透側/雙面版/E-ATX 獨家原價$3990！,3290,2024-03-17,曜越,E-ATX 獨家原價$3990！,CPU高17.5,玻璃,曜越 View 300 MX 黑
+機殼 CASE,曜越 View 300 MX 白 顯卡長40/CPU高17.5/玻璃透側/雙面版/E-ATX 獨家原價$3990！,3290,2024-03-17,曜越,E-ATX 獨家原價$3990！,CPU高17.5,玻璃,曜越 View 300 MX 白
+機殼 CASE,SAMA MG-III 黑 /玻璃透側/ATX + DEEPCOOL AG400 ARGB散熱器 現省$490！,2090,2024-03-17,SAMA,ATX + DEEPCOOL AG400 ARGB散熱器 現省$490！,,玻璃,SAMA MG-III 黑 + DEEPCOOL AG400 ARGB 散熱器
+機殼 CASE,SAMA MG-III 白 /玻璃透側/ATX + DEEPCOOL AG400 WH ARGB(白)散熱器 現省$490！,2290,2024-03-17,SAMA,ATX + DEEPCOOL AG400 WH ARGB(白)散熱器 現省$490！,,玻璃,SAMA MG-III 白 + DEEPCOOL AG400 WH ARGB(白)
+機殼 CASE,銀欣 SUGO 14 白 顯卡長33/CPU高18.2/電供深15/ITX(SG14W) 原價$3200,2090,2024-03-17,銀欣,ITX(SG14W) 原價$3200,CPU高18.2,,銀欣 SUGO 14 白
+機殼 CASE,台鼎環球 4U (黑) 工業機殼/CPU高14/側版1.2mm厚度/ATX(不含滑軌),2990,2024-03-17,台鼎環球,ATX(不含滑軌),CPU高14,,台鼎環球 4U (黑)
+機殼 CASE,樹昌 TI-U202S 2U工業機殼/CPU高5.5/ATX(不含滑軌)/支援ATX電供(限深14cm),3200,2024-03-17,樹昌,支援ATX電供(限深14cm),CPU高5.5,,樹昌 TI-U202S 2U工業機殼
+機殼 CASE,樹昌 TI-U402S 4U工業機殼/顯卡長33/CPU高13/E-ATX(不含滑軌)/支援ATX標準電供,3100,2024-03-17,樹昌,支援ATX標準電供,CPU高13,,樹昌 TI-U402S 4U工業機殼
+機殼 CASE,樹昌 TI-U403S 4U工業機殼/CPU高12/ATX(不含滑軌)/支援ATX標準電供,2100,2024-03-17,樹昌,支援ATX標準電供,CPU高12,,樹昌 TI-U403S 4U工業機殼
+機殼 CASE,樹昌 TI-C302S 3U工業機殼/CPU高8.5/ATX(不含滑軌)/支援ATX標準電供,4200,2024-03-17,樹昌,支援ATX標準電供,CPU高8.5,,樹昌 TI-C302S 3U工業機殼
+機殼 CASE,銀欣 RM23-502 2U工業機殼/CPU高6.5/ATX(不含滑軌)/支援ATX標準電供【客訂】,3500,2024-03-17,銀欣,支援ATX標準電供【客訂】,CPU高6.5,,銀欣 RM23-502 2U工業機殼
+機殼 CASE,銀欣 RM400 4U工業機殼/CPU高13/ATX/CEB(不含滑軌)/支援ATX標準電供,4890,2024-03-17,銀欣,支援ATX標準電供,CPU高13,,銀欣 RM400 4U工業機殼
+機殼 CASE,銀欣 RM44 4U工業機殼/CPU高13.7(14.8)/EEB(不含滑軌)/直立橫躺兩用【客訂】,7150,2024-03-17,銀欣,,CPU高13.7(14.8),,銀欣 RM44 4U工業機殼
+機殼 CASE,銀欣 RM42-502 4U工業機殼/CPU高13(14.8)/EEB(不含滑軌)/直立橫躺兩用【客訂】,7500,2024-03-17,銀欣,,CPU高13(14.8),,銀欣 RM42-502 4U工業機殼
+機殼 CASE,銀欣 RM51 5U工業機殼/CPU高19.2(18.1)/EEB(不含滑軌)/直立橫躺兩用【客訂】,10390,2024-03-17,銀欣,,CPU高19.2(18.1),,銀欣 RM51 5U工業機殼
+機殼 CASE,銀欣 RM52 5U工業機殼/CPU高19.2(18.1)/EEB(不含滑軌)/直立橫躺兩用【客訂】,11990,2024-03-17,銀欣,,CPU高19.2(18.1),,銀欣 RM52 5U工業機殼
+機殼 CASE,B-Team Lab BB1 黑 顯卡長30.5/U高9.9(7.9)/3M PCIe延長線/直立橫躺雙用/ITX【SFX】,7490,2024-03-17,B-Team,ITX【SFX】,U高9.9(7.9),,B-Team Lab BB1 黑
+機殼 CASE,B-Team Lab BB1 銀 顯卡長30.5/U高9.9(7.9)/3M PCIe延長線/直立橫躺雙用/ITX【SFX】,7490,2024-03-17,B-Team,ITX【SFX】,U高9.9(7.9),,B-Team Lab BB1 銀
+機殼 CASE,酷碼 MasterBox NR200P 酷碼紫 /CPU高15.3(7.6)/含玻璃側版/PCIe延長線/ITX【SFX】,2490,2024-03-17,酷碼,ITX【SFX】,CPU高15.3(7.6),玻璃,酷碼 MasterBox NR200P 酷碼紫
+機殼 CASE,酷碼 MasterBox NR200P 陽光橙 /CPU高15.3(7.6)/含玻璃側版/PCIe延長線/ITX【SFX】,2490,2024-03-17,酷碼,ITX【SFX】,CPU高15.3(7.6),玻璃,酷碼 MasterBox NR200P 陽光橙
+機殼 CASE,酷碼 MasterBox NR200P 湖水綠 /CPU高15.3(7.6)/含玻璃側版/PCIe延長線/ITX【SFX】,2490,2024-03-17,酷碼,ITX【SFX】,CPU高15.3(7.6),玻璃,酷碼 MasterBox NR200P 湖水綠
+機殼 CASE,酷碼 MasterBox NR200P MAX 卡長33.6/含280水冷/850W SFX電源/PCIe4.0延長線/ITX,11990,2024-03-17,酷碼,ITX,,,酷碼 MasterBox NR200P MAX 黑
+機殼 CASE,Phanteks Enthoo Evolv Shift 2 黑 顯卡33.5/U8.5/玻璃透側/ITX(ES217E_BK02)【SFX】,3300,2024-03-17,Phanteks,ITX(ES217E_BK02)【SFX】,,玻璃,Phanteks Enthoo Evolv Shift 2 黑
+機殼 CASE,Phanteks Enthoo Evolv Shift 2 Air 黑 顯卡長33.5/U高8.5/ITX(ES217A_BK02)【SFX】,3000,2024-03-17,Phanteks,ITX(ES217A_BK02)【SFX】,U高8.5,,Phanteks Enthoo Evolv Shift 2 Air 黑
+機殼 CASE,Phanteks Enthoo Evolv Shift 2 Air 灰 顯卡長35.5/U高8.5/ITX(ES217A_AG02)【SFX】,3000,2024-03-17,Phanteks,ITX(ES217A_AG02)【SFX】,U高8.5,,Phanteks Enthoo Evolv Shift 2 Air 灰
+機殼 CASE,Phanteks Enthoo Evolv Shift XT 銀 顯卡32.4/U高7.2/ITX(ES121XT_DGS01)【SFX】,5190,2024-03-17,Phanteks,ITX(ES121XT_DGS01)【SFX】,U高7.2,,Phanteks Enthoo Evolv Shift XT 銀
+機殼 CASE,全漢 CST351 顯卡長33.6/CPU高13.8(9)/底部ARGB氣氛燈/前置Type-C/ITX【SFX】,1990,2024-03-17,全漢,ITX【SFX】,CPU高13.8(9),,全漢 CST351 黑
+機殼 CASE,銀欣 ML07 黑 顯卡長33/CPU高8/SSD*3/ITX(ML07B)【SFX】,2090,2024-03-17,銀欣,ITX(ML07B)【SFX】,CPU高8,,銀欣 ML07 黑
+機殼 CASE,銀欣 ML08 黑 顯卡長33/CPU高5.8/內附PCI-E轉接卡/ITX(ML08B)【SFX】,2360,2024-03-17,銀欣,ITX(ML08B)【SFX】,CPU高5.8,,銀欣 ML08 黑
+機殼 CASE,銀欣 ML09 黑 顯卡長17.5(LP)/CPU高3.7(7)/ITX(ML09B)【SFX】【客訂】,2040,2024-03-17,銀欣,ITX(ML09B)【SFX】【客訂】,CPU高3.7(7),,銀欣 ML09 黑
+機殼 CASE,銀欣 SG05-LITE 黑 顯卡長22.8/CPU高8/ITX(SG05BB-LITE)【SFX】,1400,2024-03-17,銀欣,ITX(SG05BB-LITE)【SFX】,CPU高8,,銀欣 SG05-LITE 黑
+機殼 CASE,darkFlash DLH 21 黑 顯卡(32*14.7*6)/CPU高13.4/底部氣氛光效/ITX【SFX】,2790,2024-03-17,darkFlash,ITX【SFX】,CPU高13.4,,darkFlash DLH 21 黑
+機殼 CASE,darkFlash DLH 21 白 顯卡(32*14.7*6)/CPU高13.4/底部氣氛光效/ITX【SFX】,2890,2024-03-17,darkFlash,ITX【SFX】,CPU高13.4,,darkFlash DLH 21 白
+機殼 CASE,darkFlash DLH 21 粉 顯卡(32*14.7*6)/CPU高13.4/底部氣氛光效/ITX【SFX】,2890,2024-03-17,darkFlash,ITX【SFX】,CPU高13.4,,darkFlash DLH 21 粉
+機殼 CASE,abee AS Enclosure W1 黑 顯卡長31(28)/CPU高15/M-ATX【SFX】,7290,2024-03-17,abee,M-ATX【SFX】,CPU高15,,abee AS Enclosure W1 黑
+機殼 CASE,abee AS Enclosure W1 銀 顯卡長31(28)/CPU高15/M-ATX【SFX】,7290,2024-03-17,abee,M-ATX【SFX】,CPU高15,,abee AS Enclosure W1 銀
+機殼 CASE,abee AS Enclosure W1 綠 顯卡長31(28)/CPU高15/M-ATX【SFX】,7290,2024-03-17,abee,M-ATX【SFX】,CPU高15,,abee AS Enclosure W1 綠
+機殼 CASE,Fractal Design Ridge 黑 顯卡長33.5(32.5)/厚8.2(5.7)/高13.7(12.5)/CPU高7/ITX【SFX】,4890,2024-03-17,Fractal,ITX【SFX】,CPU高7,,Fractal Design Ridge 黑
+機殼 CASE,Fractal Design Ridge 白 顯卡長33.5(32.5)/厚8.2(5.7)/高13.7(12.5)/CPU高7/ITX【SFX】,4890,2024-03-17,Fractal,ITX【SFX】,CPU高7,,Fractal Design Ridge 白
+機殼 CASE,Fractal Design Terra 黑 卡長32.2(厚4.3-7.2)/U高7.7(4.8)/鋁機身/胡桃木面板/ITX【SFX】,6790,2024-03-17,Fractal,ITX【SFX】,U高7.7(4.8),,Fractal Design Terra 黑
+機殼 CASE,Fractal Design Terra 銀 卡長32.2(厚4.3-7.2)/U高7.7(4.8)/鋁機身/胡桃木面板/ITX【SFX】,6790,2024-03-17,Fractal,ITX【SFX】,U高7.7(4.8),,Fractal Design Terra 銀
+機殼 CASE,Fractal Design Terra 綠 卡長32.2(厚4.3-7.2)/U高7.7(4.8)/鋁機身/胡桃木面板/ITX【SFX】,6790,2024-03-17,Fractal,ITX【SFX】,U高7.7(4.8),,Fractal Design Terra 綠
+機殼 CASE,華碩 TUF Gaming GT301 /玻璃透側/ATX+華碩 TUF GAMING 650W銅牌電源 現省$490,4390,2024-03-17,華碩,ATX+華碩 TUF GAMING 650W銅牌電源 現省$490,,玻璃,華碩 TUF Gaming GT301 黑 + 華碩 TUF GAMING 650W 銅牌電源
+機殼 CASE,華碩 Prime AP201 TG 黑/玻璃透側/M-ATX + 華碩 PRIME 750W/金牌/ATX3.0/全模電源,4890,2024-03-17,華碩,ATX3.0,,玻璃,華碩 Prime AP201 TG 黑 + 華碩 PRIME 750W
+機殼 CASE,華碩 Prime AP201 TG 白/玻璃透側/M-ATX + 華碩 PRIME 750W/金牌/ATX3.0/全模電源,4990,2024-03-17,華碩,ATX3.0,,玻璃,華碩 Prime AP201 TG 白 + 華碩 PRIME 750W
+機殼 CASE,華碩 A21 黑 顯卡長38/CPU高16.5/玻璃透側/支援背插/M-ATX 送振華 12cm冰渦輪風扇*1,1490,2024-03-17,華碩,M-ATX 送振華 12cm冰渦輪風扇*1,CPU高16.5,玻璃,華碩 A21 黑
+機殼 CASE,華碩 A21 白 顯卡長38/CPU高16.5/玻璃透側/支援背插/M-ATX 送振華 12cm冰渦輪風扇*1,1590,2024-03-17,華碩,M-ATX 送振華 12cm冰渦輪風扇*1,CPU高16.5,玻璃,華碩 A21 白
+機殼 CASE,華碩 A21 PLUS 黑 顯卡長38/CPU高16.5/玻璃透側/ARGB風扇*4/支援背插/M-ATX,1990,2024-03-17,華碩,M-ATX,CPU高16.5,玻璃,華碩 A21 PLUS 黑
+機殼 CASE,華碩 Prime AP201 黑 顯卡長33.8/CPU高17/方形進氣孔/前置Type-C/M-ATX,1890,2024-03-17,華碩,M-ATX,CPU高17,,華碩 Prime AP201 黑
+機殼 CASE,華碩 Prime AP201 白 顯卡長33.8/CPU高17/方形進氣孔/前置Type-C/M-ATX,1990,2024-03-17,華碩,M-ATX,CPU高17,,華碩 Prime AP201 白
+機殼 CASE,華碩 Prime AP201 TG 黑 顯卡長33.8/CPU高17/玻璃透側/前置Type-C/M-ATX,1990,2024-03-17,華碩,M-ATX,CPU高17,玻璃,華碩 Prime AP201 TG 黑
+機殼 CASE,華碩 Prime AP201 TG 白 顯卡長33.8/CPU高17/玻璃透側/前置Type-C/M-ATX,2090,2024-03-17,華碩,M-ATX,CPU高17,玻璃,華碩 Prime AP201 TG 白
+機殼 CASE,華碩 TUF Gaming GT301 顯卡長32/CPU高16/耳機架/玻璃透側/ATX,2390,2024-03-17,華碩,ATX,CPU高16,玻璃,華碩 TUF Gaming GT301
+機殼 CASE,華碩 TUF Gaming GT302 ARGB 黑 顯卡長40.7/U高16.5/玻璃透側/支援背插/E-ATX,3490,2024-03-17,華碩,E-ATX,U高16.5,玻璃,華碩 TUF Gaming GT302 ARGB 黑
+機殼 CASE,華碩 TUF Gaming GT302 ARGB 白 顯卡長40.7/U高16.5/玻璃透側/支援背插/E-ATX,3690,2024-03-17,華碩,E-ATX,U高16.5,玻璃,華碩 TUF Gaming GT302 ARGB 白
+機殼 CASE,華碩 TUF Gaming GT501VC 顯卡長42/CPU高18/玻璃透側/無攜行把手,3790,2024-03-17,華碩,,CPU高18,玻璃,華碩 TUF Gaming GT501VC
+機殼 CASE,華碩 TUF Gaming GT501 顯卡長42/CPU高18/玻璃透側/ATX,3990,2024-03-17,華碩,ATX,CPU高18,玻璃,華碩 TUF Gaming GT501
+機殼 CASE,華碩 TUF Gaming GT501 白色版 顯卡長42/CPU高18/玻璃透側/ATX,4290,2024-03-17,華碩,ATX,CPU高18,玻璃,華碩 TUF Gaming GT501 白色版
+機殼 CASE,華碩 TUF Gaming GT502 顯卡長40/CPU高16.3/分艙設計/顯卡支架/玻璃透側/ATX▼下殺到 3/31 20:00,3990,2024-03-17,華碩,ATX▼下殺到 3,CPU高16.3,玻璃,華碩 TUF Gaming GT502
+機殼 CASE,華碩 TUF Gaming GT502 白色版 顯卡長40/CPU高16.3/分艙設計/玻璃透側/ATX,4790,2024-03-17,華碩,ATX,CPU高16.3,玻璃,華碩 TUF Gaming GT502 白色版
+機殼 CASE,華碩 TUF Gaming GT502 白色版 /ATX + TUF Gaming TF120 ARGB(白) 三風扇組！,5290,2024-03-17,華碩,ATX + TUF Gaming TF120 ARGB(白) 三風扇組！,,,華碩 TUF Gaming GT502 白色版
+機殼 CASE,華碩 ProArt PA602 顯卡長45/CPU高19/玻璃透側/紅外線灰塵偵測/E-ATX,6490,2024-03-17,華碩,E-ATX,CPU高19,玻璃,華碩 ProArt PA602 紅
+機殼 CASE,華碩 ROG Strix Helios 顯卡長45/CPU高19/玻璃透側/E-ATX,8990,2024-03-17,華碩,E-ATX,CPU高19,玻璃,華碩 ROG Strix Helios
+機殼 CASE,華碩 ROG Strix Helios /玻璃透側/E-ATX + 華碩 ROG RYUO III 360 ARGB 龍王水冷,15888,2024-03-17,華碩,E-ATX + 華碩 ROG RYUO III 360 ARGB 龍王水冷,,玻璃,華碩 ROG Strix Helios / 華碩 ROG RYUO III 360 ARGB
+機殼 CASE,華碩 ROG Strix Helios 白色版 顯卡長45/CPU高19/玻璃透側/E-ATX,9990,2024-03-17,華碩,E-ATX,CPU高19,玻璃,華碩 ROG Strix Helios 白色版
+機殼 CASE,華碩 ROG Strix Helios 白色版/玻璃透側/E-ATX+ROG RYUO III 360 ARGB(白)龍王水冷,16888,2024-03-17,華碩,E-ATX+ROG RYUO III 360 ARGB(白)龍王水冷,,玻璃,華碩 ROG Strix Helios 白色版 + ROG RYUO III 360 ARGB(白)
+機殼 CASE,華碩 ROG Hyperion GR701 創世神 顯卡長46/CPU高19/玻璃透側/E-ATX,13990,2024-03-17,華碩,E-ATX,CPU高19,玻璃,華碩 ROG Hyperion GR701 創世神
+機殼 CASE,華碩 ROG Hyperion GR701 創世神 白色版 顯卡長46/CPU高19/玻璃透側/E-ATX,14990,2024-03-17,華碩,E-ATX,CPU高19,玻璃,華碩 ROG Hyperion GR701 白色版
+機殼 CASE,華碩 ROG Hyperion EVA-02 限定版 顯卡長46/CPU高19/玻璃透側/E-ATX,15990,2024-03-17,華碩,E-ATX,CPU高19,玻璃,華碩 ROG Hyperion EVA-02 限定版
+機殼 CASE,視博通 MW-III 卡35/玻璃透側/E-ATX+全漢 HYDRO GSM PRO 650W/金牌/半模 省$590,3390,2024-03-17,視博通,E-ATX+全漢 HYDRO GSM PRO 650W,,玻璃,視博通 MW-III 卡35
+機殼 CASE,視博通 蒼龍戰士 + 視博通 450W電源(2年) 顯卡長30/CPU高15/ATX,1190,2024-03-17,視博通,ATX,CPU高15,,視博通 蒼龍戰士
+機殼 CASE,視博通 LAM211D + 視博通 500W電源(2年) 顯卡長33/CPU高16/側掀玻璃/M-ATX,1990,2024-03-17,視博通,M-ATX,CPU高16,玻璃,視博通 LAM211D
+機殼 CASE,視博通 影武戰士 PRO + 內附全漢F650 銅牌電源(5年)/12cm 風扇*5/壓克力透側/ATX,2390,2024-03-17,視博通,ATX,,,視博通 影武戰士 PRO黑
+機殼 CASE,視博通 小尖兵 PRO 黑 顯卡長29/CPU高18/雙面透側/前置Type-C/M-ATX,1690,2024-03-17,視博通,M-ATX,CPU高18,,視博通 小尖兵 PRO 黑
+機殼 CASE,視博通 小尖兵 PRO 白 顯卡長29/CPU高18/雙面透側/前置Type-C/M-ATX,1790,2024-03-17,視博通,M-ATX,CPU高18,,視博通 小尖兵 PRO 白
+機殼 CASE,視博通 小至尊 顯卡長33/CPU高14/前置讀卡機/M-ATX,890,2024-03-17,視博通,M-ATX,CPU高14,,視博通 小至尊
+機殼 CASE,視博通 鬥魂者 V2 顯卡長28/CPU高16/ATX,890,2024-03-17,視博通,ATX,CPU高16,,視博通 鬥魂者 V2
+機殼 CASE,視博通 鬥魂者 PLUS 顯卡長28/CPU高16/前置Type-C/壓克力透側/ATX,1090,2024-03-17,視博通,ATX,CPU高16,,視博通 鬥魂者 PLUS 黑
+機殼 CASE,視博通 影武戰士 PRO 顯卡長36.5/CPU高15.8/含12cm 風扇*5/壓克力透側/ATX,1290,2024-03-17,視博通,ATX,CPU高15.8,,視博通 影武戰士 PRO 黑
+機殼 CASE,視博通 神印戰士 顯卡長36.5/CPU高15.8/壓克力透側/ATX,1290,2024-03-17,視博通,ATX,CPU高15.8,,視博通 神印戰士
+機殼 CASE,視博通 SAK251 黑 顯卡長33.5/U高16.8/前置Type-C/玻璃透側/支援背插主機板/M-ATX,1790,2024-03-17,視博通,M-ATX,U高16.8,玻璃,視博通 SAK251 黑
+機殼 CASE,視博通 SAK251 白 顯卡長33.5/U高16.8/前置Type-C/玻璃透側/支援背插主機板/M-ATX,1890,2024-03-17,視博通,M-ATX,U高16.8,玻璃,視博通 SAK251 白
+機殼 CASE,視博通 LAI099 黑 顯卡長37.5/CPU高18/玻璃透側/E-ATX,1690,2024-03-17,視博通,E-ATX,CPU高18,玻璃,視博通 LAI099 黑
+機殼 CASE,視博通 LAI099 白 顯卡長37.5/CPU高18/玻璃透側/E-ATX,1790,2024-03-17,視博通,E-ATX,CPU高18,玻璃,視博通 LAI099 白
+機殼 CASE,視博通 LAI099 ARGB 黑 顯卡長37.5/CPU高18/玻璃透側/E-ATX,1990,2024-03-17,視博通,E-ATX,CPU高18,玻璃,視博通 LAI099 ARGB 黑
+機殼 CASE,視博通 LAI099 ARGB 白 顯卡長37.5/CPU高18/玻璃透側/E-ATX,2090,2024-03-17,視博通,E-ATX,CPU高18,玻璃,視博通 LAI099 ARGB 白
+機殼 CASE,視博通 MW-III 顯卡長35/CPU高16.5/網孔面板+燈條/玻璃透側/E-ATX,1590,2024-03-17,視博通,E-ATX,CPU高16.5,玻璃,視博通 MW-III 黑
+機殼 CASE,視博通 SW300 M 黑 顯卡長35/CPU高16.6/前置Type-C/下壓式防塵網/玻璃透側/M-ATX,1490,2024-03-17,視博通,M-ATX,CPU高16.6,玻璃,視博通 SW300 M 黑
+機殼 CASE,視博通 SW300 M 白 顯卡長35/CPU高16.6/前置Type-C/下壓式防塵網/玻璃透側/M-ATX,1590,2024-03-17,視博通,M-ATX,CPU高16.6,玻璃,視博通 SW300 M 白
+機殼 CASE,視博通 SW300 黑 顯卡長34.5/CPU高16.3/前置Type-C/彈壓式防塵網/玻璃透側/E-ATX,1890,2024-03-17,視博通,E-ATX,CPU高16.3,玻璃,視博通 SW300 黑
+機殼 CASE,視博通 SW300 白 顯卡長34.5/CPU高16.3/前置Type-C/彈壓式防塵網/玻璃透側/E-ATX,1990,2024-03-17,視博通,E-ATX,CPU高16.3,玻璃,視博通 SW300 白
+機殼 CASE,視博通 幻彩男爵 黑 顯卡長34.5/CPU高16.3/20cm風扇*2/前置Type-C/玻璃透側/E-ATX,1890,2024-03-17,視博通,E-ATX,CPU高16.3,玻璃,視博通 幻彩男爵 黑
+機殼 CASE,視博通 幻彩男爵 白 顯卡長34.5/CPU高16.3/20cm風扇*2/前置Type-C/玻璃透側/E-ATX,1990,2024-03-17,視博通,E-ATX,CPU高16.3,玻璃,視博通 幻彩男爵 白
+機殼 CASE,全漢 CST130 Basic 黑 顯卡長30/CPU高16.5/壓克力透側/M-ATX,1090,2024-03-17,全漢,M-ATX,CPU高16.5,,全漢 CST130 Basic 黑
+機殼 CASE,全漢 CST130 Basic 白 顯卡長30/CPU高16.5/壓克力透側/M-ATX,1190,2024-03-17,全漢,M-ATX,CPU高16.5,,全漢 CST130 Basic 白
+機殼 CASE,全漢 CST320 靜化論 顯卡長39.3/CPU高16/靜音設計/M-ATX,1590,2024-03-17,全漢,M-ATX,CPU高16,,全漢 CST320 靜化論
+機殼 CASE,全漢 CST350(BG) 黑 顯卡長24.5(32)/U高15.5(8.8)/玻璃透側/M-ATX【配置參考連結】,1890,2024-03-17,全漢,M-ATX【配置參考連結】,U高15.5(8.8),玻璃,全漢 CST350(BG) 黑
+機殼 CASE,全漢 CST350 白 顯卡長24.5(32)/CPU高15.5(8.8)/M-ATX 【空間配置,1690,2024-03-17,全漢,M-ATX 【空間配置,CPU高15.5(8.8),,全漢 CST350 白
+機殼 CASE,全漢 CST350 PLUS 顯卡長24.5(32)/U高15.5(8.8)/M-ATX 【空間配置,1990,2024-03-17,全漢,M-ATX 【空間配置,U高15.5(8.8),,全漢 CST350 PLUS
+機殼 CASE,全漢 CST351 顯卡長33.6/CPU高13.8(9)/底部ARGB氣氛燈/前置Type-C/ITX【SFX】,1990,2024-03-17,全漢,ITX【SFX】,CPU高13.8(9),,全漢 CST351黑
+機殼 CASE,全漢 CST352 黑 顯卡長35.5(28.4)/CPU高16.6/內附上置擴展倉/M-ATX,1990,2024-03-17,全漢,M-ATX,CPU高16.6,,全漢 CST352 黑
+機殼 CASE,全漢 CST352 白 顯卡長35.5(28.4)/CPU高16.6/內附上置擴展倉/M-ATX,2090,2024-03-17,全漢,M-ATX,CPU高16.6,,全漢 CST352 白
+機殼 CASE,全漢 CST360 黑 顯卡長37/CPU高16.5/玻璃透側/前置Type-C/M-ATX,1690,2024-03-17,全漢,M-ATX,CPU高16.5,玻璃,全漢 CST360 黑
+機殼 CASE,全漢 CST360 白 顯卡長37/CPU高16.5/玻璃透側/前置Type-C/M-ATX,1790,2024-03-17,全漢,M-ATX,CPU高16.5,玻璃,全漢 CST360 白
+機殼 CASE,全漢 CMT195B 黑/顯卡長34/CPU高16/鑽切造型面板/壓克力透側/ATX,990,2024-03-17,全漢,ATX,CPU高16,,全漢 CMT195B 黑
+機殼 CASE,全漢 CMT195W 白/顯卡長34/CPU高16/鑽切造型面板/壓克力透側/ATX,1090,2024-03-17,全漢,ATX,CPU高16,,全漢 CMT195W 白
+機殼 CASE,全漢 CMT211B 黑 顯卡長32/CPU高16/4風扇/ARGB燈條網孔面板/玻璃透側/ATX,1090,2024-03-17,全漢,ATX,CPU高16,玻璃,全漢 CMT211B 黑
+機殼 CASE,全漢 CMT211W 白 顯卡長32/CPU高16/4風扇/ARGB燈條網孔面板/玻璃透側/ATX,1190,2024-03-17,全漢,ATX,CPU高16,玻璃,全漢 CMT211W 白
+機殼 CASE,全漢 CMT212B 黑 顯卡長32/CPU高16/4風扇/前置Type-C/玻璃透側/ATX,1390,2024-03-17,全漢,ATX,CPU高16,玻璃,全漢 CMT212B 黑
+機殼 CASE,全漢 CMT223S 靜音機殼 顯卡長30/CPU高16/內建4風扇/ATX,1590,2024-03-17,全漢,ATX,CPU高16,,全漢 CMT223S 靜音機殼
+機殼 CASE,全漢 CMT271 闇星爵 顯卡長32.5/CPU高17/ATX,990,2024-03-17,全漢,ATX,CPU高17,,全漢 CMT271 闇星爵
+機殼 CASE,全漢 CMT280B V2 顯卡長40/CPU高16.3/壓克力透側/ATX,1090,2024-03-17,全漢,ATX,CPU高16.3,,全漢 CMT280B V2 黑
+機殼 CASE,全漢 CMT370 顯卡長41.5/CPU高16.5/多硬碟推薦/顯卡長41(28)/前置Type-C/ATX,1990,2024-03-17,全漢,ATX,顯卡長41(28),,全漢 CMT370
+機殼 CASE,全漢 CMT371 顯卡長41.5/CPU高16.3/玻璃透側/前置Type-C/E-ATX,2190,2024-03-17,全漢,E-ATX,CPU高16.3,玻璃,全漢 CMT371 黑
+機殼 CASE,全漢 CMT580B 黑 顯卡長32.5/CPU高16/垂直風道/玻璃透側/E-ATX,2390,2024-03-17,全漢,E-ATX,CPU高16,玻璃,全漢 CMT580B 黑
+機殼 CASE,全漢 CMT580W 白 顯卡長32.5/CPU高16/垂直風道/玻璃透側/E-ATX,2590,2024-03-17,全漢,E-ATX,CPU高16,玻璃,全漢 CMT580W 白
+機殼 CASE,全漢 CUT592 顯卡長40/CPU高17.5/14cm A.RGB風扇*4/側掀玻璃側板/E-ATX,2690,2024-03-17,全漢,E-ATX,CPU高17.5,玻璃,全漢 CUT592 黑
+機殼 CASE,全漢 CUT593 黑 顯卡長40/CPU高17.5/側掀玻璃側板/E-ATX,2490,2024-03-17,全漢,E-ATX,CPU高17.5,玻璃,全漢 CUT593 黑
+機殼 CASE,全漢 CUT593 白 顯卡長40/CPU高17.5/側掀玻璃側板/E-ATX,2590,2024-03-17,全漢,E-ATX,CPU高17.5,玻璃,全漢 CUT593 白
+機殼 CASE,全漢 CUT593 Premium 黑 顯卡長40/U高17.5/雙玻璃側板/內建模組化線材/雙面板/ATX,3790,2024-03-17,全漢,ATX,U高17.5,玻璃,全漢 CUT593 Premium 黑
+機殼 CASE,全漢 CUT593 Premium 白 顯卡長40/U高17.5/雙玻璃側板/內建模組化線材/雙面板/ATX,3890,2024-03-17,全漢,ATX,U高17.5,玻璃,全漢 CUT593 Premium 白
+機殼 CASE,全漢 CUT610 顯卡長39/CPU高18/壓克力透側/支援 9個PCI slot/E-ATX,2990,2024-03-17,全漢,E-ATX,CPU高18,,全漢 CUT610 黑
+機殼 CASE,微星 MAG FORGE M100A 顯卡長30/CPU高16/壓克力透側/M-ATX,1390,2024-03-17,微星,M-ATX,CPU高16,,微星 MAG FORGE M100A
+機殼 CASE,微星 MAG FORGE M100R 顯卡長30/CPU高16/玻璃透側/M-ATX,1790,2024-03-17,微星,M-ATX,CPU高16,玻璃,微星 MAG FORGE M100R
+機殼 CASE,微星 MAG FORGE 100R 顯卡長33/CPU高16/玻璃透側/A.RGB/ATX,1890,2024-03-17,微星,ATX,CPU高16,玻璃,微星 MAG FORGE 100R
+機殼 CASE,微星 MAG FORGE 110R 顯卡長33/CPU高16/壓克力透側/ATX,1590,2024-03-17,微星,ATX,CPU高16,,微星 MAG FORGE 110R
+機殼 CASE,微星 MAG FORGE 320R AIRFLOW 顯卡長39/CPU高16/玻璃透側/ATX▼下殺到 3/31 20:00,1890,2024-03-17,微星,ATX▼下殺到 3,CPU高16,玻璃,微星 MAG FORGE 320R AIRFLOW
+機殼 CASE,微星 MAG VAMPIRIC 100R 顯卡長30/CPU高16/玻璃透側/A.RGB/ATX,1590,2024-03-17,微星,ATX,CPU高16,玻璃,微星 MAG VAMPIRIC 100R黑
+機殼 CASE,微星 MAG VAMPIRIC 300R 顯卡長38/CPU高17.5/玻璃透側/含顯卡支撐架/ATX,2690,2024-03-17,微星,ATX,CPU高17.5,玻璃,微星 MAG VAMPIRIC 300R黑
+機殼 CASE,微星 MAG PANO M100R PZ 黑 顯卡長39/U高17.5/全景玻璃透側/支援背插板/M-ATX,2990,2024-03-17,微星,M-ATX,U高17.5,玻璃,微星 MAG PANO M100R PZ 黑
+機殼 CASE,微星 MPG GUNGNIR 110R 顯卡長34/CPU高17/玻璃面板/玻璃透側/ATX,2590,2024-03-17,微星,ATX,CPU高17,玻璃,微星 MPG GUNGNIR 110R
+機殼 CASE,微星 MPG GUNGNIR 110R WHITE 顯卡長34/CPU高17/玻璃面板/玻璃透側/ATX,2890,2024-03-17,微星,ATX,CPU高17,玻璃,微星 MPG GUNGNIR 110R WHITE
+機殼 CASE,微星 MPG GUNGNIR 110R WHITE/ATX+微星 A850GL PCIE5 WHITE 850W 省$790！,6090,2024-03-17,微星,ATX+微星 A850GL PCIE5 WHITE 850W 省$790！,,,微星 MPG GUNGNIR 110R WHITE + 微星 A850GL PCIE5 WHITE 850W
+機殼 CASE,微星 MPG GUNGNIR 300R AIRFLOW 顯卡長36/U高17.5/玻璃透側/顯卡支架/E-ATX,4990,2024-03-17,微星,E-ATX,U高17.5,玻璃,微星 MPG GUNGNIR 300R AIRFLOW
+機殼 CASE,微星 MPG GUNGNIR 300R AIRFLOW WHITE 顯卡長36/U高17.5/玻璃透側/E-ATX,5390,2024-03-17,微星,E-ATX,U高17.5,玻璃,微星 MPG GUNGNIR 300R AIRFLOW WHITE
+機殼 CASE,微星 MPG GUNGNIR 300P AIRFLOW 顯卡長36/U高17.5/玻璃透側/PCIe延長線/E-ATX,5390,2024-03-17,微星,E-ATX,U高17.5,玻璃,微星 MPG GUNGNIR 300P AIRFLOW
+機殼 CASE,微星 MPG VELOX 100P AIRFLOW 顯卡長38/U高17.5/玻璃透側/ATX▼下殺到 3/31 20:00,2990,2024-03-17,微星,ATX▼下殺到 3,U高17.5,玻璃,微星 MPG VELOX 100P AIRFLOW
+機殼 CASE,微星 MPG VELOX 100R 顯卡長38/CPU高17.5/玻璃透側/ATX,3990,2024-03-17,微星,ATX,CPU高17.5,玻璃,微星 MPG VELOX 100R
+機殼 CASE,微星 MPG VELOX 100R WHITE 顯卡長38/CPU高17.5/玻璃透側/ATX 送PCI-E延長線！,4190,2024-03-17,微星,ATX 送PCI-E延長線！,CPU高17.5,玻璃,微星 MPG VELOX 100R WHITE
+機殼 CASE,微星 MPG VELOX 100R WHITE/ATX+微星 A850GL PCIE5 WHITE 850W 現省$790！,7390,2024-03-17,微星,ATX+微星 A850GL PCIE5 WHITE 850W 現省$790！,,,微星 MPG VELOX 100R WHITE + 微星 A850GL PCIE5 WHITE 850W
+機殼 CASE,微星 MEG PROSPECT 700R 顯卡長40/U高18.5/4.3吋觸控面板/玻璃透側/E-ATX 客訂,12590,2024-03-17,微星,E-ATX 客訂,U高18.5,玻璃,微星 MEG PROSPECT 700R
+機殼 CASE,技嘉 C200 GLASS 顯卡長33/CPU高16.5/RGB/玻璃透側/ATX,1590,2024-03-17,技嘉,ATX,CPU高16.5,玻璃,技嘉 C200 GLASS
+機殼 CASE,技嘉 C301 GLASS 顯卡長40/CPU高17/玻璃透側/E-ATX,2290,2024-03-17,技嘉,E-ATX,CPU高17,玻璃,技嘉 C301 GLASS
+機殼 CASE,技嘉 C301 GLASS WHITE 顯卡長40/CPU高17/玻璃透側/E-ATX,2490,2024-03-17,技嘉,E-ATX,CPU高17,玻璃,技嘉 C301 GLASS WHITE
+機殼 CASE,技嘉 AORUS C300 GLASS 顯卡長40/CPU高17/玻璃透側/ATX,3390,2024-03-17,技嘉,ATX,CPU高17,玻璃,技嘉 AORUS C300 GLASS
+機殼 CASE,技嘉 AORUS C500 GLASS 顯卡長42/CPU高19/玻璃透側/E-ATX,5490,2024-03-17,技嘉,E-ATX,CPU高19,玻璃,技嘉 AORUS C500 GLASS
+機殼 CASE,darkFlash MOTI 鏡之島 黑 顯卡長39/CPU高17/全景玻璃透側/M-ATX,2390,2024-03-17,darkFlash,M-ATX,CPU高17,玻璃,darkFlash MOTI 鏡之島 黑
+機殼 CASE,darkFlash MOTI 鏡之島 黑 /玻璃透側/M-ATX + darkFlash DM12R PRO(黑) 反向扇x3,2990,2024-03-17,darkFlash,M-ATX + darkFlash DM12R PRO(黑) 反向扇x3,,玻璃,darkFlash MOTI 鏡之島 黑
+機殼 CASE,darkFlash DK210 塗鴉版 顯卡長36/CPU高16/玻璃透側/A.RGB燈效玻璃面板/ATX,1690,2024-03-17,darkFlash,ATX,CPU高16,玻璃,darkFlash DK210 塗鴉版
+機殼 CASE,darkFlash DK353 黑 顯卡長34/U高16.5/12cm彩虹扇*4(明暗,1190,2024-03-17,darkFlash,,U高16.5,,darkFlash DK353 黑
+機殼 CASE,darkFlash DK353 白 顯卡長34/U高16.5/12cm彩虹扇*4(明暗,1290,2024-03-17,darkFlash,,U高16.5,,darkFlash DK353 白
+機殼 CASE,darkFlash DK431 黑 顯卡長40/CPU高16/側掀玻璃/右側風口/E-ATX,1690,2024-03-17,darkFlash,E-ATX,CPU高16,玻璃,darkFlash DK431 黑
+機殼 CASE,darkFlash DK431 黑/側掀玻璃/E-ATX + darkFlash DX-240 Ver2.6 水冷(黑) 現省$500,3890,2024-03-17,darkFlash,E-ATX + darkFlash DX-240 Ver2.6 水冷(黑) 現省$500,,玻璃,darkFlash DK431 黑 + darkFlash DX-240 Ver2.6 水冷(黑)
+機殼 CASE,darkFlash DK431 白 顯卡長40/CPU高16/側掀玻璃/右側風口/E-ATX,1790,2024-03-17,darkFlash,E-ATX,CPU高16,玻璃,darkFlash DK431 白
+機殼 CASE,darkFlash DK431 白/側掀玻璃/E-ATX + darkFlash DX-240 Ver2.6 水冷(白) 現省$500,4090,2024-03-17,darkFlash,E-ATX + darkFlash DX-240 Ver2.6 水冷(白) 現省$500,,玻璃,darkFlash DK431 白 + darkFlash DX-240 Ver2.6 水冷(白)
+機殼 CASE,darkFlash DK431 粉 顯卡長40/CPU高16/側掀玻璃/右側風口/E-ATX,1890,2024-03-17,darkFlash,E-ATX,CPU高16,玻璃,darkFlash DK431 粉
+機殼 CASE,darkFlash DK431 粉/側掀玻璃/E-ATX + darkFlash DX-240 Ver2.6 水冷(粉) 現省$600,4090,2024-03-17,darkFlash,E-ATX + darkFlash DX-240 Ver2.6 水冷(粉) 現省$600,,玻璃,darkFlash DK431 粉
+機殼 CASE,darkFlash DLH 21 黑 顯卡(32*14.7*6)/CPU高13.4/底部氣氛光效/ITX【SFX】,2790,2024-03-17,darkFlash,ITX【SFX】,CPU高13.4,,darkFlash DLH 21 黑
+機殼 CASE,darkFlash DLH 21 白 顯卡(32*14.7*6)/CPU高13.4/底部氣氛光效/ITX【SFX】,2890,2024-03-17,darkFlash,ITX【SFX】,CPU高13.4,,darkFlash DLH 21 白
+機殼 CASE,darkFlash DLH 21 粉 顯卡(32*14.7*6)/CPU高13.4/底部氣氛光效/ITX【SFX】,2890,2024-03-17,darkFlash,ITX【SFX】,CPU高13.4,,darkFlash DLH 21 粉
+機殼 CASE,darkFlash DLM 21 黑 顯卡長33/U高16/A.RGB模組扇*4/網孔面板/側掀玻璃/M-ATX,1680,2024-03-17,darkFlash,M-ATX,U高16,玻璃,darkFlash DLM 21 黑
+機殼 CASE,darkFlash DLM 21 白 顯卡長33/U高16/A.RGB白框模組扇*4/網孔面板/側掀玻璃/M-ATX,1780,2024-03-17,darkFlash,M-ATX,U高16,玻璃,darkFlash DLM 21 白
+機殼 CASE,darkFlash DLM 21 白 顯卡長33/U高16/網孔面板/側掀玻璃/M-ATX + LP30 ARGB燈板,1890,2024-03-17,darkFlash,M-ATX + LP30 ARGB燈板,U高16,玻璃,darkFlash DLM 21 白
+機殼 CASE,darkFlash DLM 21 粉 顯卡長33/U高16/A.RGB粉框模組扇*4/網孔面板/側掀玻璃/M-ATX,1880,2024-03-17,darkFlash,M-ATX,U高16,玻璃,darkFlash DLM 21 粉
+機殼 CASE,darkFlash DLX 21 黑 顯卡長40/CPU高18/含顯卡支架/A.RGB模組扇*4/側掀玻璃/E-ATX,2480,2024-03-17,darkFlash,E-ATX,CPU高18,玻璃,darkFlash DLX 21 黑
+機殼 CASE,darkFlash DLX 21 白 顯卡長40/CPU高18/含顯卡支架/A.RGB模組扇*4/側掀玻璃/E-ATX,2580,2024-03-17,darkFlash,E-ATX,CPU高18,玻璃,darkFlash DLX 21 白
+機殼 CASE,darkFlash DLZ 31 黑橘 顯卡長39/CPU高17.2/A.RGB 14cm風扇*4/側掀玻璃/ATX,3190,2024-03-17,darkFlash,ATX,CPU高17.2,玻璃,darkFlash DLZ 31 黑橘
+機殼 CASE,darkFlash DLZ 31 黑橘/側掀玻璃/ATX + darkFlash DX-360 Ver2.6 水冷(黑) 現省$800,5990,2024-03-17,darkFlash,ATX + darkFlash DX-360 Ver2.6 水冷(黑) 現省$800,,玻璃,darkFlash DLZ 31 黑橘 + darkFlash DX-360 Ver2.6 水冷(黑)
+機殼 CASE,darkFlash DLZ 31 白色 顯卡長39/CPU高17.2/A.RGB 14cm風扇*4/側掀玻璃/ATX,3290,2024-03-17,darkFlash,ATX,CPU高17.2,玻璃,darkFlash DLZ 31 白色
+機殼 CASE,darkFlash DLZ 31 白色/側掀玻璃/ATX + darkFlash DX-360 Ver2.6 水冷(白) 現省$900,6090,2024-03-17,darkFlash,ATX + darkFlash DX-360 Ver2.6 水冷(白) 現省$900,,玻璃,darkFlash DLZ 31 白色 + darkFlash DX-360 Ver2.6 水冷(白)
+機殼 CASE,COUGAR Dust 2 鐵灰 顯卡長33(高6)/CPU高7/提把設計/含PCIe延長線/ITX,4890,2024-03-17,COUGAR,ITX,CPU高7,,COUGAR Dust 2 鐵灰
+機殼 CASE,COUGAR Dust 2 沙漠黃 顯卡長33(高6)/CPU高7/提把設計/含PCIe延長線/ITX,4890,2024-03-17,COUGAR,ITX,CPU高7,,COUGAR Dust 2 沙漠黃
+機殼 CASE,COUGAR PURITY RGB 黑 顯卡長30.5/CPU高16/側掀玻璃/M-ATX,1390,2024-03-17,COUGAR,M-ATX,CPU高16,玻璃,COUGAR PURITY RGB 黑
+機殼 CASE,COUGAR PURITY RGB 白 顯卡長30.5/CPU高16/側掀玻璃/M-ATX,1390,2024-03-17,COUGAR,M-ATX,CPU高16,玻璃,COUGAR PURITY RGB 白
+機殼 CASE,COUGAR MG120-G 玻璃透側/顯卡長33/CPU高17.5/M-ATX,1190,2024-03-17,COUGAR,M-ATX,CPU高17.5,玻璃,COUGAR MG120-G 玻璃透側
+機殼 CASE,COUGAR MG140 Air RGB 黑 顯卡長35/CPU高16/玻璃透側/M-ATX,1990,2024-03-17,COUGAR,M-ATX,CPU高16,玻璃,COUGAR MG140 Air RGB 黑
+機殼 CASE,COUGAR MG140 Air RGB 白 顯卡長35/CPU高16/玻璃透側/M-ATX,1990,2024-03-17,COUGAR,M-ATX,CPU高16,玻璃,COUGAR MG140 Air RGB 白
+機殼 CASE,COUGAR MX360 RGB 顯卡長31.5/CPU高17/玻璃透側/ATX,1390,2024-03-17,COUGAR,ATX,CPU高17,玻璃,COUGAR MX360 RGB
+機殼 CASE,COUGAR MX430 Air RGB 黑 玻璃透側/顯卡長32/CPU高17.5/ATX,2390,2024-03-17,COUGAR,ATX,CPU高17.5,玻璃,COUGAR MX430 Air RGB 黑
+機殼 CASE,COUGAR MX430 Air RGB 白 玻璃透側/顯卡長32/CPU高17.5/ATX,2390,2024-03-17,COUGAR,ATX,CPU高17.5,玻璃,COUGAR MX430 Air RGB 白
+機殼 CASE,COUGAR MX600 RGB 黑 顯卡長40/CPU高18/玻璃透側/方形進氣孔/E-ATX,3290,2024-03-17,COUGAR,E-ATX,CPU高18,玻璃,COUGAR MX600 RGB 黑
+機殼 CASE,COUGAR MX600 RGB 白 顯卡長40/CPU高18/玻璃透側/方形進氣孔/E-ATX,3390,2024-03-17,COUGAR,E-ATX,CPU高18,玻璃,COUGAR MX600 RGB 白
+機殼 CASE,COUGAR Archon 2 RGB 黑 顯卡長31.5/CPU高17/玻璃透側/ATX,1990,2024-03-17,COUGAR,ATX,CPU高17,玻璃,COUGAR Archon 2 RGB 黑
+機殼 CASE,COUGAR Archon 2 RGB 白 顯卡長31.5/CPU高17/玻璃透側/ATX,1990,2024-03-17,COUGAR,ATX,CPU高17,玻璃,COUGAR Archon 2 RGB 白
+機殼 CASE,COUGAR Archon 2 Mesh RGB 黑 顯卡長31.5/CPU高17/玻璃透側/ATX 原價$1990！,1690,2024-03-17,COUGAR,ATX 原價$1990！,CPU高17,玻璃,COUGAR Archon 2 Mesh RGB 黑
+機殼 CASE,COUGAR Archon 2 Mesh RGB 白 顯卡長31.5/CPU高17/玻璃透側/ATX 原價$1990！,1690,2024-03-17,COUGAR,ATX 原價$1990！,CPU高17,玻璃,COUGAR Archon 2 Mesh RGB 白
+機殼 CASE,COUGAR Duoface RGB 黑 卡33/U高19/雙面板/Logo燈效/玻璃透側/E-ATX 原價$2490！,1990,2024-03-17,COUGAR,E-ATX 原價$2490！,U高19,玻璃,COUGAR Duoface RGB 黑
+機殼 CASE,COUGAR Duoface RGB 白 卡33/U高19/雙面板/Logo燈效/玻璃透側/E-ATX 原價$2590！,2090,2024-03-17,COUGAR,E-ATX 原價$2590！,U高19,玻璃,COUGAR Duoface RGB 白
+機殼 CASE,COUGAR Duoface Pro RGB 黑 卡39/U高19/雙面板/可拆上蓋,2890,2024-03-17,COUGAR,,U高19,,COUGAR Duoface Pro RGB 黑
+機殼 CASE,COUGAR Duoface Pro RGB 白 卡39/U高19/雙面板/可拆上蓋,2990,2024-03-17,COUGAR,,U高19,,COUGAR Duoface Pro RGB 白
+機殼 CASE,COUGAR DarkBlader-S 顯卡長38/CPU高17/玻璃透側/E-ATX,4690,2024-03-17,COUGAR,E-ATX,CPU高17,玻璃,COUGAR DarkBlader-S黑
+機殼 CASE,COUGAR DarkBlader X7 夜幕綠 顯卡長40/CPU高17/燈條飾板/玻璃透側/E-ATX,2790,2024-03-17,COUGAR,E-ATX,CPU高17,玻璃,COUGAR DarkBlader X7 夜幕綠
+機殼 CASE,COUGAR PANZER EVO RGB 顯卡長39/U高17/玻璃透側/提把設計/E-ATX【客訂】,6690,2024-03-17,COUGAR,E-ATX【客訂】,U高17,玻璃,COUGAR PANZER EVO RGB
+機殼 CASE,COUGAR BLAZER 顯卡長35/U高16/玻璃透側/鋁合金架構/ATX,7890,2024-03-17,COUGAR,ATX,U高16,玻璃,COUGAR BLAZER 黑
+機殼 CASE,COUGAR CONQUER(5LMR) 顯卡長35/CPU高19/玻璃透側/ATX 特價原價$8990！,5990,2024-03-17,COUGAR,ATX 特價原價$8990！,CPU高19,玻璃,COUGAR CONQUER(5LMR)
+機殼 CASE,COUGAR CONQUER 2 顯卡長40/CPU高15/ATX 全透視野,9990,2024-03-17,COUGAR,ATX 全透視野,CPU高15,,COUGAR CONQUER 2
+機殼 CASE,COUGAR GEMINI T PRO 顯卡40/U高17/上蓋導光板/鷗翼式玻璃透側/ATX 原價$5890！,3990,2024-03-17,COUGAR,ATX 原價$5890！,U高17,玻璃,COUGAR GEMINI T PRO
+機殼 CASE,COUGAR CRATUS 顯卡長46/CPU高19/3D彎管工藝/四面玻璃透側/E-ATX,16990,2024-03-17,COUGAR,E-ATX,CPU高19,玻璃,COUGAR CRATUS 顯卡長46 黑
+機殼 CASE,亞碩 PM N9 尊爵黑 顯卡長34/CPU高15.5/RGB面板燈飾/SSD*2/ATX,890,2024-03-17,亞碩,ATX,CPU高15.5,,亞碩 PM N9 尊爵黑
+機殼 CASE,亞碩 M1 象牙白 顯卡長35/CPU高17/側掀式玻璃側板/網孔面板/M-ATX 特價原價$1390,990,2024-03-17,亞碩,M-ATX 特價原價$1390,CPU高17,玻璃,亞碩 M1 象牙白
+機殼 CASE,亞碩 M2 花瓣粉 顯卡長35/CPU高17/側掀式玻璃側板/網孔面板/M-ATX 特價原價$1490,1090,2024-03-17,亞碩,M-ATX 特價原價$1490,CPU高17,玻璃,亞碩 M2 花瓣粉
+機殼 CASE,SAMA MG-III 黑 /玻璃透側/ATX + DEEPCOOL AG400 ARGB散熱器 現省$490！,2090,2024-03-17,SAMA,ATX + DEEPCOOL AG400 ARGB散熱器 現省$490！,,玻璃,SAMA MG-III 黑 + DEEPCOOL AG400 ARGB 散熱器
+機殼 CASE,SAMA MG-III 白 /玻璃透側/ATX + DEEPCOOL AG400 WH ARGB(白)散熱器 現省$490！,2290,2024-03-17,SAMA,ATX + DEEPCOOL AG400 WH ARGB(白)散熱器 現省$490！,,玻璃,SAMA MG-III 白 + DEEPCOOL AG400 WH ARGB(白)
+機殼 CASE,SAMA MG-III 白 /玻璃透側/ATX + 全漢 HYDRO GSM PRO 750W/金牌/半模 現省$890！,3690,2024-03-17,SAMA,ATX + 全漢 HYDRO GSM PRO 750W,,玻璃,SAMA MG-III 白
+機殼 CASE,SAMA MG-I 顯卡長34.5/CPU高16/A.RGB面板燈條/玻璃透側/ATX,1390,2024-03-17,SAMA,ATX,CPU高16,玻璃,SAMA MG-I 黑
+機殼 CASE,SAMA MG-II 顯卡長34.5/CPU高16/A.RGB面板燈條/玻璃透側/ATX,1490,2024-03-17,SAMA,ATX,CPU高16,玻璃,SAMA MG-II 黑
+機殼 CASE,SAMA MG-III 黑 顯卡長34.5/U高16/20cm A.RGB風扇/前置Type-C/玻璃透側/ATX,1690,2024-03-17,SAMA,ATX,U高16,玻璃,SAMA MG-III 黑
+機殼 CASE,SAMA MG-III 白 顯卡長34.5/U高16/20cm A.RGB風扇/前置Type-C/玻璃透側/ATX,1790,2024-03-17,SAMA,ATX,U高16,玻璃,SAMA MG-III 白
+機殼 CASE,SAMA SAK702 新鏡界(白) 顯卡長40/U高16.5/全景玻璃透側/支援背插主機板/M-ATX,2990,2024-03-17,SAMA,M-ATX,U高16.5,玻璃,SAMA SAK702 新鏡界(白)
+機殼 CASE,SAMA SAK451 大境界(黑) 顯卡長43/U高18.3/全景玻璃透側/支援背插主機板/ATX,3390,2024-03-17,SAMA,ATX,U高18.3,玻璃,SAMA SAK451 大境界(黑)
+機殼 CASE,SAMA SAK451 大境界(白) 顯卡長43/U高18.3/全景玻璃透側/支援背插主機板/ATX,3490,2024-03-17,SAMA,ATX,U高18.3,玻璃,SAMA SAK451 大境界(白)
+機殼 CASE,旋剛 光影者(RGB) 顯卡長37.5/CPU高16.5/A.RGB風扇/壓克力透側/ATX,1690,2024-03-17,旋剛,ATX,CPU高16.5,,旋剛 光影者(RGB)
+機殼 CASE,旋剛 馭風者(RGB) 顯卡長37.5/CPU高16.5/A.RGB風扇/壓克力透側/ATX,1690,2024-03-17,旋剛,ATX,CPU高16.5,,旋剛 馭風者(RGB)
+機殼 CASE,旋剛 小暴風(S1000) 顯卡長40/CPU高15.5/SSD*2/M-ATX,1190,2024-03-17,旋剛,M-ATX,CPU高15.5,,旋剛 小暴風(S1000)
+機殼 CASE,旋剛 小颶風 RGB(V1000 RGB) 顯卡長40/CPU高15/玻璃透側/M-ATX,1590,2024-03-17,旋剛,M-ATX,CPU高15,玻璃,旋剛 小颶風 RGB(V1000 RGB)
+機殼 CASE,旋剛 MS-Y1000 黑 顯卡長36/CPU高13.5/雙向玻璃側板遮蔽設計/M-ATX,1990,2024-03-17,旋剛,M-ATX,CPU高13.5,玻璃,旋剛 MS-Y1000 黑
+機殼 CASE,旋剛 SK3 飆速者(RGB) 顯卡長33.5/CPU高15.7/A.RGB風扇/玻璃透側/ATX,1290,2024-03-17,旋剛,ATX,CPU高15.7,玻璃,旋剛 SK3 飆速者(RGB)
+機殼 CASE,旋剛 TK5M RGB 顯卡長31(33.5)/CPU高15.7/前置Type-C/玻璃透側/ATX,1690,2024-03-17,旋剛,ATX,CPU高15.7,玻璃,旋剛 TK5M RGB
+機殼 CASE,旋剛 TG7M 天亟者 顯卡長38/CPU高17.2/金屬飾邊面板/玻璃透側/E-ATX,2390,2024-03-17,旋剛,E-ATX,CPU高17.2,玻璃,旋剛 TG7M 天亟者
+機殼 CASE,旋剛 M30 BLACK 顯卡長38/CPU高17.2/E-ATX,1790,2024-03-17,旋剛,E-ATX,CPU高17.2,,旋剛 M30 BLACK
+機殼 CASE,旋剛 M30 RGB 顯卡長38/CPU高17.2/玻璃透側/E-ATX,2390,2024-03-17,旋剛,E-ATX,CPU高17.2,玻璃,旋剛 M30 RGB
+機殼 CASE,旋剛 RGB HEX 顯卡長35/CPU高15.8/標配12cm風扇*6/玻璃透側/ATX,1990,2024-03-17,旋剛,ATX,CPU高15.8,玻璃,旋剛 RGB HEX 黑
+機殼 CASE,旋剛 Pure Steel 鋼鐵者 RGB 黑/顯卡長42/CPU高16/玻璃透側/E-ATX,2390,2024-03-17,旋剛,E-ATX,CPU高16,玻璃,旋剛 Pure Steel 鋼鐵者 RGB 黑
+機殼 CASE,旋剛 RGB SLIDER 流影者 黑 顯卡長33.5/CPU高15.7/玻璃透側/RGB面板燈條/ATX,1190,2024-03-17,旋剛,ATX,CPU高15.7,玻璃,旋剛 RGB SLIDER 流影者 黑
+機殼 CASE,旋剛 RGB SLIDER 流影者 白 顯卡長33.5/CPU高15.7/玻璃透側/RGB面板燈條/ATX,1290,2024-03-17,旋剛,ATX,CPU高15.7,玻璃,旋剛 RGB SLIDER 流影者 白
+機殼 CASE,旋剛 RGB WAVE 逐浪者 顯卡長31/CPU高15.7/玻璃透側/前置Type-C/ATX,1790,2024-03-17,旋剛,ATX,CPU高15.7,玻璃,旋剛 RGB WAVE 逐浪者
+機殼 CASE,旋剛 Rebel C50 Black 顯卡長40/CPU高16.8/金屬網孔側板/內建顯卡支撐架/ATX,2490,2024-03-17,旋剛,ATX,CPU高16.8,,旋剛 Rebel C50 Black
+機殼 CASE,旋剛 Rebel C50 黑 RGB 顯卡長40/CPU高16.8/玻璃透側/內建顯卡支撐架/ATX,2790,2024-03-17,旋剛,ATX,CPU高16.8,玻璃,旋剛 Rebel C50 黑 RGB
+機殼 CASE,旋剛 Rebel C50 白 RGB 顯卡長40/CPU高16.8/玻璃透側/內建顯卡支撐架/ATX,2790,2024-03-17,旋剛,ATX,CPU高16.8,玻璃,旋剛 Rebel C50 白 RGB
+機殼 CASE,旋剛 REV300 顛覆至尊 黑 卡34.5(33.3)/U高17.7/右方玻璃透側/E-ATX 左側放置推薦！,3990,2024-03-17,旋剛,E-ATX 左側放置推薦！,U高17.7,玻璃,旋剛 REV300 顛覆至尊 黑
+機殼 CASE,旋剛 REV300 顛覆至尊 黑/右方玻璃透側/E-ATX + 專用顯卡直立套件/含4.0延長線#,5390,2024-03-17,旋剛,E-ATX + 專用顯卡直立套件,,玻璃,旋剛 REV300 顛覆至尊 黑
+機殼 CASE,旋剛 REV300 顛覆至尊 白 卡34.5(33.3)/U高17.7/右方玻璃透側/E-ATX 左側放置推薦！,4190,2024-03-17,旋剛,E-ATX 左側放置推薦！,U高17.7,玻璃,旋剛 REV300 顛覆至尊 白
+機殼 CASE,旋剛 CA200M 鐵網版 顯卡長42.5/CPU高16.5/鐵網面板/玻璃透側/E-ATX,3090,2024-03-17,旋剛,E-ATX,CPU高16.5,玻璃,旋剛 CA200M 鐵網版
+機殼 CASE,旋剛 CA200G 玻璃版 顯卡長42.5/CPU高16.5/玻璃面板/玻璃透側/E-ATX,3090,2024-03-17,旋剛,E-ATX,CPU高16.5,玻璃,旋剛 CA200G 玻璃版
+機殼 CASE,旋剛 CA300H 黑 顯卡長40/U高16.5/側置Type C/RGB I/O設計/雙面玻璃透側/E-ATX,3990,2024-03-17,旋剛,E-ATX,U高16.5,玻璃,旋剛 CA300H 黑
+機殼 CASE,旋剛 CA300H 白 顯卡長40/U高16.5/側置Type C/RGB I/O設計/雙面玻璃透側/E-ATX,3990,2024-03-17,旋剛,E-ATX,U高16.5,玻璃,旋剛 CA300H 白
+機殼 CASE,旋剛 CA300T 黑 顯卡長40/U高16.5/側置Type C/RGB I/O設計/雙面玻璃透側/E-ATX,3990,2024-03-17,旋剛,E-ATX,U高16.5,玻璃,旋剛 CA300T 黑
+機殼 CASE,旋剛 CA300T 白 顯卡長40/U高16.5/側置Type C/RGB I/O設計/雙面玻璃透側/E-ATX,3990,2024-03-17,旋剛,E-ATX,U高16.5,玻璃,旋剛 CA300T 白
+機殼 CASE,1st Player SP7 黑 顯卡長40/CPU高18.5/分艙設計/聲波律動燈條/玻璃透側/ATX,2490,2024-03-17,1st,ATX,CPU高18.5,玻璃,1st Player SP7 黑
+機殼 CASE,1st Player SP7 白 顯卡長40/CPU高18.5/分艙設計/聲波律動燈條/玻璃透側/ATX,2690,2024-03-17,1st,ATX,CPU高18.5,玻璃,1st Player SP7 白
+機殼 CASE,1st Player SP7 Screen 黑 顯卡長40/U高18.5/13.3吋螢幕面板/分艙設計/玻璃透側/ATX,4590,2024-03-17,1st,ATX,U高18.5,玻璃,1st Player SP7 Screen 黑
+機殼 CASE,1st Player SP7 Screen 白 顯卡長40/U高18.5/13.3吋螢幕面板/分艙設計/玻璃透側/ATX,4790,2024-03-17,1st,ATX,U高18.5,玻璃,1st Player SP7 Screen 白
+機殼 CASE,Antec Performance 1 FT 黑/玻璃透側/E-ATX+Antec NE1000G M ATX3.0/金牌/PCIe 5.0,8490,2024-03-17,Antec,E-ATX+Antec NE1000G M ATX3.0,,玻璃,Antec Performance 1 FT 黑
+機殼 CASE,Antec Performance 1 FT 白/玻璃/E-ATX+Antec NE1000G M ATX3.0 白色/金牌/PCIe 5.0,8790,2024-03-17,Antec,E-ATX+Antec NE1000G M ATX3.0 白色,,玻璃,Antec Performance 1 FT 白
+機殼 CASE,Antec P20C 黑 /玻璃透側/E-ATX + Antec NE850G M ATX3.0/金牌/全模/PCIe 5.0,6090,2024-03-17,Antec,E-ATX + Antec NE850G M ATX3.0,,玻璃,Antec P20C 黑
+機殼 CASE,Antec P20C ARGB /玻璃透側/E-ATX + Antec NE850G M ATX3.0/金牌/全模/PCIe 5.0,6290,2024-03-17,Antec,E-ATX + Antec NE850G M ATX3.0,,玻璃,Antec P20C ARGB 黑
+機殼 CASE,Antec AX51 顯卡長29/CPU高15.5/玻璃透側/ATX,1490,2024-03-17,Antec,ATX,CPU高15.5,玻璃,Antec AX51黑
+機殼 CASE,Antec CX200M RGB ELITE 黑 顯卡長33/CPU高16.4/預裝5風扇/全景玻璃透側/M-ATX,1490,2024-03-17,Antec,M-ATX,CPU高16.4,玻璃,Antec CX200M RGB ELITE 黑
+機殼 CASE,Antec CX200M RGB ELITE 白 顯卡長33/CPU高16.4/預裝5風扇/全景玻璃透側/M-ATX,1490,2024-03-17,Antec,M-ATX,CPU高16.4,玻璃,Antec CX200M RGB ELITE 白
+機殼 CASE,Antec Draco 10 顯卡長36/CPU高16.5/格柵式面板/玻璃透側/M-ATX,1390,2024-03-17,Antec,M-ATX,CPU高16.5,玻璃,Antec Draco 10
+機殼 CASE,Antec DP31 顯卡長30(27.5)/CPU高15/格柵式面板/側掀玻璃/M-ATX,1190,2024-03-17,Antec,M-ATX,CPU高15,玻璃,Antec DP31 黑
+機殼 CASE,Antec DP301M 顯卡長36/CPU高16/RGB面板燈飾/玻璃透側/M-ATX,1390,2024-03-17,Antec,M-ATX,CPU高16,玻璃,Antec DP301M 黑
+機殼 CASE,Antec DP502 FLUX 黑 顯卡長40/CPU高17.5/創新風流架構/支援5.25玻璃透側/ATX,2390,2024-03-17,Antec,ATX,CPU高17.5,玻璃,Antec DP502 FLUX 黑
+機殼 CASE,Antec DP502 FLUX 白 顯卡長40/CPU高17.5/創新風流架構/支援5.25/玻璃透側/ATX,2290,2024-03-17,Antec,ATX,CPU高17.5,玻璃,Antec DP502 FLUX 白
+機殼 CASE,Antec DP503 黑 顯卡長37.5/CPU高17/可拆式顯卡支架/玻璃透側/E-ATX,2590,2024-03-17,Antec,E-ATX,CPU高17,玻璃,Antec DP503 黑
+機殼 CASE,Antec DP505 白 顯卡長37.5/CPU高17/可拆式顯卡支架/玻璃透側/E-ATX,2690,2024-03-17,Antec,E-ATX,CPU高17,玻璃,Antec DP505 白
+機殼 CASE,Antec DF600 FLUX 顯卡長40/CPU高17.5/創新風流架構/玻璃透側/ATX,2290,2024-03-17,Antec,ATX,CPU高17.5,玻璃,Antec DF600 FLUX黑
+機殼 CASE,Antec DF700 FLUX 顯卡長40/CPU高17.5/創新風流架構/玻璃透側/ATX,2390,2024-03-17,Antec,ATX,CPU高17.5,玻璃,Antec DF700 FLUX黑
+機殼 CASE,Antec DF700 FLUX White 顯卡長40/CPU高17.5/創新風流架構/玻璃透側/ATX,2590,2024-03-17,Antec,ATX,CPU高17.5,玻璃,Antec DF700 FLUX White
+機殼 CASE,Antec DF800 FLUX 顯卡長40.5/CPU高17.5/創新風流架構/玻璃透側/ATX,2490,2024-03-17,Antec,ATX,CPU高17.5,玻璃,Antec DF800 FLUX黑
+機殼 CASE,Antec DF800 FLUX White 顯卡長40.5/CPU高17.5/創新風流架構/玻璃透側/ATX,2690,2024-03-17,Antec,ATX,CPU高17.5,玻璃,Antec DF800 FLUX White
+機殼 CASE,Antec C8 Black 顯卡長44/CPU高17.5/分艙設計/全景玻璃透側/E-ATX,2990,2024-03-17,Antec,E-ATX,CPU高17.5,玻璃,Antec C8 Black
+機殼 CASE,Antec C8 White 顯卡長44/CPU高17.5/分艙設計/全景玻璃透側/E-ATX,3190,2024-03-17,Antec,E-ATX,CPU高17.5,玻璃,Antec C8 White
+機殼 CASE,Antec P5 顯卡長36/CPU高15.5/靜音設計/M-ATX,1690,2024-03-17,Antec,M-ATX,CPU高15.5,,Antec P5黑
+機殼 CASE,Antec P7 NEO 靜音機殼/顯卡長35/CPU高16.5/支援5.25/E-ATX,1690,2024-03-17,Antec,E-ATX,CPU高16.5,,Antec P7 NEO 黑
+機殼 CASE,Antec P10 FLUX 靜音機殼/顯卡長40.5/CPU高17.5/創新風流架構/內建風速切換/ATX,2290,2024-03-17,Antec,ATX,CPU高17.5,,Antec P10 FLUX 靜音機殼
+機殼 CASE,Antec P10C 靜音機殼/顯卡長40.5/CPU高17.5/前置Type-C/內建風速切換/ATX,2690,2024-03-17,Antec,ATX,CPU高17.5,,Antec P10C 靜音機殼
+機殼 CASE,Antec P20CE 顯卡長37.5/CPU高17/無透側版/可拆式顯卡支架/E-ATX,2390,2024-03-17,Antec,E-ATX,CPU高17,,Antec P20CE
+機殼 CASE,Antec P20C 黑 顯卡長37.5/CPU高17/玻璃透側/可拆式顯卡支架/E-ATX,2490,2024-03-17,Antec,E-ATX,CPU高17,玻璃,Antec P20C 黑
+機殼 CASE,Antec P20C 白 顯卡長37.5/CPU高17/玻璃透側/可拆式顯卡支架/E-ATX,2590,2024-03-17,Antec,E-ATX,CPU高17,玻璃,Antec P20C 白
+機殼 CASE,Antec P20C ARGB 顯卡長37.5/CPU高17/玻璃透側/可拆式顯卡支架/E-ATX,2690,2024-03-17,Antec,E-ATX,CPU高17,玻璃,Antec P20C ARGB黑
+機殼 CASE,Antec P101 Silent 靜音版 顯卡長29/CPU高18/E-ATX,2690,2024-03-17,Antec,E-ATX,CPU高18,,Antec P101 Silent 靜音版
+機殼 CASE,Antec P120 Crystal 黑 顯卡長45/CPU高18.5/玻璃透側/E-ATX,2990,2024-03-17,Antec,E-ATX,CPU高18.5,玻璃,Antec P120 Crystal 黑
+機殼 CASE,Antec P120 Crystal 白 限量版/顯卡長45/CPU高18.5/玻璃透側/E-ATX,2990,2024-03-17,Antec,E-ATX,CPU高18.5,玻璃,Antec P120 Crystal 白
+機殼 CASE,Antec NX292 ARGB 顯卡長32/CPU高15.5/玻璃透側/E-ATX,1590,2024-03-17,Antec,E-ATX,CPU高15.5,玻璃,Antec NX292 ARGB
+機殼 CASE,Antec NX310 顯卡長32/CPU高16.5/玻璃透側/ATX *限網路下單,1390,2024-03-17,Antec,ATX *限網路下單,CPU高16.5,玻璃,Antec NX310 黑
+機殼 CASE,Antec NX416L 黑 顯卡長39/CPU高16.5/16cm*2前風扇/側掀玻璃側板/ATX,1990,2024-03-17,Antec,ATX,CPU高16.5,玻璃,Antec NX416L 黑
+機殼 CASE,Antec NX416L 白 顯卡長39/CPU高16.5/16cm*2前風扇/側掀玻璃側板/ATX,2190,2024-03-17,Antec,ATX,CPU高16.5,玻璃,Antec NX416L 白
+機殼 CASE,Antec NX500M ARGB 顯卡長32/CPU高15.5/玻璃透側/M-ATX,1490,2024-03-17,Antec,M-ATX,CPU高15.5,玻璃,Antec NX500M ARGB
+機殼 CASE,Antec NX700 顯卡長34/CPU高17/18.5cm風扇*2/玻璃透側/ATX,2090,2024-03-17,Antec,ATX,CPU高17,玻璃,Antec NX700 黑
+機殼 CASE,Antec Performance 1 Silent 靜音版 顯卡長40/CPU高17.5/雙降噪側板/E-ATX,4290,2024-03-17,Antec,E-ATX,CPU高17.5,,Antec Performance 1 Silent 靜音版
+機殼 CASE,Antec Performance 1 FT 黑 顯卡長40/CPU高17.5/溫度顯示面板/雙玻璃透側/E-ATX,4490,2024-03-17,Antec,E-ATX,CPU高17.5,玻璃,Antec Performance 1 FT 黑
+機殼 CASE,Antec Performance 1 FT 白 顯卡長40/CPU高17.5/溫度顯示面板/雙玻璃透側/E-ATX,4690,2024-03-17,Antec,E-ATX,CPU高17.5,玻璃,Antec Performance 1 FT 白
+機殼 CASE,Antec DarkCube 顯卡長33/CPU高17.5/雙面板/抽拉式架構/玻璃透側/M-ATX,5990,2024-03-17,Antec,M-ATX,CPU高17.5,玻璃,Antec DarkCube黑
+機殼 CASE,Antec Torque 魅影 黑紅 顯卡長45/CPU高21.5/全鋁/玻璃透側/ATX【客訂.可指送】,10900,2024-03-17,Antec,ATX【客訂.可指送】,CPU高21.5,玻璃,Antec Torque 魅影 黑紅
+機殼 CASE,Antec Torque 魅影 黑白 顯卡長45/CPU高21.5/全鋁/玻璃透側/ATX【客訂.可指送】,10900,2024-03-17,Antec,ATX【客訂.可指送】,CPU高21.5,玻璃,Antec Torque 魅影 黑白
+機殼 CASE,Antec Cannon 顯卡長38.5/CPU高85/開放式鋁合金/PCIe延長線/玻璃透側/E-ATX【客訂】,12990,2024-03-17,Antec,E-ATX【客訂】,CPU高85,玻璃,Antec Cannon 黑
+機殼 CASE,BitFenix 風魅影 SEC 2022C 黑/U高16/玻璃透側/ATX+BitFenix WHISPER 850W/金牌,3990,2024-03-17,BitFenix,ATX+BitFenix WHISPER 850W,U高16,玻璃,BitFenix 風魅影 SEC 2022C 黑
+機殼 CASE,BitFenix 亞瑟之劍 黑/玻璃透側/ATX+全漢 GT PRO 850W ATX3.0(PCIe 5.0)金牌/半模組,4990,2024-03-17,BitFenix,ATX+全漢 GT PRO 850W ATX3.0(PCIe 5.0)金牌,,玻璃,BitFenix 亞瑟之劍 黑
+機殼 CASE,BitFenix 亞瑟之劍 白/玻璃透側/ATX+全漢 GT PRO 850W ATX3.0(PCIe 5.0)金牌/半模組,5090,2024-03-17,BitFenix,ATX+全漢 GT PRO 850W ATX3.0(PCIe 5.0)金牌,,玻璃,BitFenix 亞瑟之劍 白
+機殼 CASE,BitFenix 小巨蛋 黑 鐵網版 顯卡長33.9/CPU高19/玻璃透側/M-ATX,2690,2024-03-17,BitFenix,M-ATX,CPU高19,玻璃,BitFenix 小巨蛋 黑
+機殼 CASE,BitFenix 小巨蛋 白 鐵網版 顯卡長33.9/CPU高19/玻璃透側/M-ATX,2690,2024-03-17,BitFenix,M-ATX,CPU高19,玻璃,BitFenix 小巨蛋 白
+機殼 CASE,BitFenix 小巨蛋 黑 幻彩版 顯卡長33.9/U高19/含ARGB風扇*3燈條*2/玻璃透側/M-ATX,3190,2024-03-17,BitFenix,M-ATX,U高19,玻璃,BitFenix 小巨蛋 黑 幻彩版
+機殼 CASE,BitFenix 小巨蛋 白 幻彩版 顯卡長33.9/U高19/含ARGB風扇*3燈條*2/玻璃透側/M-ATX,3190,2024-03-17,BitFenix,M-ATX,U高19,玻璃,BitFenix 小巨蛋 白 幻彩版
+機殼 CASE,BitFenix 諾瓦星 M 黑 顯卡長34.5/CPU高16/前置Type-C/玻璃透側/M-ATX,1390,2024-03-17,BitFenix,M-ATX,CPU高16,玻璃,BitFenix 諾瓦星 M 黑
+機殼 CASE,BitFenix 諾瓦星 M 白 顯卡長34.5/CPU高16/前置Type-C/玻璃透側/M-ATX,1490,2024-03-17,BitFenix,M-ATX,CPU高16,玻璃,BitFenix 諾瓦星 M 白
+機殼 CASE,BitFenix 炫光戰神 白 幻彩版 顯卡長34/CPU高16/內建4幻彩風扇/玻璃透側/E-ATX,2590,2024-03-17,BitFenix,E-ATX,CPU高16,玻璃,BitFenix 炫光戰神 白 幻彩版
+機殼 CASE,BitFenix 風魅影 SEC 2022C 黑 顯卡長31.5/CPU高16/4風扇/前置Type-C/玻璃透側/ATX,1390,2024-03-17,BitFenix,ATX,CPU高16,玻璃,BitFenix 風魅影 SEC 2022C 黑
+機殼 CASE,BitFenix 風魅影 SEC 2022C 白 顯卡長31.5/CPU高16/4風扇/前置Type-C/玻璃透側/ATX,1490,2024-03-17,BitFenix,ATX,CPU高16,玻璃,BitFenix 風魅影 SEC 2022C 白
+機殼 CASE,BitFenix 風魅影 SE 黑 幻彩版 顯卡長31.5/CPU高16/玻璃透側/ATX,1690,2024-03-17,BitFenix,ATX,CPU高16,玻璃,BitFenix 風魅影 SE 黑
+機殼 CASE,BitFenix 風魅影 SE 白 幻彩版 顯卡長31.5/CPU高16/玻璃透側/ATX,1690,2024-03-17,BitFenix,ATX,CPU高16,玻璃,BitFenix 風魅影 SE 白
+機殼 CASE,BitFenix 亞瑟之劍 鐵網版 黑 顯卡長38/CPU高16.3/玻璃透側/ATX,1990,2024-03-17,BitFenix,ATX,CPU高16.3,玻璃,BitFenix 亞瑟之劍 鐵網版 黑
+機殼 CASE,BitFenix 亞瑟之劍 鐵網版 白 顯卡長38/CPU高16.3/玻璃透側/ATX,2090,2024-03-17,BitFenix,ATX,CPU高16.3,玻璃,BitFenix 亞瑟之劍 鐵網版 白
+機殼 CASE,BitFenix Tracery 黑 顯卡長41/CPU高18/窗格紋面板/玻璃透側/E-ATX,2690,2024-03-17,BitFenix,E-ATX,CPU高18,玻璃,BitFenix Tracery 黑
+機殼 CASE,BitFenix Tracery 白 顯卡長41/CPU高18/窗格紋面板/玻璃透側/E-ATX,2790,2024-03-17,BitFenix,E-ATX,CPU高18,玻璃,BitFenix Tracery 白
+機殼 CASE,BitFenix 黎明至尊 顯卡長38/CPU高16.5/鋼化玻璃+防爆膜/E-ATX (防爆膜勿移除),2890,2024-03-17,BitFenix,E-ATX (防爆膜勿移除),CPU高16.5,玻璃,BitFenix 黎明至尊
+機殼 CASE,BitFenix 黎明至尊/鋼化玻璃(防爆膜勿移除)/E-ATX+魯班 顯卡直立套件(含PCIe4.0延長線),3990,2024-03-17,BitFenix,E-ATX+魯班 顯卡直立套件(含PCIe4.0延長線),,玻璃,BitFenix 黎明至尊
+機殼 CASE,Apexgaming 蓋亞GAIA 黑 顯卡長40/CPU高17/玻璃透側/鋁拉絲小牛皮飾板/E-ATX,2190,2024-03-17,Apexgaming,E-ATX,CPU高17,玻璃,Apexgaming 蓋亞GAIA 黑
+機殼 CASE,Apexgaming 蓋亞GAIA 白 顯卡長40/CPU高17/玻璃透側/鋁拉絲小牛皮飾板/E-ATX,2290,2024-03-17,Apexgaming,E-ATX,CPU高17,玻璃,Apexgaming 蓋亞GAIA 白
+機殼 CASE,Apexgaming V300 黑 顯卡長34/CPU高16/玻璃透側/分艙設計/M-ATX,1290,2024-03-17,Apexgaming,M-ATX,CPU高16,玻璃,Apexgaming V300 黑
+機殼 CASE,Apexgaming V300 白 顯卡長34/CPU高16/玻璃透側/分艙設計/M-ATX,1390,2024-03-17,Apexgaming,M-ATX,CPU高16,玻璃,Apexgaming V300 白
+機殼 CASE,Apexgaming Savitar 薩維塔 顯卡長40/CPU高15.7/玻璃透側/燻黑透明面板/ATX,1890,2024-03-17,Apexgaming,ATX,CPU高15.7,玻璃,Apexgaming Savitar 薩維塔 顯卡長40 黑
+機殼 CASE,Apexgaming X魔幻 X1 顯卡長43.2/U高17.2/玻璃透側/E-ATX 下殺原價$1990！,999,2024-03-17,Apexgaming,E-ATX 下殺原價$1990！,U高17.2,玻璃,Apexgaming X魔幻 X1黑
+機殼 CASE,Apexgaming METEOR TE220 白 顯卡長38.3/U高17.4/側掀玻璃/含顯卡支撐架/E-ATX,2390,2024-03-17,Apexgaming,E-ATX,U高17.4,玻璃,Apexgaming METEOR TE220 白
+機殼 CASE,Apexgaming 獵刃 BTS-530A 顯卡長40/U高17/玻璃透側/E-ATX,2390,2024-03-17,Apexgaming,E-ATX,U高17,玻璃,Apexgaming 獵刃 BTS-530A
+機殼 CASE,HYTE Y40 靜謐黑 顯卡長42.2/CPU高18.3/PCIe 4.0/全景玻璃透側/ATX,4490,2024-03-17,HYTE,ATX,CPU高18.3,玻璃,HYTE Y40 靜謐黑
+機殼 CASE,HYTE Y40 啞光白 顯卡長42.2/CPU高18.3/PCIe 4.0/全景玻璃透側/ATX,4490,2024-03-17,HYTE,ATX,CPU高18.3,玻璃,HYTE Y40 啞光白
+機殼 CASE,HYTE Y40 超跑紅 顯卡長42.2/CPU高18.3/PCIe 4.0/全景玻璃透側/ATX,4490,2024-03-17,HYTE,ATX,CPU高18.3,玻璃,HYTE Y40 超跑紅
+機殼 CASE,HYTE Y60 靜謐黑 顯卡長37.5/厚7.5/CPU高16/PCIe 4.0/分艙設計/全景玻璃透側/ATX,5990,2024-03-17,HYTE,ATX,CPU高16,玻璃,HYTE Y60 靜謐黑
+機殼 CASE,HYTE Y60 冰雪白 顯卡長37.5/厚7.5/CPU高16/PCIe 4.0/分艙設計/全景玻璃透側/ATX,5990,2024-03-17,HYTE,ATX,CPU高16,玻璃,HYTE Y60 冰雪白
+機殼 CASE,HYTE Y60 超跑紅 顯卡長37.5/厚7.5/CPU高16/PCIe 4.0/分艙設計/全景玻璃透側/ATX,5990,2024-03-17,HYTE,ATX,CPU高16,玻璃,HYTE Y60 超跑紅
+機殼 CASE,be quiet! PURE BASE 500DX 黑 顯卡長36.9/U高19/A.RGB燈效/玻璃透側/ATX(BGW37),3090,2024-03-17,be,ATX(BGW37),U高19,玻璃,be quiet! PURE BASE 500DX 黑
+機殼 CASE,be quiet! PURE BASE 500FX 黑 顯卡長36.9/U高19/A.RGB燈效/玻璃透側/ATX(BGW43),4690,2024-03-17,be,ATX(BGW43),U高19,玻璃,be quiet! PURE BASE 500FX 黑
+機殼 CASE,be quiet! PURE BASE 600 黑 透側版 顯卡長42/CPU高16.5/玻璃透側/ATX(BGW21),2390,2024-03-17,be,ATX(BGW21),CPU高16.5,玻璃,be quiet! PURE BASE 600 黑
+機殼 CASE,be quiet! PURE BASE 600 橘 透側版 顯卡長42/CPU高16.5/玻璃透側/ATX(BGW20),2390,2024-03-17,be,ATX(BGW20),CPU高16.5,玻璃,be quiet! PURE BASE 600 橘
+機殼 CASE,be quiet! SHADOW BASE 800DX 黑 顯卡長43/CPU高18/玻璃透側/E-ATX(BGW61),5490,2024-03-17,be,E-ATX(BGW61),CPU高18,玻璃,be quiet! SHADOW BASE 800DX 黑
+機殼 CASE,be quiet! SHADOW BASE 800DX 白 顯卡長43/CPU高18/玻璃透側/E-ATX(BGW62),5690,2024-03-17,be,E-ATX(BGW62),CPU高18,玻璃,be quiet! SHADOW BASE 800DX 白
+機殼 CASE,be quiet! SHADOW BASE 800FX 黑 顯卡長43/CPU高18/玻璃透側/E-ATX(BGW63),6590,2024-03-17,be,E-ATX(BGW63),CPU高18,玻璃,be quiet! SHADOW BASE 800FX 黑
+機殼 CASE,be quiet! SHADOW BASE 800FX 白 顯卡長43/CPU高18/玻璃透側/E-ATX(BGW64),6990,2024-03-17,be,E-ATX(BGW64),CPU高18,玻璃,be quiet! SHADOW BASE 800FX 白
+機殼 CASE,be quiet! DARK BASE 701 黑 顯卡長43/CPU高18.5/玻璃透側/支援反向配置/E-ATX,7390,2024-03-17,be,E-ATX,CPU高18.5,玻璃,be quiet! DARK BASE 701 黑
+機殼 CASE,be quiet! DARK BASE PRO 901 黑 顯卡長49.5/U高19/玻璃透側/觸控式面板/E-ATX,10990,2024-03-17,be,E-ATX,U高19,玻璃,be quiet! DARK BASE PRO 901 黑
+機殼 CASE,Montech Air 100 LITE 黑/側掀玻璃側板/M-ATX + GAMMA II 550W/金牌電源 現省$330,2850,2024-03-17,Montech,M-ATX + GAMMA II 550W,,玻璃,Montech Air 100 LITE 黑
+機殼 CASE,Montech Air 100 LITE 黑/側掀玻璃側板/M-ATX + GAMMA II 650W/金牌電源 現省$290,3090,2024-03-17,Montech,M-ATX + GAMMA II 650W,,玻璃,Montech Air 100 LITE 黑
+機殼 CASE,Montech SKY ONE LITE 黑/側掀玻璃側板/ATX + Montech GAMMA II 750W/金牌電源,3590,2024-03-17,Montech,ATX + Montech GAMMA II 750W,,玻璃,Montech SKY ONE LITE 黑 + Montech GAMMA II 750W
+機殼 CASE,Montech Air 1000 PREMIUM 黑/玻璃側板/ATX+CENTURY 850W/金牌電源 現省$790,4190,2024-03-17,Montech,ATX+CENTURY 850W,,玻璃,Montech Air 1000 PREMIUM 黑
+機殼 CASE,Montech SKY TWO 黑/玻璃透側/ATX + Montech CENTURY G5 850W/金牌(PCIe 5.0),5290,2024-03-17,Montech,ATX + Montech CENTURY G5 850W,,玻璃,Montech SKY TWO 黑 + Montech CENTURY G5 850W
+機殼 CASE,Montech 破壞俠 顯卡長36/CPU高15.5/開窗透側/網孔面板/ATX,990,2024-03-17,Montech,ATX,CPU高15.5,,Montech 破壞俠
+機殼 CASE,Montech X1 黑 顯卡長30.5/CPU高16.5/網孔面板/玻璃透側/ATX,1090,2024-03-17,Montech,ATX,CPU高16.5,玻璃,Montech X1 黑
+機殼 CASE,Montech X1 白 顯卡長30.5/CPU高16.5/網孔面板/玻璃透側/ATX,1190,2024-03-17,Montech,ATX,CPU高16.5,玻璃,Montech X1 白
+機殼 CASE,Montech X3 MESH 黑 顯卡長30.5/CPU高16/內建風扇*6/側掀玻璃側板/ATX,1490,2024-03-17,Montech,ATX,CPU高16,玻璃,Montech X3 MESH 黑
+機殼 CASE,Montech X3 MESH 白 顯卡長30.5/CPU高16/內建風扇*6/側掀玻璃側板/ATX,1590,2024-03-17,Montech,ATX,CPU高16,玻璃,Montech X3 MESH 白
+機殼 CASE,Montech Air 100 LITE 黑 顯卡長33/CPU高16.1/磁吸面板/側掀玻璃側板/M-ATX,1190,2024-03-17,Montech,M-ATX,CPU高16.1,玻璃,Montech Air 100 LITE 黑
+機殼 CASE,Montech Air 100 LITE 白 顯卡長33/CPU高16.1/磁吸面板/側掀玻璃側板/M-ATX,1290,2024-03-17,Montech,M-ATX,CPU高16.1,玻璃,Montech Air 100 LITE 白
+機殼 CASE,Montech Air 100 ARGB 黑 顯卡長33/CPU高16.1/磁吸面板/側掀玻璃側板/M-ATX,1690,2024-03-17,Montech,M-ATX,CPU高16.1,玻璃,Montech Air 100 ARGB 黑
+機殼 CASE,Montech Air 100 ARGB 白 顯卡長33/CPU高16.1/磁吸面板/側掀玻璃側板/M-ATX,1890,2024-03-17,Montech,M-ATX,CPU高16.1,玻璃,Montech Air 100 ARGB 白
+機殼 CASE,Montech Air 903 BASE 黑 顯卡長40/CPU高18/前置Type-C/玻璃側板/E-ATX,1590,2024-03-17,Montech,E-ATX,CPU高18,玻璃,Montech Air 903 BASE 黑
+機殼 CASE,Montech Air 903 BASE 白 顯卡長40/CPU高18/前置Type-C/玻璃側板/E-ATX,1790,2024-03-17,Montech,E-ATX,CPU高18,玻璃,Montech Air 903 BASE 白
+機殼 CASE,Montech Air 903 MAX 黑 顯卡長40/CPU高18/快拆網孔面板/玻璃側板/E-ATX,1890,2024-03-17,Montech,E-ATX,CPU高18,玻璃,Montech Air 903 MAX 黑
+機殼 CASE,Montech Air 903 MAX 白 顯卡長40/CPU高18/快拆網孔面板/玻璃側板/E-ATX,2090,2024-03-17,Montech,E-ATX,CPU高18,玻璃,Montech Air 903 MAX 白
+機殼 CASE,Montech Air 1000 LITE 黑 顯卡長34/CPU高16.5/側掀玻璃側板/ATX,1490,2024-03-17,Montech,ATX,CPU高16.5,玻璃,Montech Air 1000 LITE 黑
+機殼 CASE,Montech Air 1000 LITE 白 顯卡長34/CPU高16.5/側掀玻璃側板/ATX,1590,2024-03-17,Montech,ATX,CPU高16.5,玻璃,Montech Air 1000 LITE 白
+機殼 CASE,Montech Air 1000 Silent 靜音版 顯卡長34/CPU高16.5/上抽式防塵網/ATX,1690,2024-03-17,Montech,ATX,CPU高16.5,,Montech Air 1000 Silent
+機殼 CASE,Montech Air 1000 PREMIUM 黑 顯卡長34/CPU高16.5/玻璃側板/雙面板(玻璃/網孔)/ATX,1990,2024-03-17,Montech,ATX,CPU高16.5,玻璃,Montech Air 1000 PREMIUM 黑
+機殼 CASE,Montech Air 1000 PREMIUM 白 顯卡長34/CPU高16.5/玻璃側板/雙面板(玻璃/網孔)/ATX,2190,2024-03-17,Montech,ATX,CPU高16.5,玻璃,Montech Air 1000 PREMIUM 白
+機殼 CASE,Montech Air X 黑 顯卡長34/CPU高16.3/20cm A.RGB風扇*2/玻璃透側/ATX,1890,2024-03-17,Montech,ATX,CPU高16.3,玻璃,Montech Air X 黑
+機殼 CASE,Montech Air X 白 顯卡長34/CPU高16.3/20cm A.RGB風扇*2/玻璃透側/ATX,1990,2024-03-17,Montech,ATX,CPU高16.3,玻璃,Montech Air X 白
+機殼 CASE,Montech SKY ONE MINI 黑 顯卡長31.5/U高16/玻璃透側/M-ATX(限24.4*24.4),1690,2024-03-17,Montech,M-ATX(限24.4*24.4),U高16,玻璃,Montech SKY ONE MINI 黑
+機殼 CASE,Montech SKY ONE MINI 白 顯卡長31.5/U高16/玻璃透側/M-ATX(限24.4*24.4),1790,2024-03-17,Montech,M-ATX(限24.4*24.4),U高16,玻璃,Montech SKY ONE MINI 白
+機殼 CASE,Montech SKY ONE LITE 黑 顯卡長35/CPU高17/前置Type-C/側掀玻璃側板/ATX,1690,2024-03-17,Montech,ATX,CPU高17,玻璃,Montech SKY ONE LITE 黑
+機殼 CASE,Montech SKY ONE LITE 白 顯卡長35/CPU高17/前置Type-C/側掀玻璃側板/ATX,1890,2024-03-17,Montech,ATX,CPU高17,玻璃,Montech SKY ONE LITE 白
+機殼 CASE,Montech SKY TWO 黑 顯卡長40/CPU高16.8/創新風流設計/玻璃透側/ATX,2390,2024-03-17,Montech,ATX,CPU高16.8,玻璃,Montech SKY TWO 黑
+機殼 CASE,Montech SKY TWO 白 顯卡長40/CPU高16.8/創新風流設計/玻璃透側/ATX,2490,2024-03-17,Montech,ATX,CPU高16.8,玻璃,Montech SKY TWO 白
+機殼 CASE,Montech SKY TWO 藍 顯卡長40/CPU高16.8/創新風流設計/玻璃透側/ATX,2790,2024-03-17,Montech,ATX,CPU高16.8,玻璃,Montech SKY TWO 藍
+機殼 CASE,Montech KING 95 黑 卡42/U高17.5/分艙設計/全景玻璃+網孔模式/ATX,2990,2024-03-17,Montech,ATX,U高17.5,玻璃,Montech KING 95 黑
+機殼 CASE,Montech KING 95 白 卡42/U高17.5/分艙設計/全景玻璃+網孔模式/ATX,3190,2024-03-17,Montech,ATX,U高17.5,玻璃,Montech KING 95 白
+機殼 CASE,Montech KING 95 藍 卡42/U高17.5/分艙設計/全景玻璃+網孔模式/ATX,3390,2024-03-17,Montech,ATX,U高17.5,玻璃,Montech KING 95 藍
+機殼 CASE,Montech KING 95 紅 卡42/U高17.5/分艙設計/全景玻璃+網孔模式/ATX,3390,2024-03-17,Montech,ATX,U高17.5,玻璃,Montech KING 95 紅
+機殼 CASE,Montech KING 95 PRO 黑 卡42/U高17.5/六風扇/分艙/全景玻璃+網孔/ATX,3990,2024-03-17,Montech,ATX,U高17.5,玻璃,Montech KING 95 PRO 黑
+機殼 CASE,Montech KING 95 PRO 白 卡42/U高17.5/六風扇/分艙/全景玻璃+網孔/ATX,4190,2024-03-17,Montech,ATX,U高17.5,玻璃,Montech KING 95 PRO 白
+機殼 CASE,Montech KING 95 PRO 藍 卡42/U高17.5/六風扇/分艙/全景玻璃+網孔/ATX,4590,2024-03-17,Montech,ATX,U高17.5,玻璃,Montech KING 95 PRO 藍
+機殼 CASE,Montech KING 95 PRO 紅 卡42/U高17.5/六風扇/分艙/全景玻璃+網孔/ATX,4590,2024-03-17,Montech,ATX,U高17.5,玻璃,Montech KING 95 PRO 紅
+機殼 CASE,Phanteks Enthoo Evolv Shift 2 黑 顯卡33.5/U8.5/玻璃透側/ITX(ES217E_BK02)【SFX】,3300,2024-03-17,Phanteks,ITX(ES217E_BK02)【SFX】,,玻璃,Phanteks Enthoo Evolv Shift 2 黑
+機殼 CASE,Phanteks Enthoo Evolv Shift 2 Air 黑 顯卡長33.5/U高8.5/ITX(ES217A_BK02)【SFX】,3000,2024-03-17,Phanteks,ITX(ES217A_BK02)【SFX】,U高8.5,,Phanteks Enthoo Evolv Shift 2 Air 黑
+機殼 CASE,Phanteks Enthoo Evolv Shift 2 Air 灰 顯卡長35.5/U高8.5/ITX(ES217A_AG02)【SFX】,3000,2024-03-17,Phanteks,ITX(ES217A_AG02)【SFX】,U高8.5,,Phanteks Enthoo Evolv Shift 2 Air 灰
+機殼 CASE,Phanteks Enthoo Evolv Shift XT 銀 顯卡32.4/U高7.2/ITX(ES121XT_DGS01)【SFX】,5190,2024-03-17,Phanteks,ITX(ES121XT_DGS01)【SFX】,U高7.2,,Phanteks Enthoo Evolv Shift XT 銀
+機殼 CASE,Phanteks NV7 黑 顯卡長45/CPU高18.5/全景玻璃透側/E-ATX(NV723TG_DBK01),6790,2024-03-17,Phanteks,E-ATX(NV723TG_DBK01),CPU高18.5,玻璃,Phanteks NV7 黑
+機殼 CASE,Phanteks NV7 白 顯卡長45/CPU高18.5/全景玻璃透側/E-ATX(NV723TG_DMW01),6790,2024-03-17,Phanteks,E-ATX(NV723TG_DMW01),CPU高18.5,玻璃,Phanteks NV7 白
+機殼 CASE,Phanteks NV9 黑 顯卡長49/CPU高20.5/全景玻璃透側/E-ATX(NV923TG_DBK01),7690,2024-03-17,Phanteks,E-ATX(NV923TG_DBK01),CPU高20.5,玻璃,Phanteks NV9 黑
+機殼 CASE,Phanteks NV9 白 顯卡長49/CPU高20.5/全景玻璃透側/E-ATX(NV923TG_DMW01),7690,2024-03-17,Phanteks,E-ATX(NV923TG_DMW01),CPU高20.5,玻璃,Phanteks NV9 白
+機殼 CASE,Phanteks Eclipse P200A DRGB 黑 /U高16.5(7.2/9.2)/玻璃透側/ITX(EC200ATG_DBK01),2090,2024-03-17,Phanteks,ITX(EC200ATG_DBK01),U高16.5(7.2,玻璃,Phanteks Eclipse P200A DRGB 黑
+機殼 CASE,Phanteks Eclipse G360A 黑 顯卡長40/U高16.2/玻璃透側/E-ATX(EC360ATG_DBK02),2990,2024-03-17,Phanteks,E-ATX(EC360ATG_DBK02),U高16.2,玻璃,Phanteks Eclipse G360A 黑
+機殼 CASE,Phanteks Eclipse G360A 白 顯卡長40/U高16.2/玻璃透側/E-ATX(EC360ATG_DMW02),2990,2024-03-17,Phanteks,E-ATX(EC360ATG_DMW02),U高16.2,玻璃,Phanteks Eclipse G360A 白
+機殼 CASE,Phanteks Eclipse G500A 黑 顯卡長43.5/CPU高18/玻璃透側/E-ATX(500GA_BBK01),4525,2024-03-17,Phanteks,E-ATX(500GA_BBK01),CPU高18,玻璃,Phanteks Eclipse G500A 黑
+機殼 CASE,Phanteks Eclipse G500A DRGB 黑 卡43.5/CPU高18/玻璃透側/E-ATX(500GA_DBK01A),4840,2024-03-17,Phanteks,E-ATX(500GA_DBK01A),CPU高18,玻璃,Phanteks Eclipse G500A DRGB 黑
+機殼 CASE,Phanteks Eclipse G500A DRGB 消光白 卡43.5/U18/玻璃透側/E-ATX(500GA_DMW01A),4840,2024-03-17,Phanteks,E-ATX(500GA_DMW01A),,玻璃,Phanteks Eclipse G500A DRGB 消光白
+機殼 CASE,Phanteks Eclipse P400A 黑 顯卡長42/CPU高16/玻璃透側/ATX(EC400ATG_BK),2235,2024-03-17,Phanteks,ATX(EC400ATG_BK),CPU高16,玻璃,Phanteks Eclipse P400A 黑
+機殼 CASE,Phanteks Eclipse P400A ARGB 黑 卡42/CPU高16/玻璃透側/ATX(EC400ATG_DBK),2540,2024-03-17,Phanteks,ATX(EC400ATG_DBK),CPU高16,玻璃,Phanteks Eclipse P400A ARGB 黑
+機殼 CASE,Phanteks Eclipse P400A ARGB 白 卡42/CPU高16/玻璃透側/ATX(EC400ATG_DWT),2390,2024-03-17,Phanteks,ATX(EC400ATG_DWT),CPU高16,玻璃,Phanteks Eclipse P400A ARGB 白
+機殼 CASE,Phanteks Eclipse P600S 黑(非透側) 顯卡長43.5/CPU高19/E-ATX(EC600PSC_BK),4370,2024-03-17,Phanteks,E-ATX(EC600PSC_BK),CPU高19,,Phanteks Eclipse P600S 黑
+機殼 CASE,Phanteks Eclipse P600S 黑 顯卡長43.5/CPU高19/玻璃透側/E-ATX(EC600PSTG_BK),4675,2024-03-17,Phanteks,E-ATX(EC600PSTG_BK),CPU高19,玻璃,Phanteks Eclipse P600S 黑
+機殼 CASE,Phanteks Eclipse P600S 灰 顯卡長43.5/CPU高19/玻璃透側/E-ATX(EC600PSTG_AG),4675,2024-03-17,Phanteks,E-ATX(EC600PSTG_AG),CPU高19,玻璃,Phanteks Eclipse P600S 灰
+機殼 CASE,Phanteks Eclipse P600S 消光白 卡長43.5/U高19/玻璃透側/E-ATX(EC600PSTG_DMW),6090,2024-03-17,Phanteks,E-ATX(EC600PSTG_DMW),U高19,玻璃,Phanteks Eclipse P600S 消光白
+機殼 CASE,Phanteks Enthoo 719 黑 卡50/CPU高19.5/支援雙電供/玻璃透側/EEB(ES719LTG_DBK),5700,2024-03-17,Phanteks,,CPU高19.5,玻璃,Phanteks Enthoo 719 黑
+機殼 CASE,Phanteks Enthoo 719 灰 卡50/CPU高19.5/支援雙電供/玻璃透側/EEB(ES719LTG_DAG),5700,2024-03-17,Phanteks,,CPU高19.5,玻璃,Phanteks Enthoo 719 灰
+機殼 CASE,Phanteks Enthoo Pro2 黑(非透側) 顯卡長50/U高19.5/支援雙電供/EEB(ES620PC_BK),3900,2024-03-17,Phanteks,,U高19.5,,Phanteks Enthoo Pro2 黑
+機殼 CASE,Phanteks Enthoo Pro2 黑 顯卡長50/U高19.5/玻璃透側/雙電供/EEB(ES620PTG_DBK),4210,2024-03-17,Phanteks,,U高19.5,玻璃,Phanteks Enthoo Pro2 黑
+機殼 CASE,Phanteks Enthoo Pro2 黑 伺服器版(非透側) 顯卡長50/U高19.5/EEB(ES620PC_BK02),4890,2024-03-17,Phanteks,,U高19.5,,Phanteks Enthoo Pro2 黑
+機殼 CASE,Phanteks Enthoo Pro2 黑 伺服器版 卡長50/U高19.5/玻璃透側/EEB(ES620PTG_BK02),5190,2024-03-17,Phanteks,,U高19.5,玻璃,Phanteks Enthoo Pro2 黑
+機殼 CASE,Phanteks Enthoo Evolv mATX 黑 卡31.9/CPU19.2/玻璃透側/M-ATX(ES314ETG_BK),4065,2024-03-17,Phanteks,M-ATX(ES314ETG_BK),,玻璃,Phanteks Enthoo Evolv mATX 黑
+機殼 CASE,Phanteks Enthoo Evolv mATX 銀 卡31.9/CPU19.2/玻璃透側/M-ATX(ES314ETG_GS),4065,2024-03-17,Phanteks,M-ATX(ES314ETG_GS),,玻璃,Phanteks Enthoo Evolv mATX 銀
+機殼 CASE,Phanteks Enthoo Evolv X 黑 顯卡長43.5/CPU高19/玻璃透側/ATX(ES518XTG_DBK01),6200,2024-03-17,Phanteks,ATX(ES518XTG_DBK01),CPU高19,玻璃,Phanteks Enthoo Evolv X 黑
+機殼 CASE,Phanteks Enthoo Evolv X 銀 顯卡長43.5/CPU高19/玻璃透側/ATX(ES518XTG_DGS01),6200,2024-03-17,Phanteks,ATX(ES518XTG_DGS01),CPU高19,玻璃,Phanteks Enthoo Evolv X 銀
+機殼 CASE,Phanteks Enthoo Evolv X 消光白 卡長43.5/U高19/玻璃透側/ATX(ES518XTG_DMW01),7090,2024-03-17,Phanteks,ATX(ES518XTG_DMW01),U高19,玻璃,Phanteks Enthoo Evolv X 消光白
+機殼 CASE,Phanteks Enthoo Elite 黑 卡長51.5/CPU高21/支援雙電供/玻璃透側/EEB(ES916E_BK),32250,2024-03-17,Phanteks,,CPU高21,玻璃,Phanteks Enthoo Elite 黑
+機殼 CASE,abee AS Enclosure W1 黑 顯卡長31(28)/CPU高15/M-ATX【SFX】,7290,2024-03-17,abee,M-ATX【SFX】,CPU高15,,abee AS Enclosure W1 黑
+機殼 CASE,abee AS Enclosure W1 銀 顯卡長31(28)/CPU高15/M-ATX【SFX】,7290,2024-03-17,abee,M-ATX【SFX】,CPU高15,,abee AS Enclosure W1 銀
+機殼 CASE,abee AS Enclosure W1 綠 顯卡長31(28)/CPU高15/M-ATX【SFX】,7290,2024-03-17,abee,M-ATX【SFX】,CPU高15,,abee AS Enclosure W1 綠
+機殼 CASE,abee AS Enclosure RS07 黑 顯卡長31.5/CPU高18.4/SFX(ATX)電供兼容/ITX,13390,2024-03-17,abee,ITX,CPU高18.4,,abee AS Enclosure RS07 黑
+機殼 CASE,abee AS Enclosure RS07 銀 顯卡長31.5/CPU高18.4/SFX(ATX)電供兼容/ITX,13390,2024-03-17,abee,ITX,CPU高18.4,,abee AS Enclosure RS07 銀
+機殼 CASE,abee Pixel One 黑 顯卡長33.4/CPU高18/全鋁機身/像素方塊(選購)/E-ATX,8990,2024-03-17,abee,E-ATX,CPU高18,,abee Pixel One 黑
+機殼 CASE,abee Pixel One 黑 顯卡長33.4/CPU高18/全鋁機身/E-ATX + 鋁製磁吸像素方塊(銀或金),10390,2024-03-17,abee,E-ATX + 鋁製磁吸像素方塊(銀或金),CPU高18,,abee Pixel One 黑
+機殼 CASE,abee Pixel One 銀 顯卡長33.4/CPU高18/全鋁機身/像素方塊(選購)/E-ATX,8990,2024-03-17,abee,E-ATX,CPU高18,,abee Pixel One 銀
+機殼 CASE,abee Pixel One 銀 顯卡長33.4/CPU高18/全鋁機身/E-ATX + 鋁製磁吸像素方塊(銀或金),10390,2024-03-17,abee,E-ATX + 鋁製磁吸像素方塊(銀或金),CPU高18,,abee Pixel One 銀
+機殼 CASE,abee SMART EM30 黑 顯卡長35.8/CPU高15.8/全鋁CNC工藝/ATX,16990,2024-03-17,abee,ATX,CPU高15.8,,abee SMART EM30 黑
+機殼 CASE,abee SMART EM30 銀 顯卡長35.8/CPU高15.8/全鋁CNC工藝/ATX,16990,2024-03-17,abee,ATX,CPU高15.8,,abee SMART EM30 銀
+機殼 CASE,B-Team Lab BB1 黑 顯卡長30.5/U高9.9(7.9)/3M PCIe延長線/直立橫躺雙用/ITX【SFX】,7490,2024-03-17,B-Team,ITX【SFX】,U高9.9(7.9),,B-Team Lab BB1 黑
+機殼 CASE,B-Team Lab BB1 銀 顯卡長30.5/U高9.9(7.9)/3M PCIe延長線/直立橫躺雙用/ITX【SFX】,7490,2024-03-17,B-Team,ITX【SFX】,U高9.9(7.9),,B-Team Lab BB1 銀
+機殼 CASE,Fractal Design Ridge 黑 顯卡長33.5(32.5)/厚8.2(5.7)/高13.7(12.5)/CPU高7/ITX【SFX】,4890,2024-03-17,Fractal,ITX【SFX】,CPU高7,,Fractal Design Ridge 黑
+機殼 CASE,Fractal Design Ridge 白 顯卡長33.5(32.5)/厚8.2(5.7)/高13.7(12.5)/CPU高7/ITX【SFX】,4890,2024-03-17,Fractal,ITX【SFX】,CPU高7,,Fractal Design Ridge 白
+機殼 CASE,Fractal Design Terra 黑 卡長32.2(厚4.3-7.2)/U高7.7(4.8)/鋁機身/胡桃木面板/ITX【SFX】,6790,2024-03-17,Fractal,ITX【SFX】,U高7.7(4.8),,Fractal Design Terra 黑
+機殼 CASE,Fractal Design Terra 銀 卡長32.2(厚4.3-7.2)/U高7.7(4.8)/鋁機身/胡桃木面板/ITX【SFX】,6790,2024-03-17,Fractal,ITX【SFX】,U高7.7(4.8),,Fractal Design Terra 銀
+機殼 CASE,Fractal Design Terra 綠 卡長32.2(厚4.3-7.2)/U高7.7(4.8)/鋁機身/胡桃木面板/ITX【SFX】,6790,2024-03-17,Fractal,ITX【SFX】,U高7.7(4.8),,Fractal Design Terra 綠
+機殼 CASE,Fractal Design Vector RS Dark TG /深色玻璃/顯卡長44/CPU高18.5/E-ATX 原價$6690,3290,2024-03-17,Fractal,E-ATX 原價$6690,CPU高18.5,玻璃,Fractal Design Vector RS Dark
+機殼 CASE,Fractal Design Define 7 Compact 黑(靜音) 顯卡長34/CPU高16.9/ATX(DEF7C-01),3790,2024-03-17,Fractal,ATX(DEF7C-01),CPU高16.9,,Fractal Design Define 7 Compact 黑
+機殼 CASE,Fractal Design Define 7 Compact 白(靜音) 顯卡長34/CPU高16.9/ATX(DEF7C-05),3790,2024-03-17,Fractal,ATX(DEF7C-05),CPU高16.9,,Fractal Design Define 7 Compact 白
+機殼 CASE,Fractal Design Define 7 黑 (靜音) 顯卡長46.7/CPU高18.5/E-ATX(DEF7A-01),5590,2024-03-17,Fractal,E-ATX(DEF7A-01),CPU高18.5,,Fractal Design Define 7 黑
+機殼 CASE,Fractal Design Define 7 白 (靜音) 顯卡長46.7/CPU高18.5/E-ATX(DEF7A-09),5590,2024-03-17,Fractal,E-ATX(DEF7A-09),CPU高18.5,,Fractal Design Define 7 白
+機殼 CASE,Fractal Design Define 7 TG 黑/淺色玻璃 顯卡長46.7/CPU高18.5/E-ATX(DEF7A-02),6090,2024-03-17,Fractal,E-ATX(DEF7A-02),CPU高18.5,玻璃,Fractal Design Define 7 TG 黑
+機殼 CASE,Fractal Design Define 7 TG 白/透明玻璃 顯卡長46.7/CPU高18.5/E-ATX(DEF7A-06),6090,2024-03-17,Fractal,E-ATX(DEF7A-06),CPU高18.5,玻璃,Fractal Design Define 7 TG 白
+機殼 CASE,Fractal Design Meshify 2 Compact 黑(靜音) 顯卡長34/CPU高16.9/ATX(MES2C-01),3790,2024-03-17,Fractal,ATX(MES2C-01),CPU高16.9,,Fractal Design Meshify 2 Compact 黑
+機殼 CASE,Fractal Design Meshify 2 Compact TG 黑/深色玻璃/顯卡長34/U高16.9/ATX(MES2C-02),3990,2024-03-17,Fractal,ATX(MES2C-02),U高16.9,玻璃,Fractal Design Meshify 2 Compact TG 黑
+機殼 CASE,Fractal Design Meshify 2 Compact TG 白/透明玻璃/顯卡長34/U高16.9/ATX(MES2C-05),3990,2024-03-17,Fractal,ATX(MES2C-05),U高16.9,玻璃,Fractal Design Meshify 2 Compact TG 白
+機殼 CASE,Fractal Design Meshify 2 Compact RGB 黑/淺色玻璃/卡長34/U高16.9/ATX(MES2C-06),4790,2024-03-17,Fractal,ATX(MES2C-06),U高16.9,玻璃,Fractal Design Meshify 2 Compact RGB 黑
+機殼 CASE,Fractal Design Meshify 2 Compact RGB 白/透明玻璃/卡長34/U高16.9/ATX(MES2C-08),4790,2024-03-17,Fractal,ATX(MES2C-08),U高16.9,玻璃,Fractal Design Meshify 2 Compact RGB 白
+機殼 CASE,Fractal Design Meshify 2 黑(靜音) 顯卡長44.5/CPU高18.5/E-ATX(MES2A-01),4890,2024-03-17,Fractal,E-ATX(MES2A-01),CPU高18.5,,Fractal Design Meshify 2 黑
+機殼 CASE,Fractal Design Meshify 2 TG 黑/深色玻璃/顯卡長44.5/CPU高18.5/E-ATX(MES2A-02),5190,2024-03-17,Fractal,E-ATX(MES2A-02),CPU高18.5,玻璃,Fractal Design Meshify 2 TG 黑
+機殼 CASE,Fractal Design Meshify 2 TG 白/透明玻璃/顯卡長44.5/CPU高18.5/E-ATX(MES2A-05),5190,2024-03-17,Fractal,E-ATX(MES2A-05),CPU高18.5,玻璃,Fractal Design Meshify 2 TG 白
+機殼 CASE,Fractal Design Meshify 2 RGB 白/透明玻璃/顯卡長45/CPU高18.5/E-ATX(MES2A-08),6190,2024-03-17,Fractal,E-ATX(MES2A-08),CPU高18.5,玻璃,Fractal Design Meshify 2 RGB 白
+機殼 CASE,Fractal Design Torrent Compact 黑/深色玻璃/顯卡長33/U高17.4/E-ATX(TOR1C-01),4790,2024-03-17,Fractal,E-ATX(TOR1C-01),U高17.4,玻璃,Fractal Design Torrent Compact 黑
+機殼 CASE,Fractal Design Torrent Compact 白/透明玻璃/顯卡長33/U高17.4/E-ATX(TOR1C-03),4790,2024-03-17,Fractal,E-ATX(TOR1C-03),U高17.4,玻璃,Fractal Design Torrent Compact 白
+機殼 CASE,Fractal Design Torrent Compact RGB 黑/淺色玻璃/卡33/U高17.4/E-ATX(TOR1C-02),5790,2024-03-17,Fractal,E-ATX(TOR1C-02),U高17.4,玻璃,Fractal Design Torrent Compact RGB 黑
+機殼 CASE,Fractal Design Torrent Compact RGB 白/透明玻璃/卡33/U高17.4/E-ATX(TOR1C-05),5790,2024-03-17,Fractal,E-ATX(TOR1C-05),U高17.4,玻璃,Fractal Design Torrent Compact RGB 白
+機殼 CASE,Fractal Design Torrent Compact 黑(靜音)/顯卡長33/U高17.4/E-ATX(TOR1C-04),4490,2024-03-17,Fractal,E-ATX(TOR1C-04),U高17.4,,Fractal Design Torrent Compact 黑
+機殼 CASE,Fractal Design Torrent 黑(靜音) 顯卡長42.3/CPU高18.8/EEB(TOR1A-05),5990,2024-03-17,Fractal,,CPU高18.8,,Fractal Design Torrent 黑
+機殼 CASE,Fractal Design Torrent 黑/淺色玻璃/顯卡長42.3/CPU高18.8/EEB(TOR1A-01),6490,2024-03-17,Fractal,,CPU高18.8,玻璃,Fractal Design Torrent 黑
+機殼 CASE,Fractal Design Torrent 白/透明玻璃/顯卡長42.3/CPU高18.8/EEB(TOR1A-03),6490,2024-03-17,Fractal,,CPU高18.8,玻璃,Fractal Design Torrent 白
+機殼 CASE,Fractal Design Torrent RGB 黑/淺色玻璃/顯卡長42.3/CPU高18.8/EEB(TOR1A-04),7990,2024-03-17,Fractal,,CPU高18.8,玻璃,Fractal Design Torrent RGB 黑
+機殼 CASE,Fractal Design Torrent RGB 白/透明玻璃/顯卡長42.3/CPU高18.8/EEB(TOR1A-07),7990,2024-03-17,Fractal,,CPU高18.8,玻璃,Fractal Design Torrent RGB 白
+機殼 CASE,Fractal Design North Charcoal 黑/網孔側板/卡35.5/U高17/胡桃木面板/ATX(NOR1C-01),5290,2024-03-17,Fractal,ATX(NOR1C-01),U高17,,Fractal Design North Charcoal 黑
+機殼 CASE,Fractal Design North Charcoal 黑/淺色玻璃/卡35.5/U高17/胡桃木面板/ATX(NOR1C-02),5290,2024-03-17,Fractal,ATX(NOR1C-02),U高17,玻璃,Fractal Design North Charcoal 黑
+機殼 CASE,Fractal Design North Chalk 白/網孔側板/顯卡35.5/CPU高17/橡木面板/ATX(NOR1C-03),5290,2024-03-17,Fractal,ATX(NOR1C-03),CPU高17,,Fractal Design North Chalk 白
+機殼 CASE,Fractal Design North Chalk 白/透明玻璃/顯卡35.5/CPU高17/橡木面板/ATX(NOR1C-04),5290,2024-03-17,Fractal,ATX(NOR1C-04),CPU高17,玻璃,Fractal Design North Chalk 白
+機殼 CASE,Fractal Design North XL Charcoal 黑/網孔側板/卡41.3/U18.5/胡桃木/E-ATX(NOR1X-01),6290,2024-03-17,Fractal,E-ATX(NOR1X-01),,,Fractal Design North XL Charcoal黑
+機殼 CASE,Fractal Design North XL Charcoal 黑/深色玻璃/卡41.3/U18.5/胡桃木/E-ATX(NOR1X-02),6290,2024-03-17,Fractal,E-ATX(NOR1X-02),,玻璃,Fractal Design North XL Charcoal
+機殼 CASE,Fractal Design North XL Chalk 白/網孔側板/顯卡41.3/U高18.5/橡木/E-ATX(NOR1X-03),6290,2024-03-17,Fractal,E-ATX(NOR1X-03),U高18.5,,Fractal Design North XL Chalk 白
+機殼 CASE,Fractal Design North XL Chalk 白/透明玻璃/顯卡41.3/U高18.5/橡木/E-ATX(NOR1X-04),6290,2024-03-17,Fractal,E-ATX(NOR1X-04),U高18.5,玻璃,Fractal Design North XL Chalk 白
+機殼 CASE,NZXT H5 Flow RGB 黑 顯卡長36.5/CPU高16.5/玻璃透側/ATX(H51FB-R1),4690,2024-03-17,NZXT,ATX(H51FB-R1),CPU高16.5,玻璃,NZXT H5 Flow RGB 黑
+機殼 CASE,NZXT H5 Elite 黑 顯卡長36.5/CPU高16.5/玻璃透側/ATX(H51EB-01),5990,2024-03-17,NZXT,ATX(H51EB-01),CPU高16.5,玻璃,NZXT H5 Elite 黑
+機殼 CASE,NZXT H5 Elite 白 顯卡長36.5/CPU高16.5/玻璃透側/ATX(H51EW-01),5990,2024-03-17,NZXT,ATX(H51EW-01),CPU高16.5,玻璃,NZXT H5 Elite 白
+機殼 CASE,NZXT H6 Flow 黑 顯卡長36.5/CPU高16.3/全景玻璃/傾斜前風扇/ATX(H61FB-01),4990,2024-03-17,NZXT,ATX(H61FB-01),CPU高16.3,玻璃,NZXT H6 Flow 黑
+機殼 CASE,NZXT H6 Flow 白 顯卡長36.5/CPU高16.3/全景玻璃/傾斜前風扇/ATX(H61FW-01),4990,2024-03-17,NZXT,ATX(H61FW-01),CPU高16.3,玻璃,NZXT H6 Flow 白
+機殼 CASE,NZXT H6 Flow RGB 黑 顯卡長36.5/U高16.3/全景玻璃/傾斜前風扇/ATX(H61FB-R1),5990,2024-03-17,NZXT,ATX(H61FB-R1),U高16.3,玻璃,NZXT H6 Flow RGB 黑
+機殼 CASE,NZXT H6 Flow RGB 白 顯卡長36.5/U高16.3/全景玻璃/傾斜前風扇/ATX(H61FW-R1),5990,2024-03-17,NZXT,ATX(H61FW-R1),U高16.3,玻璃,NZXT H6 Flow RGB 白
+機殼 CASE,NZXT H7 Flow RGB 白 顯卡長40/CPU高18.5/玻璃透側/ATX(H71FW-R1),5990,2024-03-17,NZXT,ATX(H71FW-R1),CPU高18.5,玻璃,NZXT H7 Flow RGB 白
+機殼 CASE,NZXT H7 Elite 黑 顯卡長40/CPU高18.5/CORE風扇/玻璃透側/ATX(H71EB-02),7490,2024-03-17,NZXT,ATX(H71EB-02),CPU高18.5,玻璃,NZXT H7 Elite 黑
+機殼 CASE,NZXT H7 Elite 白 顯卡長40/CPU高18.5/CORE風扇/玻璃透側/ATX(H71EW-02),7490,2024-03-17,NZXT,ATX(H71EW-02),CPU高18.5,玻璃,NZXT H7 Elite 白
+機殼 CASE,NZXT H9 Flow 黑 顯卡長43.5/CPU高16.5/玻璃透側/分艙設計/ATX(H91FB-01),6490,2024-03-17,NZXT,ATX(H91FB-01),CPU高16.5,玻璃,NZXT H9 Flow 黑
+機殼 CASE,NZXT H9 Flow 白 顯卡長43.5/CPU高16.5/玻璃透側/分艙設計/ATX(H91FW-01),6490,2024-03-17,NZXT,ATX(H91FW-01),CPU高16.5,玻璃,NZXT H9 Flow 白
+機殼 CASE,NZXT H9 Elite 黑 顯卡長43.5/CPU高16.5/玻璃透側/分艙設計/ATX(H91EB-01),8990,2024-03-17,NZXT,ATX(H91EB-01),CPU高16.5,玻璃,NZXT H9 Elite 黑
+機殼 CASE,NZXT H9 Elite 白 顯卡長43.5/CPU高16.5/玻璃透側/分艙設計/ATX(H91EW-01),8990,2024-03-17,NZXT,ATX(H91EW-01),CPU高16.5,玻璃,NZXT H9 Elite 白
+機殼 CASE,賽德斯 彩色精靈 消光黑 顯卡長30/CPU高16.5/玻璃透側/M-ATX,1190,2024-03-17,賽德斯,M-ATX,CPU高16.5,玻璃,賽德斯 彩色精靈 消光黑
+機殼 CASE,賽德斯 彩色精靈 粉白 顯卡長30/CPU高16.5/玻璃透側/M-ATX,1190,2024-03-17,賽德斯,M-ATX,CPU高16.5,玻璃,賽德斯 彩色精靈 粉白
+機殼 CASE,賽德斯 彩色精靈 粉紅 顯卡長30/CPU高16.5/玻璃透側/M-ATX,1190,2024-03-17,賽德斯,M-ATX,CPU高16.5,玻璃,賽德斯 彩色精靈 粉紅
+機殼 CASE,賽德斯 BRAHMIN 婆羅門 顯卡長30/CPU高16/玻璃透側/ATX,1390,2024-03-17,賽德斯,ATX,CPU高16,玻璃,賽德斯 BRAHMIN 婆羅門
+機殼 CASE,賽德斯 INDRA 因陀羅 黑 顯卡長33.5/U高18/顯卡立放/含支撐架/玻璃透側/M-ATX,1990,2024-03-17,賽德斯,M-ATX,U高18,玻璃,賽德斯 INDRA 因陀羅 黑
+機殼 CASE,賽德斯 INDRA 因陀羅 白 顯卡長33.5/U高18/顯卡立放/含支撐架/玻璃透側/M-ATX,1990,2024-03-17,賽德斯,M-ATX,U高18,玻璃,賽德斯 INDRA 因陀羅 白
+機殼 CASE,賽德斯 SHIVA 濕婆神 黑 顯卡長38/U高18/A.RGB面板燈條/玻璃透側/E-ATX,2990,2024-03-17,賽德斯,E-ATX,U高18,玻璃,賽德斯 SHIVA 濕婆神 黑
+機殼 CASE,賽德斯 VISHNU 毗濕奴 黑 顯卡長34/CPU高16/含ARGB 輪迴扇*4/玻璃透側/ATX,1790,2024-03-17,賽德斯,ATX,CPU高16,玻璃,賽德斯 VISHNU 毗濕奴 黑
+機殼 CASE,喬思伯 C6 黑 顯卡長(20~25.5)/CPU高7.5/4面網孔/M-ATX 送SL-120(黑) ARGB風扇*1,1190,2024-03-17,喬思伯,M-ATX 送SL-120(黑) ARGB風扇*1,CPU高7.5,,喬思伯 C6 黑
+機殼 CASE,喬思伯 C6 白 顯卡長(20~25.5)/CPU高7.5/4面網孔/M-ATX 送SL-120(白) ARGB風扇*1,1190,2024-03-17,喬思伯,M-ATX 送SL-120(白) ARGB風扇*1,CPU高7.5,,喬思伯 C6 白
+機殼 CASE,喬思伯 D31 Mesh 黑 顯卡長(33~40)/CPU高16.8/玻璃側板/M-ATX 送SL-120(黑)風扇*1,1990,2024-03-17,喬思伯,M-ATX 送SL-120(黑)風扇*1,CPU高16.8,玻璃,喬思伯 D31 Mesh 黑
+機殼 CASE,喬思伯 D31 Mesh 白 顯卡長(33~40)/CPU高16.8/玻璃側板/M-ATX 送SL-120(白)風扇*1,1990,2024-03-17,喬思伯,M-ATX 送SL-120(白)風扇*1,CPU高16.8,玻璃,喬思伯 D31 Mesh 白
+機殼 CASE,喬思伯 D31 Mesh SC螢幕版 黑 卡33/U高16.8/8吋LCD/玻璃側板/M-ATX 送SL-120風扇*1,3290,2024-03-17,喬思伯,M-ATX 送SL-120風扇*1,U高16.8,玻璃,喬思伯 D31 Mesh SC 黑
+機殼 CASE,喬思伯 D31 Mesh SC螢幕版 白 卡33/U高16.8/8吋LCD/玻璃側板/M-ATX 送SL-120風扇*1,3290,2024-03-17,喬思伯,M-ATX 送SL-120風扇*1,U高16.8,玻璃,喬思伯 D31 Mesh SC 白
+機殼 CASE,喬思伯 D41 Mesh 黑 顯卡長(33~40)/CPU高16.8/玻璃側板/ATX 送SL-120(黑)風扇*1,1990,2024-03-17,喬思伯,ATX 送SL-120(黑)風扇*1,CPU高16.8,玻璃,喬思伯 D41 Mesh 黑
+機殼 CASE,喬思伯 D41 Mesh 白 顯卡長(33~40)/CPU高16.8/玻璃側板/ATX 送SL-120(白)風扇*1,1990,2024-03-17,喬思伯,ATX 送SL-120(白)風扇*1,CPU高16.8,玻璃,喬思伯 D41 Mesh 白
+機殼 CASE,喬思伯 D41 Mesh SC螢幕版 黑 卡33/U16.8/8吋LCD/玻璃側板/ATX 送SL-120(黑)風扇*1,3290,2024-03-17,喬思伯,ATX 送SL-120(黑)風扇*1,,玻璃,喬思伯 D41 Mesh SC 黑
+機殼 CASE,喬思伯 D41 Mesh SC螢幕版 白 卡33/U16.8/8吋LCD/玻璃側板/ATX 送SL-120(白)風扇*1,3290,2024-03-17,喬思伯,ATX 送SL-120(白)風扇*1,,玻璃,喬思伯 D41 Mesh SC 白
+機殼 CASE,喬思伯 V4 黑 顯卡長26/CPU高12/SSD*1(共用)M-ATX,1790,2024-03-17,喬思伯,SSD*1(共用)M-ATX,CPU高12,,喬思伯 V4 黑
+機殼 CASE,喬思伯 V4 銀 顯卡長26/CPU高12/SSD*1(共用)M-ATX,1790,2024-03-17,喬思伯,SSD*1(共用)M-ATX,CPU高12,,喬思伯 V4 銀
+機殼 CASE,喬思伯 TK-1 黑 顯卡長28/CPU高16.5/雙折彎環形鋼化玻璃/M-ATX 送SL-120(黑)風扇*1,3190,2024-03-17,喬思伯,M-ATX 送SL-120(黑)風扇*1,CPU高16.5,玻璃,喬思伯 TK-1 黑
+機殼 CASE,喬思伯 TK-1 V2 黑 卡28/U高16.5/雙折彎環形玻璃/支援背插/M-ATX 送SL-120(黑)風扇*1,3690,2024-03-17,喬思伯,M-ATX 送SL-120(黑)風扇*1,U高16.5,玻璃,喬思伯 TK-1 V2 黑
+機殼 CASE,喬思伯 TK-1 V2 白 卡28/U高16.5/雙折彎環形玻璃/支援背插/M-ATX 送SL-120(白)風扇*1,3690,2024-03-17,喬思伯,M-ATX 送SL-120(白)風扇*1,U高16.5,玻璃,喬思伯 TK-1 V2 白
+機殼 CASE,酷碼 Qube 500 Flatpack DIY版 黑 顯卡長36/CPU高17.2/玻璃透側/ATX(不提供組裝服務),2690,2024-03-17,酷碼,ATX(不提供組裝服務),CPU高17.2,玻璃,酷碼 Qube 500 Flatpack DIY版 黑
+機殼 CASE,酷碼 Qube 500 Flatpack DIY版 白 顯卡長36/CPU高17.2/玻璃透側/ATX(不提供組裝服務),2690,2024-03-17,酷碼,ATX(不提供組裝服務),CPU高17.2,玻璃,酷碼 Qube 500 Flatpack DIY版 白
+機殼 CASE,酷碼 Qube 500 Flatpack DIY 馬卡龍版 卡長36/U高17.2/玻璃透側/ATX(不提供組裝服務),3190,2024-03-17,酷碼,ATX(不提供組裝服務),U高17.2,玻璃,酷碼 Qube 500 Flatpack DIY 馬卡龍版
+機殼 CASE,酷碼 RC-343 顯卡長25(36)/CPU高14.8/網孔面板/M-ATX,980,2024-03-17,酷碼,M-ATX,CPU高14.8,,酷碼 RC-343
+機殼 CASE,酷碼 N200 顯卡長35.5/CPU高16/M-ATX,1390,2024-03-17,酷碼,M-ATX,CPU高16,,酷碼 N200
+機殼 CASE,酷碼 N300 升級版 顯卡長32/CPU高16.4/NSE-300-KKN3/ATX,1290,2024-03-17,酷碼,ATX,CPU高16.4,,酷碼 N300 升級版
+機殼 CASE,酷碼 N400 顯卡長32/CPU高16.4/全沖孔網面板/ATX,1490,2024-03-17,酷碼,ATX,CPU高16.4,,酷碼 N400
+機殼 CASE,酷碼 殺手 102 顯卡長34/CPU高15.6/SSD*2/ATX(RC-102C-KKN4),790,2024-03-17,酷碼,ATX(RC-102C-KKN4),CPU高15.6,,酷碼 殺手 102黑
+機殼 CASE,酷碼 殺手 103 顯卡長34.4/CPU高15.6/SSD*2/ATX(RC-103-KKN1),790,2024-03-17,酷碼,ATX(RC-103-KKN1),CPU高15.6,,酷碼 殺手 103
+機殼 CASE,酷碼 ELITE 300 顯卡長36.5/CPU高16.5/M-ATX(E300-KN5N-S00),1290,2024-03-17,酷碼,M-ATX(E300-KN5N-S00),CPU高16.5,,酷碼 ELITE 300
+機殼 CASE,酷碼 ELITE 500 玻璃透側版 顯卡長35/CPU高16.1/ATX(E500-KGNN-S00),1390,2024-03-17,酷碼,ATX(E500-KGNN-S00),CPU高16.1,玻璃,酷碼 ELITE 500 玻璃透側版
+機殼 CASE,酷碼 ELITE 500 ODD 顯卡長40/CPU高16.3/ATX(E500-KN5N-S00),1390,2024-03-17,酷碼,ATX(E500-KN5N-S00),CPU高16.3,,酷碼 ELITE 500 ODD
+機殼 CASE,酷碼 HAF 500 黑色 顯卡長41/CPU高16.7/玻璃透側/顯卡專用風扇/E-ATX,3290,2024-03-17,酷碼,E-ATX,CPU高16.7,玻璃,酷碼 HAF 500 黑色
+機殼 CASE,酷碼 HAF 500 白色 顯卡長41/CPU高16.7/玻璃透側/顯卡專用風扇/E-ATX,3290,2024-03-17,酷碼,E-ATX,CPU高16.7,玻璃,酷碼 HAF 500 白色
+機殼 CASE,酷碼 HAF 700 黑 顯卡長49/CPU高16.6/可拆式上蓋/玻璃透側/E-ATX(CEB/EEB),8490,2024-03-17,酷碼,E-ATX(CEB,CPU高16.6,玻璃,酷碼 HAF 700 黑
+機殼 CASE,酷碼 HAF 700 白 顯卡長49/CPU高16.6/可拆式上蓋/玻璃透側/E-ATX(CEB/EEB),8490,2024-03-17,酷碼,E-ATX(CEB,CPU高16.6,玻璃,酷碼 HAF 700 白
+機殼 CASE,酷碼 HAF 700 EVO 黑 顯卡長49/CPU高16.6/玻璃透側/Iris面板顯示/E-ATX(CEB/EEB),13500,2024-03-17,酷碼,E-ATX(CEB,CPU高16.6,玻璃,酷碼 HAF 700 EVO 黑
+機殼 CASE,酷碼 HAF 700 EVO 白 顯卡長49/CPU高16.6/玻璃透側/Iris面板顯示/E-ATX(CEB/EEB),13500,2024-03-17,酷碼,E-ATX(CEB,CPU高16.6,玻璃,酷碼 HAF 700 EVO 白
+機殼 CASE,酷碼 Silencio S400 黑 玻璃透側版 顯卡長31.9/CPU高16.6/M-ATX(S400-KG5N-S00),2490,2024-03-17,酷碼,M-ATX(S400-KG5N-S00),CPU高16.6,玻璃,酷碼 Silencio S400 黑
+機殼 CASE,酷碼 Silencio S400 黑 靜音版 顯卡長31.9/CPU高16.7/M-ATX(S400-KN5N-S00),2290,2024-03-17,酷碼,M-ATX(S400-KN5N-S00),CPU高16.7,,酷碼 Silencio S400 黑
+機殼 CASE,酷碼 Silencio S400 白 玻璃透側版 顯卡長31.9/CPU高16.6/M-ATX(S400-WG5N-SJP),2690,2024-03-17,酷碼,M-ATX(S400-WG5N-SJP),CPU高16.6,玻璃,酷碼 Silencio S400 白
+機殼 CASE,酷碼 Silencio S400 白 靜音版 顯卡長31.9/CPU高16.7/M-ATX(S400-WN5N-SJP),2490,2024-03-17,酷碼,M-ATX(S400-WN5N-SJP),CPU高16.7,,酷碼 Silencio S400 白
+機殼 CASE,酷碼 Silencio S600 玻璃透側版 顯卡長39.8/CPU高16.7/ATX(S600-KG5N-S00),2990,2024-03-17,酷碼,ATX(S600-KG5N-S00),CPU高16.7,玻璃,酷碼 Silencio S600 玻璃透側版
+機殼 CASE,酷碼 Silencio S600 靜音版 顯卡長39.8/CPU高16.7/ATX(S600-KN5N-S00),2790,2024-03-17,酷碼,ATX(S600-KN5N-S00),CPU高16.7,,酷碼 Silencio S600 靜音版
+機殼 CASE,酷碼 MasterBox CM694 顯卡長28(41)/CPU高17.1/玻璃透側/E-ATX,3490,2024-03-17,酷碼,E-ATX,CPU高17.1,玻璃,酷碼 MasterBox CM694
+機殼 CASE,酷碼 MasterBox NR200P MAX 卡長33.6/含280水冷/850W SFX電源/PCIe4.0延長線/ITX,11990,2024-03-17,酷碼,ITX,,,酷碼 MasterBox NR200P MAX
+機殼 CASE,酷碼 MasterBox NR200P 酷碼紫 /CPU高15.3(7.6)/含玻璃側版/PCIe延長線/ITX【SFX】,2490,2024-03-17,酷碼,ITX【SFX】,CPU高15.3(7.6),玻璃,酷碼 MasterBox NR200P 酷碼紫
+機殼 CASE,酷碼 MasterBox NR200P 陽光橙 /CPU高15.3(7.6)/含玻璃側版/PCIe延長線/ITX【SFX】,2490,2024-03-17,酷碼,ITX【SFX】,CPU高15.3(7.6),玻璃,酷碼 MasterBox NR200P 陽光橙
+機殼 CASE,酷碼 MasterBox NR200P 湖水綠 /CPU高15.3(7.6)/含玻璃側版/PCIe延長線/ITX【SFX】,2490,2024-03-17,酷碼,ITX【SFX】,CPU高15.3(7.6),玻璃,酷碼 MasterBox NR200P 湖水綠
+機殼 CASE,酷碼 MasterBox 520 Mesh 黑 顯卡長41/CPU高16.5/玻璃透側/可拆式上蓋/ATX,2490,2024-03-17,酷碼,ATX,CPU高16.5,玻璃,酷碼 MasterBox 520 Mesh 黑
+機殼 CASE,酷碼 MasterBox 520 Mesh 黑/ATX+酷碼 MasterLiquid ML360 ILLUSION水冷 現省$700,5780,2024-03-17,酷碼,ATX+酷碼 MasterLiquid ML360 ILLUSION水冷 現省$700,,,酷碼 MasterBox 520 Mesh 黑 + 酷碼 MasterLiquid ML360 ILLUSION水冷
+機殼 CASE,酷碼 MasterBox 520 Mesh 白 顯卡長41/CPU高16.5/玻璃透側/可拆式上蓋/ATX,2490,2024-03-17,酷碼,ATX,CPU高16.5,玻璃,酷碼 MasterBox 520 Mesh 白
+機殼 CASE,酷碼 MasterBox 520 Mesh 白/ATX+酷碼 MasterLiquid ML360 ILLUSION水冷 現省$700,5780,2024-03-17,酷碼,ATX+酷碼 MasterLiquid ML360 ILLUSION水冷 現省$700,,,酷碼 MasterBox 520 Mesh 白 + 酷碼 MasterLiquid ML360 ILLUSION水冷
+機殼 CASE,酷碼 MasterBox E501L 顯卡長41/CPU高16.5/沖孔面板/ATX,990,2024-03-17,酷碼,ATX,CPU高16.5,,酷碼 MasterBox E501L
+機殼 CASE,酷碼 MasterBox MB400L with ODD 顯卡長34/CPU高16.7/髮絲紋面板/M-ATX,1290,2024-03-17,酷碼,M-ATX,CPU高16.7,,酷碼 MasterBox MB400L with ODD
+機殼 CASE,酷碼 MasterBox MB400L without ODD 顯卡長34/CPU高16.7/髮絲紋面板/M-ATX,1190,2024-03-17,酷碼,M-ATX,CPU高16.7,,酷碼 MasterBox MB400L without ODD
+機殼 CASE,酷碼 MasterBox MB511 顯卡長40/CPU高16.5/壓克力透側/網孔面板/ATX,1590,2024-03-17,酷碼,ATX,CPU高16.5,,酷碼 MasterBox MB511 透側黑
+機殼 CASE,酷碼 MasterBox MB600L V2 光碟機版 顯卡長40/CPU高16.1/玻璃透側/髮絲紋面板/ATX,1490,2024-03-17,酷碼,ATX,CPU高16.1,玻璃,酷碼 MasterBox MB600L V2 光碟機版
+機殼 CASE,酷碼 MasterBox MB600L V2 無光碟機版 顯卡長35/U高16.1/玻璃透側/髮絲紋面板/ATX,1390,2024-03-17,酷碼,ATX,U高16.1,玻璃,酷碼 MasterBox MB600L V2
+機殼 CASE,酷碼 MasterBox TD300 Mesh 黑 顯卡長34.4/U高16.6/玻璃透側/菱形網孔面板/M-ATX,1690,2024-03-17,酷碼,M-ATX,U高16.6,玻璃,酷碼 MasterBox TD300 Mesh 黑
+機殼 CASE,酷碼 MasterBox TD300 Mesh 白 顯卡長34.4/U高16.6/玻璃透側/菱形網孔面板/M-ATX,1690,2024-03-17,酷碼,M-ATX,U高16.6,玻璃,酷碼 MasterBox TD300 Mesh 白
+機殼 CASE,酷碼 MasterBox TD500 Mesh V2 (黑) 顯卡長41/U高16.5/玻璃透側/可拆式上蓋/ATX,2690,2024-03-17,酷碼,ATX,U高16.5,玻璃,酷碼 MasterBox TD500 Mesh V2 (黑)
+機殼 CASE,酷碼 MasterBox TD500 Mesh V2 (白) 顯卡長41/U高16.5/玻璃透側/可拆式上蓋/ATX,2690,2024-03-17,酷碼,ATX,U高16.5,玻璃,酷碼 MasterBox TD500 Mesh V2 (白)
+機殼 CASE,酷碼 MasterBox TD500 Mesh V2 RYU 快打旋風限量版/卡長41/U高16.5/玻璃透側/ATX,3290,2024-03-17,酷碼,ATX,U高16.5,玻璃,酷碼 MasterBox TD500 Mesh V2 RYU
+機殼 CASE,酷碼 Q300L V2 顯卡長36/CPU高15.9/玻璃透側/M-ATX,1790,2024-03-17,酷碼,M-ATX,CPU高15.9,玻璃,酷碼 Q300L V2
+機殼 CASE,酷碼 MasterBox Q500L 顯卡長36/CPU高16/壓克力透側/ATX,1690,2024-03-17,酷碼,ATX,CPU高16,,酷碼 MasterBox Q500L
+機殼 CASE,酷碼 MasterCase MC500 顯卡長41/CPU高19/玻璃透側/沖孔面板/E-ATX,2990,2024-03-17,酷碼,E-ATX,CPU高19,玻璃,酷碼 MasterCase MC500
+機殼 CASE,酷碼 MasterCase H500P Mesh(白) ARGB 顯卡長41/CPU高19/玻璃透側/E-ATX,4790,2024-03-17,酷碼,E-ATX,CPU高19,玻璃,酷碼 MasterCase H500P Mesh(白)
+機殼 CASE,酷碼 COSMOS C700P 黑化版 顯卡長49/CPU高19.8/玻璃透側/E-ATX,9790,2024-03-17,酷碼,E-ATX,CPU高19.8,玻璃,酷碼 COSMOS C700P 黑化版
+機殼 CASE,酷碼 COSMOS C700M 黑 顯卡長49/U高19.8/PCIe 4.0延長線/玻璃透側/E-ATX【客訂】,14500,2024-03-17,酷碼,E-ATX【客訂】,U高19.8,玻璃,酷碼 COSMOS C700M 黑
+機殼 CASE,酷碼 MasterFrame 700 開放式機殼 /測試平台/直立展示雙用/全幕鋼化玻璃/EEB【客訂】,5890,2024-03-17,酷碼,,,玻璃,酷碼 MasterFrame 700 黑
+機殼 CASE,迎廣 B1 Mesh +內附200W 金牌電源 (黑)/CPU高6/SSD*2/網孔上蓋/可立放/ITX,2890,2024-03-17,迎廣,ITX,CPU高6,,迎廣 B1 Mesh +黑
+機殼 CASE,迎廣 Chopin 蕭邦 Max+內附200W 金牌電源 (鈦灰)/CPU高5.4/ITX,3590,2024-03-17,迎廣,ITX,CPU高5.4,,迎廣 Chopin 蕭邦 Max+ 鈦灰
+機殼 CASE,迎廣 Explorer 骨白(DIY版) 顯卡長33/U高16/玻璃透側/ITX(DIY,2490,2024-03-17,迎廣,ITX(DIY,U高16,玻璃,迎廣 Explorer 骨白
+機殼 CASE,迎廣 A3 黑 顯卡長34/CPU高16.2/玻璃透側/垂直風道/M-ATX,2690,2024-03-17,迎廣,M-ATX,CPU高16.2,玻璃,迎廣 A3 黑
+機殼 CASE,迎廣 A3 白 顯卡長34/CPU高16.2/玻璃透側/垂直風道/M-ATX,2690,2024-03-17,迎廣,M-ATX,CPU高16.2,玻璃,迎廣 A3 白
+機殼 CASE,迎廣 A5 黑 顯卡長34/CPU高16.2/玻璃透側/垂直風道/E-ATX,2890,2024-03-17,迎廣,E-ATX,CPU高16.2,玻璃,迎廣 A5 黑
+機殼 CASE,迎廣 A5 白 顯卡長34/CPU高16.2/玻璃透側/垂直風道/E-ATX,2890,2024-03-17,迎廣,E-ATX,CPU高16.2,玻璃,迎廣 A5 白
+機殼 CASE,迎廣 F5 黑 顯卡長43.5/CPU高18/玻璃透側/支援背插(限ATX)/E-ATX,3990,2024-03-17,迎廣,E-ATX,CPU高18,玻璃,迎廣 F5 黑
+機殼 CASE,迎廣 F5 白 顯卡長43.5/CPU高18/玻璃透側/支援背插(限ATX)/E-ATX,4690,2024-03-17,迎廣,E-ATX,CPU高18,玻璃,迎廣 F5 白
+機殼 CASE,迎廣 DUBILI 鈦灰 顯卡長43/CPU高16/鋁合金/玻璃透側/E-ATX【客訂】,6790,2024-03-17,迎廣,E-ATX【客訂】,CPU高16,玻璃,迎廣 DUBILI 鈦灰
+機殼 CASE,迎廣 DUBILI 奶油香檳 顯卡長43/CPU高16/鋁合金/玻璃透側/E-ATX【客訂】,6790,2024-03-17,迎廣,E-ATX【客訂】,CPU高16,玻璃,迎廣 DUBILI 奶油香檳
+機殼 CASE,聯力 LANCOOL II MESH RGB 黑 顯卡長38.4/U高17.6/含Type-C/雙玻璃透側/E-ATX,2899,2024-03-17,聯力,E-ATX,U高17.6,玻璃,聯力 LANCOOL II MESH RGB 黑
+機殼 CASE,聯力 LANCOOL II MESH RGB 純白版 卡長38.4/U高17.6/含Type-C/雙玻璃透側/E-ATX,3199,2024-03-17,聯力,E-ATX,U高17.6,玻璃,聯力 LANCOOL II MESH RGB 純白
+機殼 CASE,聯力 LANCOOL III RGB 黑 顯卡長43.5/CPU高18.7/雙玻璃透側/E-ATX,4700,2024-03-17,聯力,E-ATX,CPU高18.7,玻璃,聯力 LANCOOL III RGB 黑
+機殼 CASE,聯力 LANCOOL III RGB 白 顯卡長43.5/CPU高18.7/雙玻璃透側/E-ATX,5000,2024-03-17,聯力,E-ATX,CPU高18.7,玻璃,聯力 LANCOOL III RGB 白
+機殼 CASE,聯力 O11 Air Mini 黑 顯卡長36.2/CPU高17/玻璃透側/E-ATX,2990,2024-03-17,聯力,E-ATX,CPU高17,玻璃,聯力 O11 Air Mini 黑
+機殼 CASE,聯力 O11 Air Mini 白 顯卡長36.2/CPU高17/玻璃透側/E-ATX,3290,2024-03-17,聯力,E-ATX,CPU高17,玻璃,聯力 O11 Air Mini 白
+機殼 CASE,聯力 O11 Dynamic Mini 黑 顯卡長37/CPU高17/玻璃透側/ATX【SFX】,2990,2024-03-17,聯力,ATX【SFX】,CPU高17,玻璃,聯力 O11 Dynamic Mini 黑
+機殼 CASE,聯力 O11 Dynamic Mini 純白版 顯卡長37/CPU高17/玻璃透側/ATX【SFX】,3290,2024-03-17,聯力,ATX【SFX】,CPU高17,玻璃,聯力 O11 Dynamic Mini 純白版
+機殼 CASE,聯力 PC-O11 Vision 黑 顯卡長45.5/CPU高16.7/三面無框玻璃/E-ATX,3999,2024-03-17,聯力,E-ATX,CPU高16.7,玻璃,聯力 PC-O11 Vision 黑
+機殼 CASE,聯力 PC-O11 Vision 白 顯卡長45.5/CPU高16.7/三面無框玻璃/E-ATX,4299,2024-03-17,聯力,E-ATX,CPU高16.7,玻璃,聯力 PC-O11 Vision 白
+機殼 CASE,聯力 PC-O11 Dynamic Designed by Razer 顯卡長42/CPU高15.5/玻璃透側/E-ATX,4990,2024-03-17,聯力,E-ATX,CPU高15.5,玻璃,聯力 PC-O11 Dynamic Designed by Razer
+機殼 CASE,聯力 PC-O11 Dynamic XL ROG Certified 白 顯卡長44.6/CPU高16.7/玻璃透側/EEB,5990,2024-03-17,聯力,,CPU高16.7,玻璃,聯力 PC-O11 Dynamic XL 白
+機殼 CASE,聯力 O11 Dynamic EVO 黑 顯卡長42.2/CPU高16.7/雙向翻轉設計/玻璃透側/E-ATX,4390,2024-03-17,聯力,E-ATX,CPU高16.7,玻璃,聯力 O11 Dynamic EVO 黑
+機殼 CASE,聯力 O11 Dynamic EVO 白 顯卡長42.2/CPU高16.7/雙向翻轉設計/玻璃透側/E-ATX,4690,2024-03-17,聯力,E-ATX,CPU高16.7,玻璃,聯力 O11 Dynamic EVO 白
+機殼 CASE,聯力 O11 Dynamic EVO RGB 黑 顯卡長42.2/U高16.7/頂底部L型燈條/全景玻璃/E-ATX,4800,2024-03-17,聯力,E-ATX,U高16.7,玻璃,聯力 O11 Dynamic EVO RGB 黑
+機殼 CASE,聯力 O11 Dynamic EVO RGB 白 顯卡長42.2/U高16.7/頂底部L型燈條/全景玻璃/E-ATX,5100,2024-03-17,聯力,E-ATX,U高16.7,玻璃,聯力 O11 Dynamic EVO RGB 白
+機殼 CASE,聯力 O11 Dynamic EVO XL 黑 顯卡長46/CPU高16.7/雙向翻轉設計/玻璃透側/E-ATX,7200,2024-03-17,聯力,E-ATX,CPU高16.7,玻璃,聯力 O11 Dynamic EVO XL 黑
+機殼 CASE,聯力 O11 Dynamic EVO XL 白 顯卡長46/CPU高16.7/雙向翻轉設計/玻璃透側/E-ATX,7500,2024-03-17,聯力,E-ATX,CPU高16.7,玻璃,聯力 O11 Dynamic EVO XL 白
+機殼 CASE,聯力 ODYSSEY X 黑 顯卡長42.3/CPU高16.7/三模式變換/鋁合金/玻璃透側/EEB,13499,2024-03-17,聯力,,CPU高16.7,玻璃,聯力 ODYSSEY X 黑
+機殼 CASE,聯力 ODYSSEY X 銀 顯卡長42.3/CPU高16.7/三模式變換/鋁合金/玻璃透側/EEB,13499,2024-03-17,聯力,,CPU高16.7,玻璃,聯力 ODYSSEY X 銀
+機殼 CASE,聯力 V3000 PLUS 黑 顯卡長56/CPU高29.8/三模式變換/雙系統/雙玻璃透側/EEB【訂】,14500,2024-03-17,聯力,,CPU高29.8,玻璃,聯力 V3000 PLUS 黑
+機殼 CASE,聯力 V3000 PLUS 白 GGF版 顯卡長56/U29.8/三模式變換/雙系統/雙玻璃透側/EEB【訂】,15300,2024-03-17,聯力,,聯力 V3000 PLUS 白 GGF版 顯卡長56,玻璃,聯力 V3000 PLUS 白 GGF版
+機殼 CASE,SSUPD Meshroom D 白 /四面網孔/顯卡長32.5/CPU高14.2(13.8)/ITX,3000,2024-03-17,SSUPD,ITX,CPU高14.2(13.8),,SSUPD Meshroom D 白
+機殼 CASE,SSUPD Meshroom S 黑 /PCIe 4.0/顯卡長33.6/CPU高7.3(5.3)/ITX,4990,2024-03-17,SSUPD,ITX,CPU高7.3(5.3),,SSUPD Meshroom S 黑
+機殼 CASE,SSUPD Meshroom S 白 /PCIe 4.0/顯卡長33.6/CPU高7.3(5.3)/ITX,4990,2024-03-17,SSUPD,ITX,CPU高7.3(5.3),,SSUPD Meshroom S 白
+機殼 CASE,XPG VALOR AIR 黑 顯卡長30.5/CPU高16.6/玻璃透側/ATX 加送XPG PRIME 燈條,1490,2024-03-17,XPG,ATX 加送XPG PRIME 燈條,CPU高16.6,玻璃,XPG VALOR AIR 黑
+機殼 CASE,XPG VALOR AIR 白 顯卡長30.5/CPU高16.6/玻璃透側/ATX 加送XPG PRIME 燈條,1490,2024-03-17,XPG,ATX 加送XPG PRIME 燈條,CPU高16.6,玻璃,XPG VALOR AIR 白
+機殼 CASE,XPG VALOR AIR MERA EDITION 顯卡長30.5/CPU高16.6/玻璃透側/ATX 加送XPG燈條,1990,2024-03-17,XPG,ATX 加送XPG燈條,CPU高16.6,玻璃,XPG VALOR AIR MERA EDITION
+機殼 CASE,XPG STARKER AIR C 黑 顯卡長35/U高16.5/磁吸面板/玻璃透側/ATX 加送XPG 燈條,2290,2024-03-17,XPG,ATX 加送XPG 燈條,U高16.5,玻璃,XPG STARKER AIR C 黑
+機殼 CASE,XPG STARKER AIR C 白 顯卡長35/U高16.5/磁吸面板/玻璃透側/ATX 加送XPG 燈條,2390,2024-03-17,XPG,ATX 加送XPG 燈條,U高16.5,玻璃,XPG STARKER AIR C 白
+機殼 CASE,XPG CRUISER 雷巡艦 黑 顯卡長35/CPU高17/雙面玻璃/E-ATXX 加送XPG PRIME 燈條,3490,2024-03-17,XPG,E-ATXX 加送XPG PRIME 燈條,CPU高17,玻璃,XPG CRUISER 雷巡艦 黑
+機殼 CASE,XPG CRUISER 雷巡艦 白 顯卡長35/CPU高17/雙面玻璃/E-ATXX 加送XPG PRIME 燈條,3490,2024-03-17,XPG,E-ATXX 加送XPG PRIME 燈條,CPU高17,玻璃,XPG CRUISER 雷巡艦 白
+機殼 CASE,XPG BATTLECRUISER 戰巡艦 黑 顯卡長40/CPU高17/四面玻璃/E-ATX 加送XPG 燈條,3990,2024-03-17,XPG,E-ATX 加送XPG 燈條,CPU高17,玻璃,XPG BATTLECRUISER 戰巡艦 黑
+機殼 CASE,XPG BATTLECRUISER 戰巡艦 白 顯卡長40/CPU高17/四面玻璃/E-ATX 加送XPG 燈條,3990,2024-03-17,XPG,E-ATX 加送XPG 燈條,CPU高17,玻璃,XPG BATTLECRUISER 戰巡艦 白
+機殼 CASE,XPG INVADER X 黑 卡40/U高17.5/全景玻璃/背插(限M-ATX)/PCIe 4.0線/ATX 送XPG燈條,4590,2024-03-17,XPG,ATX 送XPG燈條,U高17.5,玻璃,XPG INVADER X 黑
+機殼 CASE,XPG INVADER X 白 卡40/U高17.5/全景玻璃/背插(限M-ATX)/PCIe 4.0線/ATX 送XPG燈條,4690,2024-03-17,XPG,ATX 送XPG燈條,U高17.5,玻璃,XPG INVADER X 白
+機殼 CASE,保銳 安耐美 冰曜石 MS20 黑 顯卡長36.8/CPU高16.4/玻璃透側/M-ATX,1690,2024-03-17,保銳,M-ATX,CPU高16.4,玻璃,保銳 安耐美 冰曜石 MS20 黑
+機殼 CASE,保銳 安耐美 冰曜石 MS20 白 顯卡長36.8/CPU高16.4/玻璃透側/M-ATX,1790,2024-03-17,保銳,M-ATX,CPU高16.4,玻璃,保銳 安耐美 冰曜石 MS20 白
+機殼 CASE,保銳 安耐美 冰曜石 MS30 黑 顯卡長35.7/CPU高17.5/玻璃透側/ATX,1790,2024-03-17,保銳,ATX,CPU高17.5,玻璃,保銳 安耐美 冰曜石 MS30 黑
+機殼 CASE,保銳 安耐美 冰曜石 MS30 白 顯卡長35.7/CPU高17.5/玻璃透側/ATX,1890,2024-03-17,保銳,ATX,CPU高17.5,玻璃,保銳 安耐美 冰曜石 MS30 白
+機殼 CASE,銀欣 FARA R1 V2 黑 卡34/玻璃透側/ATX+銀欣 650W/金牌/全模(ST65F-GS)現省$1590,2990,2024-03-17,銀欣,ATX+銀欣 650W,,玻璃,銀欣 FARA R1 V2 黑
+機殼 CASE,銀欣 小烏鴉3 RGB版 黑 顯卡33/CPU高8.3/SSD*4/ITX(RVZ03B),3000,2024-03-17,銀欣,ITX(RVZ03B),CPU高8.3,,銀欣 小烏鴉3 RGB版 黑
+機殼 CASE,銀欣 PS15 黑 玻璃透側版 顯卡長31.4/CPU高15.4/M-ATX(PS15B-G),1590,2024-03-17,銀欣,M-ATX(PS15B-G),CPU高15.4,玻璃,銀欣 PS15 黑
+機殼 CASE,銀欣 PS16 黑 顯卡長32/CPU高16.5/HDD*3/SSD*3/M-ATX,1090,2024-03-17,銀欣,M-ATX,CPU高16.5,,銀欣 PS16 黑
+機殼 CASE,銀欣 ALTA G1M 黑 顯卡長35.5/CPU高15.9/垂直風流/M-ATX(ALG1MB)【SFX】,2990,2024-03-17,銀欣,M-ATX(ALG1MB)【SFX】,CPU高15.9,,銀欣 ALTA G1M 黑
+機殼 CASE,銀欣 ALTA G1M 白 顯卡長35.5/CPU高15.9/垂直風流/M-ATX(ALG1MW)【SFX】,3090,2024-03-17,銀欣,M-ATX(ALG1MW)【SFX】,CPU高15.9,,銀欣 ALTA G1M 白
+機殼 CASE,銀欣 ML03 黑 短板顯卡/CPU高7/薄型橫式機殼/M-ATX(ML03B),1990,2024-03-17,銀欣,M-ATX(ML03B),CPU高7,,銀欣 ML03 黑
+機殼 CASE,銀欣 ML04 黑 短板顯卡/CPU高7/薄型橫式機殼/M-ATX(ML04B),2490,2024-03-17,銀欣,M-ATX(ML04B),CPU高7,,銀欣 ML04 黑
+機殼 CASE,銀欣 ML07 黑 顯卡長33/CPU高8/SSD*3/ITX(ML07B)【SFX】,2090,2024-03-17,銀欣,ITX(ML07B)【SFX】,CPU高8,,銀欣 ML07 黑
+機殼 CASE,銀欣 ML08 黑 顯卡長33/CPU高5.8/內附PCI-E轉接卡/ITX(ML08B)【SFX】【客訂】,2360,2024-03-17,銀欣,ITX(ML08B)【SFX】【客訂】,CPU高5.8,,銀欣 ML08 黑
+機殼 CASE,銀欣 ML09 黑 顯卡長17.5(LP)/CPU高3.7(7)/ITX(ML09B)【SFX】【客訂】,2040,2024-03-17,銀欣,ITX(ML09B)【SFX】【客訂】,CPU高3.7(7),,銀欣 ML09 黑
+機殼 CASE,銀欣 FARA 511Z 顯卡長36/CPU高16.2/玻璃透側/ATX(FA511Z-BG),1990,2024-03-17,銀欣,ATX(FA511Z-BG),CPU高16.2,玻璃,銀欣 FARA 511Z 黑
+機殼 CASE,銀欣 FARA 512Z 顯卡長36/CPU高16.2/玻璃透側/ATX(FA512Z-BG),1990,2024-03-17,銀欣,ATX(FA512Z-BG),CPU高16.2,玻璃,銀欣 FARA 512Z 玻璃透側
+機殼 CASE,銀欣 FARA V1M PRO 顯卡長35.2/CPU高16.3/玻璃透側/ARGB燈條面板/M-ATX,1690,2024-03-17,銀欣,M-ATX,CPU高16.3,玻璃,銀欣 FARA V1M PRO 黑
+機殼 CASE,銀欣 FARA R1 V2 黑 顯卡長34/CPU高16.1/玻璃透側/ATX(FAR1B-G-V2),1690,2024-03-17,銀欣,ATX(FAR1B-G-V2),CPU高16.1,玻璃,銀欣 FARA R1 V2 黑
+機殼 CASE,銀欣 FARA R1 PRO V2 黑 顯卡長34/CPU高16.1/玻璃透側/ATX(FAR1B-PRO-V2),2490,2024-03-17,銀欣,ATX(FAR1B-PRO-V2),CPU高16.1,玻璃,銀欣 FARA R1 PRO V2 黑
+機殼 CASE,銀欣 FARA R1 PRO V2 白 顯卡長34/CPU高16.1/玻璃透側/ATX(FAR1W-PRO-V2),2490,2024-03-17,銀欣,ATX(FAR1W-PRO-V2),CPU高16.1,玻璃,銀欣 FARA R1 PRO V2 白
+機殼 CASE,銀欣 SETA A1 鈦黑 顯卡長35/CPU高17.5/鋁製面板/玻璃透側/ATX(SEA1TB-G),3090,2024-03-17,銀欣,ATX(SEA1TB-G),CPU高17.5,玻璃,銀欣 SETA A1 鈦黑
+機殼 CASE,銀欣 SETA H1 顯卡長39.4/CPU高18.2/玻璃透側E-ATX(SEH1B-G),3090,2024-03-17,銀欣,玻璃透側E-ATX(SEH1B-G),CPU高18.2,玻璃,銀欣 SETA H1 黑
+機殼 CASE,銀欣 SETA Q1 靜音機殼 顯卡長39.4/CPU高18.2/迷宮式降噪面板/E-ATX(SEQ1B),4300,2024-03-17,銀欣,E-ATX(SEQ1B),CPU高18.2,,銀欣 SETA Q1 靜音機殼黑
+機殼 CASE,銀欣 CS380 顯卡長24.1/CPU高14.6/3.5吋硬碟*8熱插拔/帶鎖門板設計/ATX【客訂】,5200,2024-03-17,銀欣,ATX【客訂】,CPU高14.6,,銀欣 CS380黑
+機殼 CASE,銀欣 SG05-LITE 黑 顯卡長22.8/CPU高8/ITX(SG05BB-LITE)【SFX】,1400,2024-03-17,銀欣,ITX(SG05BB-LITE)【SFX】,CPU高8,,銀欣 SG05-LITE 黑
+機殼 CASE,銀欣 SG13 鐵網版 顯卡長27/CPU高6/SSD*3/網孔面板/ITX(SG13B),1230,2024-03-17,銀欣,ITX(SG13B),CPU高6,,銀欣 SG13 鐵網版
+機殼 CASE,銀欣 SG13 仿金屬紋版 顯卡長27/CPU高6/拉絲面板/ITX(SG13B-Q),1290,2024-03-17,銀欣,ITX(SG13B-Q),CPU高6,,銀欣 SG13 仿金屬紋版
+機殼 CASE,銀欣 SUGO 14 白 顯卡長33/CPU高18.2/電供深15/ITX(SG14W) 原價$3200,2090,2024-03-17,銀欣,ITX(SG14W) 原價$3200,CPU高18.2,,銀欣 SUGO 14 白
+機殼 CASE,銀欣 SUGO 16 黑 顯卡長27.5/CPU高8.5(17.2)/ITX(SG16B)【建議安裝SFX電供】,1790,2024-03-17,銀欣,ITX(SG16B)【建議安裝SFX電供】,CPU高8.5(17.2),,銀欣 SUGO 16 黑
+機殼 CASE,銀欣 SUGO 16 白 顯卡長27.5/CPU高8.5(17.2)/ITX(SG16W)【建議安裝SFX電供】,1790,2024-03-17,銀欣,ITX(SG16W)【建議安裝SFX電供】,CPU高8.5(17.2),,銀欣 SUGO 16 白
+機殼 CASE,銀欣 SUGO 16 粉 顯卡長27.5/CPU高8.5(17.2)/ITX(SG16P)【建議安裝SFX電供】,1890,2024-03-17,銀欣,ITX(SG16P)【建議安裝SFX電供】,CPU高8.5(17.2),,銀欣 SUGO 16 粉
+機殼 CASE,曜越 Versa T27 TG ARGB 顯卡長38/CPU高17.5/玻璃透側/E-ATX 獨家原價$2690！,1890,2024-03-17,曜越,E-ATX 獨家原價$2690！,CPU高17.5,玻璃,曜越 Versa T27 TG ARGB
+機殼 CASE,曜越 View 300 MX 黑 顯卡長40/CPU高17.5/玻璃透側/雙面版/E-ATX 獨家原價$3990！,3290,2024-03-17,曜越,E-ATX 獨家原價$3990！,CPU高17.5,玻璃,曜越 View 300 MX 黑
+機殼 CASE,曜越 View 300 MX 白 顯卡長40/CPU高17.5/玻璃透側/雙面版/E-ATX 獨家原價$3990！,3290,2024-03-17,曜越,E-ATX 獨家原價$3990！,CPU高17.5,玻璃,曜越 View 300 MX 白
+機殼 CASE,曜越 View 200 TG ARGB 黑 顯卡長33/CPU高16.6/玻璃透側/ATX,1590,2024-03-17,曜越,ATX,CPU高16.6,玻璃,曜越 View 200 TG ARGB 黑
+機殼 CASE,曜越 View 200 TG ARGB 白 顯卡長33/CPU高16.6/玻璃透側/ATX,1590,2024-03-17,曜越,ATX,CPU高16.6,玻璃,曜越 View 200 TG ARGB 白
+機殼 CASE,曜越 View 270 TG ARGB 黑 顯卡長42/CPU高18/全景玻璃透測/ATX,1990,2024-03-17,曜越,ATX,CPU高18,玻璃,曜越 View 270 TG ARGB 黑
+機殼 CASE,曜越 View 270 TG ARGB 白 顯卡長42/CPU高18/全景玻璃透測/ATX,2090,2024-03-17,曜越,ATX,CPU高18,玻璃,曜越 View 270 TG ARGB 白
+機殼 CASE,曜越 View 270 TG ARGB 抹茶綠 顯卡長42/CPU高18/全景玻璃透測/ATX,2290,2024-03-17,曜越,ATX,CPU高18,玻璃,曜越 View 270 TG ARGB 抹茶綠
+機殼 CASE,曜越 View 270 TG ARGB 繡球花藍 顯卡長42/CPU高18/全景玻璃透測/ATX,2290,2024-03-17,曜越,ATX,CPU高18,玻璃,曜越 View 270 TG ARGB 繡球花藍
+機殼 CASE,曜越 The Tower 100 黑 顯卡長33/CPU高19/全景直立式/三面玻璃透側/ITX,2690,2024-03-17,曜越,ITX,CPU高19,玻璃,曜越 The Tower 100 黑
+機殼 CASE,曜越 The Tower 100 松石綠 顯卡長33/CPU高19/全景直立式/三面玻璃透側/ITX,2890,2024-03-17,曜越,ITX,CPU高19,玻璃,曜越 The Tower 100 松石綠
+機殼 CASE,曜越 The Tower 100 競速綠 顯卡長33/CPU高19/全景直立式/三面玻璃透側/ITX,2890,2024-03-17,曜越,ITX,CPU高19,玻璃,曜越 The Tower 100 競速綠
+機殼 CASE,曜越 The Tower 100 雪白版 顯卡長33/CPU高19/全景直立式/三面玻璃透側/ITX,2890,2024-03-17,曜越,ITX,CPU高19,玻璃,曜越 The Tower 100 雪白
+機殼 CASE,曜越 The Tower 100 尊爵金 顯卡長33/CPU高19/全景直立式/三面玻璃透側/ITX,2890,2024-03-17,曜越,ITX,CPU高19,玻璃,曜越 The Tower 100 尊爵金
+機殼 CASE,曜越 The Tower 200 黑 顯卡長38/CPU高20/全景直立式/玻璃透側/ITX,3290,2024-03-17,曜越,ITX,CPU高20,玻璃,曜越 The Tower 200 黑
+機殼 CASE,曜越 The Tower 200 白 顯卡長38/CPU高20/全景直立式/玻璃透側/ITX,3290,2024-03-17,曜越,ITX,CPU高20,玻璃,曜越 The Tower 200 白
+機殼 CASE,曜越 The Tower 200 抹茶綠 顯卡長38/CPU高20/全景直立式/玻璃透側/ITX,3490,2024-03-17,曜越,ITX,CPU高20,玻璃,曜越 The Tower 200 抹茶綠
+機殼 CASE,曜越 The Tower 300 黑 顯卡長40/CPU高21/全景直立式/玻璃透側/支援背插/M-ATX,3990,2024-03-17,曜越,M-ATX,CPU高21,玻璃,曜越 The Tower 300 黑
+機殼 CASE,曜越 The Tower 300 白 顯卡長40/CPU高21/全景直立式/玻璃透側/支援背插/M-ATX,3990,2024-03-17,曜越,M-ATX,CPU高21,玻璃,曜越 The Tower 300 白
+機殼 CASE,曜越 The Tower 300 抹茶綠 顯卡長40/CPU高21/全景直立式/玻璃透側/支援背插/M-ATX,4290,2024-03-17,曜越,M-ATX,CPU高21,玻璃,曜越 The Tower 300 抹茶綠
+機殼 CASE,曜越 The Tower 300 繡球花藍 顯卡長40/U高21/全景直立式/玻璃透側/支援背插/M-ATX,4290,2024-03-17,曜越,M-ATX,U高21,玻璃,曜越 The Tower 300 繡球花藍
+機殼 CASE,曜越 The Tower 500 黑 顯卡長32.5(35.5)/CPU高27.5/全景直立式/三面玻璃/E-ATX,4890,2024-03-17,曜越,E-ATX,CPU高27.5,玻璃,曜越 The Tower 500 黑
+機殼 CASE,曜越 The Tower 500 雪白版 顯卡長32.5(35.5)/CPU高27.5/全景直立式/三面玻璃/E-ATX,4890,2024-03-17,曜越,E-ATX,CPU高27.5,玻璃,曜越 The Tower 500 雪白
+機殼 CASE,曜越 The Tower 500 黑/全景直立式/三面玻璃/E-ATX+ LCD液晶配件組(合購優惠價),6890,2024-03-17,曜越,E-ATX+ LCD液晶配件組(合購優惠價),,玻璃,曜越 The Tower 500 黑
+機殼 CASE,曜越 The Tower 500 雪白版/全景直立式/三面玻璃/E-ATX+ LCD液晶配件組(合購優惠價),6890,2024-03-17,曜越,E-ATX+ LCD液晶配件組(合購優惠價),,玻璃,曜越 The Tower 500 雪白
+機殼 CASE,曜越 Ceres 300 TG ARGB 黑 顯卡長37/CPU高18.5/玻璃透側/E-ATX,2390,2024-03-17,曜越,E-ATX,CPU高18.5,玻璃,曜越 Ceres 300 TG ARGB 黑
+機殼 CASE,曜越 Ceres 300 TG ARGB 白 顯卡長37/CPU高18.5/玻璃透側/E-ATX,2390,2024-03-17,曜越,E-ATX,CPU高18.5,玻璃,曜越 Ceres 300 TG ARGB 白
+機殼 CASE,曜越 Ceres 300 TG ARGB 抹茶綠 顯卡長37/CPU高18.5/玻璃透側/E-ATX,2990,2024-03-17,曜越,E-ATX,CPU高18.5,玻璃,曜越 Ceres 300 TG ARGB 抹茶綠
+機殼 CASE,曜越 Ceres 300 TG ARGB(抹茶綠)+曜越 TH280 V2 ARGB(抹茶綠)水冷散熱器 現省$700,5680,2024-03-17,曜越,,,,曜越 Ceres 300 TG ARGB(抹茶綠)+TH280 V2 ARGB(抹茶綠)
+機殼 CASE,曜越 Ceres 500 TG ARGB 黑 顯卡長42.5/CPU高18.5/玻璃透側/E-ATX,4890,2024-03-17,曜越,E-ATX,CPU高18.5,玻璃,曜越 Ceres 500 TG ARGB 黑
+機殼 CASE,曜越 Ceres 500 TG ARGB 白 顯卡長42.5/CPU高18.5/玻璃透側/E-ATX,4890,2024-03-17,曜越,E-ATX,CPU高18.5,玻璃,曜越 Ceres 500 TG ARGB 白
+機殼 CASE,曜越 CTE C750 TG ARGB 白 顯卡長42/CPU高19/三面進氣/雙艙設計/玻璃透側/E-ATX,5590,2024-03-17,曜越,E-ATX,CPU高19,玻璃,曜越 CTE C750 TG ARGB 白
+機殼 CASE,曜越 AH T200 黑 卡長32/U高15/雙側玻璃/硬碟厚度限2.2/M-ATX,4990,2024-03-17,曜越,M-ATX,U高15,玻璃,曜越 AH T200 黑
+機殼 CASE,曜越 AH T200 松石綠 卡長32/U高15/雙側玻璃/硬碟厚度限2.2/M-ATX,4990,2024-03-17,曜越,M-ATX,U高15,玻璃,曜越 AH T200 松石綠
+機殼 CASE,曜越 AH T200 雪白版 卡長32/U高15/雙側玻璃/硬碟厚度限2.2/M-ATX,4990,2024-03-17,曜越,M-ATX,U高15,玻璃,曜越 AH T200 雪白
+機殼 CASE,海盜船 4000D Airflow 黑 顯卡長36/CPU高17/玻璃透側/E-ATX(9011200),2790,2024-03-17,海盜船,E-ATX(9011200),CPU高17,玻璃,海盜船 4000D Airflow 黑
+機殼 CASE,海盜船 4000D Airflow 白 顯卡長36/CPU高17/玻璃透側/E-ATX(9011201),2790,2024-03-17,海盜船,E-ATX(9011201),CPU高17,玻璃,海盜船 4000D Airflow 白
+機殼 CASE,海盜船 iCUE 4000X RGB 黑 顯卡長36/CPU高17/玻璃透側/E-ATX(9011204),4290,2024-03-17,海盜船,E-ATX(9011204),CPU高17,玻璃,海盜船 iCUE 4000X RGB 黑
+機殼 CASE,海盜船 iCUE 4000X RGB 白 顯卡長36/CPU高17/玻璃透側/E-ATX(9011205),4290,2024-03-17,海盜船,E-ATX(9011205),CPU高17,玻璃,海盜船 iCUE 4000X RGB 白
+機殼 CASE,海盜船 5000D Airflow 白 顯卡長42/CPU高17/玻璃透側/PWM集線器/E-ATX(9011211),4790,2024-03-17,海盜船,E-ATX(9011211),CPU高17,玻璃,海盜船 5000D Airflow 白
+機殼 CASE,海盜船 iCUE 5000X RGB 黑 顯卡長42/CPU高17/玻璃透側/E-ATX(9011212),5990,2024-03-17,海盜船,E-ATX(9011212),CPU高17,玻璃,海盜船 iCUE 5000X RGB 黑
+機殼 CASE,海盜船 iCUE 5000X RGB 白 顯卡長42/CPU高17/玻璃透側/E-ATX(9011213),5990,2024-03-17,海盜船,E-ATX(9011213),CPU高17,玻璃,海盜船 iCUE 5000X RGB 白
+機殼 CASE,海盜船 7000D Airflow 黑 顯卡長45/CPU高19/玻璃透側/PWM集線器/E-ATX(9011218),7690,2024-03-17,海盜船,E-ATX(9011218),CPU高19,玻璃,海盜船 7000D Airflow 黑
+機殼 CASE,海盜船 7000D Airflow 白 顯卡長42/CPU高19/玻璃透側/PWM集線器/E-ATX(9011219),7690,2024-03-17,海盜船,E-ATX(9011219),CPU高19,玻璃,海盜船 7000D Airflow 白
+機殼 CASE,海盜船 iCUE 7000X RGB 黑 顯卡長42/CPU高19/玻璃透側/E-ATX(9011226),9590,2024-03-17,海盜船,E-ATX(9011226),CPU高19,玻璃,海盜船 iCUE 7000X RGB 黑
+機殼 CASE,海盜船 iCUE 7000X RGB 白 顯卡長42/CPU高19/玻璃透側/E-ATX(9011227),9590,2024-03-17,海盜船,E-ATX(9011227),CPU高19,玻璃,海盜船 iCUE 7000X RGB 白
+機殼 CASE,i-CoolTw 水玲瓏(白) 顯卡長17/CPU高9/內附i-cool 400W電源【僅支援6孔M-ATX】,1490,2024-03-17,i-CoolTw,內附i-cool 400W電源【僅支援6孔M-ATX】,CPU高9,,i-CoolTw 水玲瓏(白)
+機殼 CASE,i-CoolTw 小珊瑚(黑) 顯卡長17/CPU高9/內附i-cool 400W電源【僅支援6孔M-ATX】,1490,2024-03-17,i-CoolTw,內附i-cool 400W電源【僅支援6孔M-ATX】,CPU高9,,i-CoolTw 小珊瑚(黑)

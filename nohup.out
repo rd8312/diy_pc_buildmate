@@ -1,0 +1,195 @@
+/home/pc_diy/.conda/envs/llm/lib/python3.10/site-packages/langchain/chat_models/__init__.py:31: LangChainDeprecationWarning: Importing chat models from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.chat_models import ChatOpenAI`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+/home/pc_diy/.conda/envs/llm/lib/python3.10/site-packages/langchain/document_loaders/__init__.py:36: LangChainDeprecationWarning: Importing document loaders from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.document_loaders import JSONLoader`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+2024-03-22 15:09:05 - Loading faiss with AVX2 support.
+2024-03-22 15:09:05 - Successfully loaded faiss with AVX2 support.
+/home/pc_diy/.conda/envs/llm/lib/python3.10/site-packages/langchain/embeddings/__init__.py:29: LangChainDeprecationWarning: Importing embeddings from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.embeddings import OpenAIEmbeddings`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+/home/pc_diy/.conda/envs/llm/lib/python3.10/site-packages/langchain/vectorstores/__init__.py:35: LangChainDeprecationWarning: Importing vector stores from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.vectorstores import Chroma`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+2024-03-22 15:09:05 - Your app is available at http://localhost:8000
+2024-03-22 15:09:07 - pickle data was truncated
+Traceback (most recent call last):
+  File "/home/pc_diy/.conda/envs/llm/lib/python3.10/site-packages/chainlit/utils.py", line 39, in wrapper
+    return await user_function(**params_values)
+  File "/home/pc_diy/pc_diy/app.py", line 52, in on_chat_start
+    retrieve_chain, _ = chain_manager.make_chain('Retrieve')
+  File "/home/pc_diy/pc_diy/chains.py", line 128, in make_chain
+    return self.build_chain(chain_name)
+  File "/home/pc_diy/pc_diy/chains.py", line 174, in build_chain
+    chain = Retrieve_2(chain_data)
+  File "/home/pc_diy/pc_diy/chains.py", line 239, in __init__
+    embeddings = pickle.load(f)
+_pickle.UnpicklingError: pickle data was truncated
+2024-03-22 15:09:10 - Translation file for zh-TW not found. Using default translation en-US.
+2024-03-22 15:09:10 - pickle data was truncated
+Traceback (most recent call last):
+  File "/home/pc_diy/.conda/envs/llm/lib/python3.10/site-packages/chainlit/utils.py", line 39, in wrapper
+    return await user_function(**params_values)
+  File "/home/pc_diy/pc_diy/app.py", line 52, in on_chat_start
+    retrieve_chain, _ = chain_manager.make_chain('Retrieve')
+  File "/home/pc_diy/pc_diy/chains.py", line 128, in make_chain
+    return self.build_chain(chain_name)
+  File "/home/pc_diy/pc_diy/chains.py", line 174, in build_chain
+    chain = Retrieve_2(chain_data)
+  File "/home/pc_diy/pc_diy/chains.py", line 239, in __init__
+    embeddings = pickle.load(f)
+_pickle.UnpicklingError: pickle data was truncated
+2024-03-22 15:09:29 - 'NoneType' object has no attribute 'save_json'
+Traceback (most recent call last):
+  File "/home/pc_diy/.conda/envs/llm/lib/python3.10/site-packages/chainlit/utils.py", line 39, in wrapper
+    return await user_function(**params_values)
+  File "/home/pc_diy/pc_diy/app.py", line 174, in on_chat_end
+    logger.save_json()
+AttributeError: 'NoneType' object has no attribute 'save_json'
+2024-03-22 15:09:29 - 'NoneType' object has no attribute 'save_json'
+Traceback (most recent call last):
+  File "/home/pc_diy/.conda/envs/llm/lib/python3.10/site-packages/chainlit/utils.py", line 39, in wrapper
+    return await user_function(**params_values)
+  File "/home/pc_diy/pc_diy/app.py", line 174, in on_chat_end
+    logger.save_json()
+AttributeError: 'NoneType' object has no attribute 'save_json'
+/home/pc_diy/.conda/envs/llm/lib/python3.10/site-packages/langchain/chat_models/__init__.py:31: LangChainDeprecationWarning: Importing chat models from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.chat_models import ChatOpenAI`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+/home/pc_diy/.conda/envs/llm/lib/python3.10/site-packages/langchain/document_loaders/__init__.py:36: LangChainDeprecationWarning: Importing document loaders from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.document_loaders import JSONLoader`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+2024-03-22 15:11:46 - Loading faiss with AVX2 support.
+2024-03-22 15:11:46 - Successfully loaded faiss with AVX2 support.
+/home/pc_diy/.conda/envs/llm/lib/python3.10/site-packages/langchain/embeddings/__init__.py:29: LangChainDeprecationWarning: Importing embeddings from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.embeddings import OpenAIEmbeddings`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+/home/pc_diy/.conda/envs/llm/lib/python3.10/site-packages/langchain/vectorstores/__init__.py:35: LangChainDeprecationWarning: Importing vector stores from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.vectorstores import Chroma`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+2024-03-22 15:11:46 - Your app is available at http://localhost:8000
+2024-03-22 15:11:48 - Translation file for zh-TW not found. Using default translation en-US.
+2024-03-22 15:37:54 - Translation file for zh-TW not found. Using default translation en-US.
+2024-03-22 15:38:51 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-03-22 15:38:52 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-03-22 15:38:53 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-03-22 15:38:54 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+/home/pc_diy/pc_diy/app.py:111: RuntimeWarning: coroutine 'Message.update' was never awaited
+  msg.update()
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+====================
+專家諮詢: False
+User_message: 123
+Class: 2
+Answer: 查無資料
+Timestamp: 1711121934.0406334
+====================
+2024-03-22 15:38:57 - Translation file for zh-TW not found. Using default translation en-US.
+2024-03-22 15:40:16 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-03-22 15:40:17 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-03-22 15:40:18 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-03-22 15:40:19 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+/home/pc_diy/pc_diy/app.py:111: RuntimeWarning: coroutine 'Message.update' was never awaited
+  msg.update()
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+====================
+專家諮詢: False
+User_message: ZOTAC GT1030 2GB GDDR5 HDMI/DVI Low Profile多少錢
+Class: 2
+Answer: 2790
+Timestamp: 1711122019.293376
+====================
+2024-03-22 16:46:07 - Translation file for zh-TW not found. Using default translation en-US.
+2024-03-22 16:46:26 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-03-22 16:46:27 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+====================
+專家諮詢: False
+User_message: 為什麼大家組電腦都會用 BuildMate？
+Class: 1
+Answer: BuildMate 是一個知名的電腦配件品牌，廣受消費者好評的原因有幾點：
+
+1. 品質優良：BuildMate 的產品品質優良，經過嚴格的品質控制和測試，能夠確保產品的穩定性和耐用性。
+
+2. 價格合理：BuildMate 的價格相對於其他品牌來說比較合理，同時也提供不錯的性能表現，讓消費者在購買時能夠獲得物超所值的感受。
+
+3. 多樣性選擇：BuildMate 提供了各種不同類型的電腦配件，包括主機板、顯示卡、記憶體、硬碟等，讓消費者可以根據自己的需求和預算來選擇合適的配件。
+
+總的來說，BuildMate 是一個值得信賴的品牌，其產品品質和性價比都能滿足消費者的需求，因此大家都會選擇使用 BuildMate 來組裝電腦。
+Timestamp: 1711125994.951937
+====================
+2024-03-22 16:46:55 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-03-22 16:46:56 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+====================
+專家諮詢: False
+User_message: 為什麼大家組電腦都會問 BuildMate？
+Class: 1
+Answer: BuildMate 是一家知名的電腦配件零售商，他們提供了廣泛的電腦配件選擇，並且擁有專業的客服團隊，能夠提供客製化的建議和支援。因此，許多人選擇向 BuildMate 諮詢建議，以確保他們組裝的電腦能夠滿足他們的需求並且具有良好的性能。如果您有任何關於電腦配件的問題，我們建議您向 BuildMate 查詢，以獲得專業的建議和支援。
+Timestamp: 1711126022.9175863
+====================
+2024-03-22 16:47:13 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+/home/pc_diy/pc_diy/app.py:134: RuntimeWarning: coroutine 'Message.update' was never awaited
+  msg.update()
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+====================
+專家諮詢: False
+User_message: 他不是智能 chatbot 嗎？
+Class: 5
+Answer: 這個問題超出了小X能回答的範圍，請嘗試詢問其他PC DIY問題～
+Timestamp: 1711126033.7915158
+====================
+2024-03-22 16:47:37 - Translation file for zh-TW not found. Using default translation en-US.
+2024-03-23 04:57:21 - Translation file for zh-TW not found. Using default translation en-US.
+/home/pc_diy/.conda/envs/llm/lib/python3.10/site-packages/langchain/chat_models/__init__.py:31: LangChainDeprecationWarning: Importing chat models from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.chat_models import ChatOpenAI`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+/home/pc_diy/.conda/envs/llm/lib/python3.10/site-packages/langchain/document_loaders/__init__.py:36: LangChainDeprecationWarning: Importing document loaders from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.document_loaders import JSONLoader`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+2024-03-24 13:47:47 - Loading faiss with AVX2 support.
+2024-03-24 13:47:47 - Successfully loaded faiss with AVX2 support.
+/home/pc_diy/.conda/envs/llm/lib/python3.10/site-packages/langchain/embeddings/__init__.py:29: LangChainDeprecationWarning: Importing embeddings from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.embeddings import OpenAIEmbeddings`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+/home/pc_diy/.conda/envs/llm/lib/python3.10/site-packages/langchain/vectorstores/__init__.py:35: LangChainDeprecationWarning: Importing vector stores from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.vectorstores import Chroma`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+2024-03-24 13:47:48 - Your app is available at http://localhost:8000
+2024-03-24 13:47:50 - Translation file for zh-TW not found. Using default translation en-US.
+2024-03-24 14:01:48 - Translation file for zh-TW not found. Using default translation en-US.

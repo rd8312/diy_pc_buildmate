@@ -1,0 +1,303 @@
+﻿class,name,price,etl_date,model,size,brand,company
+主機板 MB,華碩 Tinker Fanless Aluminum Case 樹莓派鋁質機殼 (2/2S 不支援) *尾盤,399,2024-03-03,Unknown,Unknown,華碩,華碩
+主機板 MB,華碩 PRO WS W680M-ACE SE(M-ATX/1A1H1P/雙Intel 2.5Gb+Realtek 1Gb/註四年),12990,2024-03-03,M-ACE,ATX,華碩,華碩
+主機板 MB,華碩 PRO WS W680-ACE(ATX/1A1H1P/雙Intel 2.5Gb/註四年) 穩定.可靠性高,9990,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,華碩 Pro WS W790E-SAGE SE(EEB/8*DDR5/2*Intel 10G+Realtek 1Gb)14+1+1功率級,39990,2024-03-03,E-SAGE,Unknown,華碩,華碩
+主機板 MB,華擎 W790 WS(EEB/8*DDR5/2*Marvell 10G+Intel 2.5Gb+無線)20+2相供電,34990,2024-03-03,Unknown,Unknown,Unknown,Unknown
+主機板 MB,華碩 H110M-K【單片盒裝】(M-ATX/1A1D/U3/Realtek 1Gb/全固/註四年),2490,2024-03-03,M-K,ATX,華碩,華碩
+主機板 MB,華碩 PRIME H310M-K(M-ATX/1A1D/Realtek 1Gb/註四年),2490,2024-03-03,M-K,ATX,華碩,華碩
+主機板 MB,技嘉 H110M-S2PV(M-ATX/1A1D/Realtek 1Gb/註四年),2290,2024-03-03,M-S2PV,ATX,技嘉,技嘉
+主機板 MB,華碩 PRIME H510M-K(M-ATX/1A1H/Intel 1Gb/註四年),2490,2024-03-03,M-K,ATX,華碩,華碩
+主機板 MB,微星 B560M PRO-E(M-ATX/1A1H/Intel 1Gb/註四年) 4+2+1相供電-尾盤,2350,2024-03-03,PRO-E,ATX,微星,微星
+主機板 MB,華碩 PRIME H610I-PLUS-CSM(DDR5)(Mini-ITX/Intel 1Gb/註四年)5+1+1相供電,3590,2024-03-03,I-PLUS,ITX,華碩,華碩
+主機板 MB,華碩 PRIME H610M-K-CSM(DDR5)(M-ATX/Realtek 1Gb/註冊四年/2DIMM),2990,2024-03-03,M-K,ATX,華碩,華碩
+主機板 MB,華碩 PRIME H610M-K-CSM(DDR5)(M-ATX/Realtek 1Gb/註冊四年/2DIMM)-[裝機價],2390,2024-03-03,M-K,ATX,華碩,華碩
+主機板 MB,華碩 PRIME H610M-E-CSM(DDR5)(M-ATX/Realtek 1Gb/註冊四年/2DIMM),3090,2024-03-03,M-E,ATX,華碩,華碩
+主機板 MB,華碩 PRO H610M-C-CSM(DDR5)(M-ATX/Intel 1Gb/註冊四年/2DIMM),3190,2024-03-03,M-C,ATX,華碩,華碩
+主機板 MB,華碩 PRIME H610M-K D4-CSM(M-ATX/1A1H/Realtek 1Gb/註冊四年/2DIMM)6+1+1相,2890,2024-03-03,M-K,ATX,華碩,華碩
+主機板 MB,華碩 PRIME H610M-K D4-CSM(M-ATX/1A1H/R 1Gb/2DIMM)6+1+1相-[裝機價]3/31止,2290,2024-03-03,M-K,ATX,華碩,華碩
+主機板 MB,華碩 PRIME H610M-E D4-CSM(M-ATX/1H1P/Realtek 1Gb/註冊四年/2DIMM)6+1+1相,2990,2024-03-03,M-E,ATX,華碩,華碩
+主機板 MB,華碩 PRIME H610M-E D4-CSM(M-ATX/1H1P/R 1Gb/2DIMM)6+1+1相-[裝機價]3/31止,2390,2024-03-03,M-E,ATX,華碩,華碩
+主機板 MB,華碩 PRIME H610I-PLUS D4-CSM(Mini-ITX/1A1H1P/Realtek 1Gb/2DIMM)5+1+1相,3490,2024-03-03,I-PLUS,ITX,華碩,華碩
+主機板 MB,技嘉 H610M K DDR4(M-ATX/1H/Realtek 1Gb/註四年/2DIMM)5相供電-[裝機價],1990,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,技嘉 H610M H DDR4(M-ATX/1A1H/Intel 1Gb/註四年) 6+1+1 相電源*尾盤,2690,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,技嘉 H610M H V2 DDR4(M-ATX/1A1H/Realtek 1Gb/註四年/2DIMM)6+1+1 相電源,2690,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,技嘉 H610M S2H DDR4(M-ATX/1A1D1H1P/Intel 1Gb/註四年/2DIMM) 6+1+1 相電源,2790,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,技嘉 H610M S2H V2 DDR4(M-ATX/Intel 1Gb/註四年/2DIMM)6+1+1 相電源,2790,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,微星 PRO H610M-E DDR4(M-ATX/Realtek 1Gb/註四年/2DIMM)6+1+1 相電源,2290,2024-03-03,M-E,ATX,微星,微星
+主機板 MB,微星 PRO H610M-G WIFI DDR4(M-ATX/Intel 1Gb+無線/註四年/2DIMM)8+1+1 相電源,2890,2024-03-03,M-G,ATX,微星,微星
+主機板 MB,華擎 H610M-ITX/eDP(Mini-ITX/Intel 1Gb+WiFi ac+BT5.1/三年保)6相電源.支援eDP,4090,2024-03-03,M-ITX,ITX,Unknown,Unknown
+主機板 MB,華擎 H610M-HDV/M.2 R2.0(M-ATX/1A1H1P/Realtek 1Gb/三年保) 7相電源,2290,2024-03-03,M-HDV,ATX,Unknown,Unknown
+主機板 MB,華碩 TUF GAMING B660M-PLUS WIFI DDR5(M-ATX/Realtek 2.5G+無線)10+1+1相,3590,2024-03-03,M-PLUS,ATX,華碩,華碩
+主機板 MB,微星 PRO B660M-G DDR4(M-ATX/1A1H1P/Realtek 2.5Gb/註冊四年保)8+1相電源,2990,2024-03-03,M-G,ATX,微星,微星
+主機板 MB,華擎 B660M-HDV DDR4(M-ATX/1A1H1P/Intel 1Gb/註冊四年) 6相電源,2590,2024-03-03,M-HDV,ATX,Unknown,Unknown
+主機板 MB,華擎 B660M PG Riptide DDR4(M-ATX/1H1P/Dragon 2.5Gb/註冊五年)15相電源,3490,2024-03-03,M-ATX,ATX,Unknown,Unknown
+主機板 MB,華碩 EX-B760M-V5 D4(M-ATX/Realtek 2.5Gb/註冊四年/2DIMM)8相供電 [促銷價],2890,2024-03-03,EX-B760M,ATX,華碩,華碩
+主機板 MB,華碩 PRIME B760M-K D4-CSM(M-ATX/Realtek 2.5Gb/註四年/2DIMM)8相-任搭到3/31,3490,2024-03-03,M-K,ATX,華碩,華碩
+主機板 MB,【狂】華碩 PRIME B760M-K D4-CSM + Intel i3-14100【4核/8緒】至3/31止,7590,2024-03-03,M-K,Unknown,華碩,華碩
+主機板 MB,【狂】華碩 PRIME B760M-K D4-CSM + Intel i5-14400【10核/16緒】至3/31止,10390,2024-03-03,M-K,Unknown,華碩,華碩
+主機板 MB,【狂】華碩 PRIME B760M-K D4-CSM + Intel i7-14700【20核/28緒】至3/31止,15990,2024-03-03,M-K,Unknown,華碩,華碩
+主機板 MB,華碩 PRIME B760M-A D4-CSM(M-ATX/Realtek 2.5Gb/註冊四年)8相供電-優惠到3/31,3490,2024-03-03,M-A,ATX,華碩,華碩
+主機板 MB,華碩 PRIME B760M-A WIFI D4-CSM(M-ATX/Realtek 2.5Gb+無線/註冊四年)10相,4590,2024-03-03,M-A,ATX,華碩,華碩
+主機板 MB,【狂】華碩 PRIME B760M-A WIFI D4-CSM + Intel i3-14100【4核/8緒】至3/31止,8690,2024-03-03,M-A,Unknown,華碩,華碩
+主機板 MB,【狂】華碩 PRIME B760M-A WIFI D4-CSM + Intel i7-14700【20核/28緒】至3/31止,17090,2024-03-03,M-A,Unknown,華碩,華碩
+主機板 MB,華碩 TUF GAMING B760M-E D4(M-ATX/Realtek2.5Gb/註五年)10+1相電源,3990,2024-03-03,M-E,ATX,華碩,華碩
+主機板 MB,華碩 TUF GAMING B760M-PLUS D4(M-ATX/Realtek2.5Gb/註五年)12+1相*獨家供應,4990,2024-03-03,M-PLUS,ATX,華碩,華碩
+主機板 MB,華碩 TUF GAMING B760M-PLUS WIFI D4(M-ATX/Realtek 2.5Gb+無線/註五年)12+1相,5690,2024-03-03,M-PLUS,ATX,華碩,華碩
+主機板 MB,【狂】華碩 TUF GAMING B760M-PLUS WIFI D4 + Intel i5-14400【10核/16緒】至3/31止,12590,2024-03-03,M-PLUS,Unknown,華碩,華碩
+主機板 MB,【狂】華碩 TUF GAMING B760M-PLUS WIFI D4 + Intel i7-13700【16核/24緒】至3/31止,16890,2024-03-03,M-PLUS,Unknown,華碩,華碩
+主機板 MB,【狂】華碩 TUF GAMING B760M-PLUS WIFI D4 + Intel i7-14700【20核/28緒】至3/31止,18190,2024-03-03,M-PLUS,Unknown,華碩,華碩
+主機板 MB,華碩 TUF GAMING B760M-BTF WIFI D4 背插(M-ATX/R2.5Gb+無線/註五年)12+1相,5490,2024-03-03,M-BTF,ATX,華碩,華碩
+主機板 MB,華碩 TUF GAMING B760-PLUS WIFI D4(ATX/Realtek 2.5Gb+無線/註五年)12+1相,5490,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,技嘉 B760I AORUS PRO DDR4(Mini ITX/Intel 2.5Gb+無線/註冊五年)8+1+1相供電,5990,2024-03-03,Unknown,ITX,技嘉,技嘉
+主機板 MB,技嘉 B760M H DDR4(M-ATX/Realtek 1Gb/註冊四年保/2DIMM)6+1+1相供電,2890,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,【狂】技嘉 B760M H DDR4 + Intel i3-14100【4核/8緒】-至3/31止,7390,2024-03-03,Unknown,Unknown,技嘉,技嘉
+主機板 MB,【狂】技嘉 B760M H DDR4 + Intel i5-14400【10核/16緒】-至3/31止,10290,2024-03-03,Unknown,Unknown,技嘉,技嘉
+主機板 MB,技嘉 B760M GAMING DDR4(M-ATX/Realtek 2.5Gb/註冊五年保/2DIMM)6+2+1相供電,3690,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,技嘉 B760M DS3H DDR4(M-ATX/2.5Gb LAN/註冊四年保/4DIMM)6+2相供電,3690,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,技嘉 B760M DS3H AX DDR4(M-ATX/Realtek 2.5Gb+無線/註四年保)6+2+1相供電,4490,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,【狂】技嘉 B760M DS3H AX DDR4 + Intel i3-14100【4核/8緒】-至3/31止,8490,2024-03-03,Unknown,Unknown,技嘉,技嘉
+主機板 MB,【狂】技嘉 B760M DS3H AX DDR4 + Intel i5-14500【6+8核/20緒】活動到3/31止,11690,2024-03-03,Unknown,Unknown,技嘉,技嘉
+主機板 MB,技嘉 B760M D3H DDR4(M-ATX/Intel 2.5Gb/註冊四年保)6+2+1相供電,4990,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,技嘉 B760M GAMING X DDR4(M-ATX/Realtek 2.5Gb/註五年)8+1+1相供電*獨家款,4790,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,技嘉 B760 DS3H DDR4(ATX/Realtek 1Gb/註四年)8+2+1相,4890,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,技嘉 B760 DS3H AX DDR4(ATX/Realtek 1Gb+無線/註四年)8+2+1相,5390,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,技嘉 B760 GAMING X DDR4(ATX/Realtek 2.5Gb/註五年保)8+1+1相,5190,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,技嘉 B760 GAMING X AX DDR4(ATX/Realtek 2.5Gb+無線/註五年保)8+1+1相供電,5690,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,微星 PRO B760M-E DDR4(M-ATX/Realtek 1Gb/註冊四年/2DIMM)6+1+1相供電,2890,2024-03-03,M-E,ATX,微星,微星
+主機板 MB,微星 PRO B760M-B DDR4(M-ATX/Realtek 2.5Gb/註冊四年/2DIMM)6+1相供電,2990,2024-03-03,M-B,ATX,微星,微星
+主機板 MB,微星 PRO B760M-P DDR4(M-ATX/Realtek 1Gb/註冊四年)8相供電,3490,2024-03-03,M-P,ATX,微星,微星
+主機板 MB,微星 PRO B760M-A DDR4 II(M-ATX/Realtek 2.5Gb/註冊四年)14相電源,3990,2024-03-03,M-A,ATX,微星,微星
+主機板 MB,微星 PRO B760M-A WIFI DDR4(M-ATX/Realtek 2.5Gb+無線/註冊四年)14相供電,4590,2024-03-03,M-A,ATX,微星,微星
+主機板 MB,微星 PRO B760-P WIFI DDR4(ATX/Realtek 2.5Gb+Intel 無線/註冊四年)12+1+1相,4890,2024-03-03,Unknown,ATX,微星,微星
+主機板 MB,微星 B760 TOMAHAWK WIFI DDR4(ATX/Realtek 2.5Gb+無線/註五年)12+1+1相,6490,2024-03-03,Unknown,ATX,微星,微星
+主機板 MB,華擎 B760M-ITX/D4 WiFi(Mini-ITX/Realtek 1Gb+無線/註冊四年)5+1+1相,4950,2024-03-03,M-ITX,ITX,Unknown,Unknown
+主機板 MB,華擎 B760M-HDV/M.2 D4(M-ATX/Realtek 1Gb/註冊四年)5+1+1相,2790,2024-03-03,M-HDV,ATX,Unknown,Unknown
+主機板 MB,華擎 B760M PG LIGHTNING/D4(M-ATX/Realtek 1Gb/註冊五年)7+1+1 相供電,3590,2024-03-03,M-ATX,ATX,Unknown,Unknown
+主機板 MB,華擎 B760M Pro RS/D4(M-ATX/Realtek 2.5Gb/註冊四年)7+1+1相,3990,2024-03-03,M-ATX,ATX,Unknown,Unknown
+主機板 MB,華擎 B760 Pro RS/D4(ATX/Realtek 2.5Gb/註冊四年)7+1+1相,3990,2024-03-03,Unknown,ATX,Unknown,Unknown
+主機板 MB,華碩 EX-B760M-V5(M-ATX/Realtek 2.5Gb/註四年/2DIMM)8相供電 [裝機價]任搭優惠到3/31,2990,2024-03-03,EX-B760M,ATX,華碩,華碩
+主機板 MB,華碩 PRIME B760M-K-CSM(M-ATX/Realtek 2.5Gb/註冊四年/2DIMM)8相-任搭優惠到3/31,3590,2024-03-03,M-K,ATX,華碩,華碩
+主機板 MB,【狂】華碩 PRIME B760M-K-CSM + Intel i3-14100【4核/8緒】-至3/31止,7690,2024-03-03,M-K,Unknown,華碩,華碩
+主機板 MB,【狂】華碩 PRIME B760M-K-CSM + Intel i5-14400【10核/16緒】-至3/31止,10590,2024-03-03,M-K,Unknown,華碩,華碩
+主機板 MB,【狂】華碩 PRIME B760M-K-CSM + Intel i7-14700【20核/28緒】-至3/31止,16090,2024-03-03,M-K,Unknown,華碩,華碩
+主機板 MB,華碩 PRIME B760M-A-CSM(M-ATX/Realtek 2.5Gb/註冊四年)8相供電,3590,2024-03-03,M-A,ATX,華碩,華碩
+主機板 MB,【狂】華碩 PRIME B760M-A-CSM + Intel i3-14100【4核/8緒】-至3/31止,8190,2024-03-03,M-A,Unknown,華碩,華碩
+主機板 MB,【狂】華碩 PRIME B760M-A-CSM + Intel i5-14400【10核/16緒】-至3/31止,10990,2024-03-03,M-A,Unknown,華碩,華碩
+主機板 MB,【狂】華碩 PRIME B760M-A-CSM + Intel i7-14700【20核/28緒】-至3/31止,16590,2024-03-03,M-A,Unknown,華碩,華碩
+主機板 MB,華碩 PRIME B760M-A WIFI-CSM(M-ATX/Realtek 2.5Gb+無線/註四年)10相*優惠到3/31,4690,2024-03-03,M-A,ATX,華碩,華碩
+主機板 MB,【狂】華碩 PRIME B760M-A WIFI-CSM + Intel i3-14100【4核/8緒】-至3/31止,9190,2024-03-03,M-A,Unknown,華碩,華碩
+主機板 MB,【狂】華碩 PRIME B760M-A WIFI-CSM + Intel i5-14400【10核/16緒】-至3/31止,12090,2024-03-03,M-A,Unknown,華碩,華碩
+主機板 MB,【狂】華碩 PRIME B760M-A WIFI-CSM + Intel i7-14700【20核/28緒】-至3/31止,17590,2024-03-03,M-A,Unknown,華碩,華碩
+主機板 MB,華碩 TUF GAMING B760M-PLUS(M-ATX/Realtek2.5Gb/註五年)12+1相*獨家供應,4990,2024-03-03,M-PLUS,ATX,華碩,華碩
+主機板 MB,華碩 TUF GAMING B760M-PLUS II(M-ATX/Realtek2.5Gb/註五年)12+1+1相,5290,2024-03-03,M-PLUS,ATX,華碩,華碩
+主機板 MB,華碩 TUF GAMING B760M-PLUS WIFI II(M-ATX/Realtek 2.5Gb+無線/註五年)12+1相,5690,2024-03-03,M-PLUS,ATX,華碩,華碩
+主機板 MB,【狂】華碩 TUF GAMING B760M-PLUS WIFI II + Intel i5-14400【10核/16緒】至3/31止,13190,2024-03-03,M-PLUS,Unknown,華碩,華碩
+主機板 MB,【狂】華碩 TUF GAMING B760M-PLUS WIFI II + Intel i7-13700【16核/24緒】至3/31止,17490,2024-03-03,M-PLUS,Unknown,華碩,華碩
+主機板 MB,【狂】華碩 TUF GAMING B760M-PLUS WIFI II + Intel i7-14700【20核/28緒】至3/31止,18790,2024-03-03,M-PLUS,Unknown,華碩,華碩
+主機板 MB,華碩 TUF GAMING B760M-BTF WIFI 背插(M-ATX/R2.5Gb+無線/註五年)12+1相-3/31止,5490,2024-03-03,M-BTF,ATX,華碩,華碩
+主機板 MB,華碩 TUF GAMING B760-PLUS WIFI(ATX/Realtek 2.5Gb+無線)12+1相*優惠到3/31,5990,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,華碩 ProArt B760-CREATOR WIFI(ATX/Realtek 2.5Gb+Intel 1Gb+無線)12+1相,7290,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,華碩 ROG STRIX B760-I GAMING WIFI(Mini ITX/Intel 2.5Gb+無線/註五年)8+1相,6590,2024-03-03,Unknown,ITX,華碩,華碩
+主機板 MB,華碩 ROG STRIX B760-G GAMING WIFI(M-ATX/Intel 2.5Gb+無線/註五年)12+1相,6790,2024-03-03,M-ATX,ATX,華碩,華碩
+主機板 MB,華碩 ROG STRIX B760-A GAMING WIFI(ATX/Intel 2.5Gb+無線/註五年)12+1相,7290,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,華碩 ROG STRIX B760-F GAMING WIFI(ATX/Intel 2.5Gb+無線/註冊五年)16+1相,7590,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,技嘉 B760M H(M-ATX/Realtek GbE LAN/註冊四年保/2DIMM)6+1+1相,3190,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,【狂】技嘉 B760M H + Intel i3-14100【4核/8緒】-至3/31止,7490,2024-03-03,Unknown,Unknown,技嘉,技嘉
+主機板 MB,【狂】技嘉 B760M H + Intel i5-14400【10核/16緒】-至3/31止,10390,2024-03-03,Unknown,Unknown,技嘉,技嘉
+主機板 MB,技嘉 B760M GAMING WIFI(M-ATX/Realtek 2.5Gb+無線/註冊五年保/2DIMM)6+2+1相,3790,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,技嘉 B760M DS3H(M-ATX/Realtek 2.5Gb/註冊四年保)6+2+1相,3990,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,【狂】技嘉 B760M DS3H + Intel i3-14100【4核/8緒】活動到3/31止,8490,2024-03-03,Unknown,Unknown,技嘉,技嘉
+主機板 MB,【狂】技嘉 B760M DS3H + Intel i5-14500【6+8核/20緒】活動到3/31止,11690,2024-03-03,Unknown,Unknown,技嘉,技嘉
+主機板 MB,【狂】技嘉 B760M DS3H + Intel i7-14700【20核/28緒】活動到3/31止,16790,2024-03-03,Unknown,Unknown,技嘉,技嘉
+主機板 MB,技嘉 B760M DS3H AX(M-ATX/Realtek 2.5Gb+無線/註冊四年保)6+2相,4490,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,【狂】技嘉 B760M DS3H AX + Intel i3-14100【4核/8緒】活動到3/31,8590,2024-03-03,Unknown,Unknown,技嘉,技嘉
+主機板 MB,【狂】技嘉 B760M DS3H AX + Intel i5-14400【10核/16緒】活動到3/31,11390,2024-03-03,Unknown,Unknown,技嘉,技嘉
+主機板 MB,【狂】技嘉 B760M DS3H AX + Intel i5-14500【6+8核/20緒】活動到3/31,11690,2024-03-03,Unknown,Unknown,技嘉,技嘉
+主機板 MB,技嘉 B760M AORUS ELITE(M-ATX/Realtek 2.5Gb/註冊五年保)12+1+1相,5490,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,技嘉 B760M AORUS ELITE AX(M-ATX/Realtek 2.5Gb+無線/註冊五年保)12+1+1相,5990,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,技嘉 B760M AORUS ELITE X AX(M-ATX冰魄白/INTEL 2.5Gb+無線/註五年)14+1+1相,6990,2024-03-03,M-ATX冰魄白,ATX,技嘉,技嘉
+主機板 MB,技嘉 B760M GAMING X(M-ATX/Realtek 2.5Gb/註五年)8+1+1相供電*獨家款,4990,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,技嘉 B760 GAMING X(ATX/Realtek 2.5Gb/註冊五年保)8+1+1相供電,6490,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,技嘉 B760 AORUS ELITE AX(ATX/Realtek 2.5Gb+無線/註冊五年保)12+1相供電,7490,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,微星 B760I EDGE WIFI(Mini ITX/Realtek 2.5Gb+無線/2DIMM)8+1+1相電源,5290,2024-03-03,Unknown,ITX,微星,微星
+主機板 MB,微星 PRO B760M-E(M-ATX/Realtek 1Gb/註冊四年/2DIMM)6+1+1相供電,2990,2024-03-03,M-E,ATX,微星,微星
+主機板 MB,微星 PRO B760M-B(M-ATX/Realtek 2.5Gb/註冊四年/2DIMM)6+1相供電,3090,2024-03-03,M-B,ATX,微星,微星
+主機板 MB,微星 PRO B760M-G(M-ATX/Realtek 2.5Gb/註冊四年)8相供電,3090,2024-03-03,M-G,ATX,微星,微星
+主機板 MB,微星 PRO B760M-P(M-ATX/Realtek 1Gb/註冊四年)8相供電,3690,2024-03-03,M-P,ATX,微星,微星
+主機板 MB,微星 PRO B760M-A WIFI(M-ATX/Realtek 2.5Gb+無線/註冊四年)14相供電,4590,2024-03-03,M-A,ATX,微星,微星
+主機板 MB,微星 B760M BOMBER(M-ATX/Realtek 2.5Gb/註四年/2DIMM)8相供電,2790,2024-03-03,M-ATX,ATX,微星,微星
+主機板 MB,微星 B760M BOMBER WIFI(M-ATX/Realtek 2.5Gb+無線/註四年/2DIMM)6+1+1相,3790,2024-03-03,M-ATX,ATX,微星,微星
+主機板 MB,微星 B760M GAMING WIFI(M-ATX/Realtek 2.5Gb+無線/註五年)6+1相,4390,2024-03-03,M-ATX,ATX,微星,微星
+主機板 MB,微星 B760M MORTAR II(M-ATX/Realtek 2.5Gb/註冊五年保)12+1+1相供電,4990,2024-03-03,M-ATX,ATX,微星,微星
+主機板 MB,微星 B760M MORTAR WIFI(M-ATX/Realtek 2.5Gb+無線/註冊五年保)12+1+1相供電,5490,2024-03-03,M-ATX,ATX,微星,微星
+主機板 MB,微星 B760M MORTAR WIFI II(M-ATX/Realtek 2.5Gb+無線/註冊五年保)12+1+1相供電,5490,2024-03-03,M-ATX,ATX,微星,微星
+主機板 MB,微星 B760M MORTAR MAX WIFI(M-ATX/Realtek 2.5Gb+無線/註五年)12+1+1相,5990,2024-03-03,M-ATX,ATX,微星,微星
+主機板 MB,微星 B760M PROJECT ZERO 背插(M-ATX/Realtek 2.5Gb+無線/註五年)12+1+1相,5990,2024-03-03,M-ATX,ATX,微星,微星
+主機板 MB,微星 B760M EDGE TI WIFI(M-ATX/Realtek 2.5Gb+無線/註五年)12+1+1相供電,6990,2024-03-03,M-ATX,ATX,微星,微星
+主機板 MB,微星 B760 TOMAHAWK WIFI(ATX/Realtek 2.5Gb+無線/註五年)12+1+1相,6490,2024-03-03,Unknown,ATX,微星,微星
+主機板 MB,微星 B760 GAMING PLUS WIFI(ATX/Realtek 2.5Gb+無線/註五年)12+1+1相,5290,2024-03-03,Unknown,ATX,微星,微星
+主機板 MB,微星 B760 GAMING PLUS WIFI(ATX/Realtek 2.5Gb+無線/註五年) 任搭CPU優惠價,4990,2024-03-03,Unknown,ATX,微星,微星
+主機板 MB,華擎 B760M-HDV/M.2(M-ATX/Realtek 2.5Gb/註冊四年)7+1+1相,2790,2024-03-03,M-HDV,ATX,Unknown,Unknown
+主機板 MB,華擎 B760M PG LIGHTNING(M-ATX/Realtek 2.5Gb/註冊五年)7+1+1 相供電,3890,2024-03-03,M-ATX,ATX,Unknown,Unknown
+主機板 MB,華擎 B760M PG SONIC WiFi(M-ATX/Realtek 2.5Gb+無線)12+1+1相.支援eDP,4490,2024-03-03,M-ATX,ATX,Unknown,Unknown
+主機板 MB,華擎 B760M PG Riptide WiFi(M-ATX/Dragon 2.5Gb+無線/註冊五年)14+1+1相,4990,2024-03-03,M-ATX,ATX,Unknown,Unknown
+主機板 MB,華擎 B760 Pro RS(ATX/Realtek 2.5Gb/註冊四年)10+1+1相.支援eDP,4990,2024-03-03,Unknown,ATX,Unknown,Unknown
+主機板 MB,華碩 TUF GAMING H770-PRO WIFI(ATX/Intel 2.5Gb+無線/註冊五年)14+1相供電,6590,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,技嘉 Z690 AORUS ELITE DDR4(ATX/1H1P/Realtek 2.5G/註冊五年保)16+1+2相電源,5990,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,華擎 Z690M-ITX/ax(Mini-ITX/Dragon 2.5G+無線/註冊五年保)8相*送華擎USB充電埠,5990,2024-03-03,M-ITX,ITX,Unknown,Unknown
+主機板 MB,華擎 Z690 Phantom Gaming 4/D5(ATX/1H/Intel 1Gb/註冊五年)9相電源,4990,2024-03-03,Unknown,ATX,Unknown,Unknown
+主機板 MB,華擎 Z690 AQUA(E-ATX/1H/Marvell 10G+Killer 2.5G+無線)20相電源.水冷散熱,26900,2024-03-03,E-ATX,E-ATX,Unknown,Unknown
+主機板 MB,華碩 ROG STRIX Z790-A GAMING WIFI D4(ATX/Intel 2.5Gb+無線/註五年)16+1相,9990,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,華碩 ROG STRIX Z790-A GAMING WIFI D4搭lntel12代U=送NV2 500G[搭U送再殺!],7990,2024-03-03,Unknown,Unknown,華碩,華碩
+主機板 MB,技嘉 Z790 D DDR4(ATX/1H/Realtek2.5Gb/註冊四年)16+1+1相數供電,5990,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,微星 PRO Z790-P WIFI DDR4(ATX/Intel 2.5Gb+無線/註冊四年)14+1+1相,6690,2024-03-03,Unknown,ATX,微星,微星
+主機板 MB,華擎 Z790 Pro RS/D4(ATX/Realtek2.5Gb/註冊五年)14+1+1相電源.支援eDP,5990,2024-03-03,Unknown,ATX,Unknown,Unknown
+主機板 MB,NZXT N7 Z790(黑)(ATX/Realtek2.5Gb+無線/五年換新保固)16+1+2相電源,12900,2024-03-03,Unknown,ATX,Unknown,Unknown
+主機板 MB,NZXT N7 Z790(白)(ATX/Realtek2.5Gb+無線/五年換新保固)16+1+2相電源,12900,2024-03-03,Unknown,ATX,Unknown,Unknown
+主機板 MB,華碩 PRIME Z790M-PLUS-CSM(M-ATX/Intel 1Gb/註冊四年) 10+1相電源,5990,2024-03-03,M-PLUS,ATX,華碩,華碩
+主機板 MB,華碩 PRIME Z790-P WIFI-CSM(ATX/Realtek2.5Gb+無線/註冊四年)14+1相電源,6990,2024-03-03,WIFI-CSM,ATX,華碩,華碩
+主機板 MB,華碩 PRIME Z790-A WIFI-CSM(ATX/Intel 2.5Gb+無線/註冊四年)16+1相電源,9490,2024-03-03,WIFI-CSM,ATX,華碩,華碩
+主機板 MB,華碩 TUF GAMING Z790-PLUS WIFI(ATX/Intel 2.5Gb+無線)16+1相 *無痛升級PRO版↓,7990,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,華碩 TUF GAMING Z790-PRO WIFI(ATX/Intel 2.5Gb+無線/註五年)16+1+1相電源,8490,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,華碩 TUF GAMING Z790-BTF WIFI 背插(ATX/Intel 2.5Gb+Wi-Fi 7/註五年)16+1+1相,8490,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,華碩 ProArt Z790-CREATOR WIFI(ATX/M10G+Intel 2.5Gb+無線)16+1相電源,13990,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,華碩 ROG STRIX Z790-I GAMING WIFI(Mini-ITX/Intel 2.5Gb+無線)10+1相電源,13990,2024-03-03,Unknown,ITX,華碩,華碩
+主機板 MB,華碩 ROG STRIX Z790-H GAMING WIFI(ATX/Intel 2.5Gb+無線/註五年)16+1相,9490,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,華碩 ROG STRIX Z790-A GAMING WIFI II(ATX/Intel 2.5Gb+Wi-Fi 7/註五年)16+1+2相,11990,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,華碩 ROG STRIX Z790-F GAMING WIFI II(ATX/Intel 2.5Gb+Wi-Fi 7/註五年)16+1+2相,13990,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,華碩 ROG STRIX Z790-E GAMING WIFI II(ATX/Intel 2.5Gb+Wi-Fi 7/註五年)18+1+2相,16990,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,華碩 ROG MAXIMUS Z790 APEX ENCORE(ATX/Intel 2.5Gb+Wi-Fi 7/註五年)24+2相,19990,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,華碩 ROG MAXIMUS Z790 DARK HERO(ATX/Intel 2.5Gb+Wi-Fi 7/註冊五年)20+1+2相,20990,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,華碩 ROG MAXIMUS Z790 FORMULA(ATX/Realtek 5Gb+Wi-Fi 7/註冊五年)20+1+2相,24990,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,技嘉 Z790 EAGLE AX(ATX/Realtek2.5Gb+無線/註冊四年)12+1+1相電源,6990,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,技嘉 Z790 GAMING X(ATX/Realtek2.5Gb/註冊五年)16+1+2相電源,7290,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,技嘉 Z790 AERO G(ATX/Intel 2.5Gb+無線/註冊五年)16+1+2相 *創作者系列,10990,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,技嘉 Z790 AORUS ELITE AX(ATX/Realtek2.5Gb+無線/註冊五年)16+1+2相電源,8490,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,技嘉 Z790 AORUS ELITE AX-W(ATX/Realtek2.5Gb+無線/註冊五年)16+1+2相,8490,2024-03-03,AX-W,ATX,技嘉,技嘉
+主機板 MB,技嘉 Z790 AORUS ELITE AX ICE(ATX冰魄白/Realtek2.5Gb+無線/註冊五年)16+2+1相,8490,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,技嘉 Z790 AORUS ELITE X AX(ATX/Intel 2.5Gb+無線/註冊五年)16+1+2相.獨家款,8490,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,技嘉 Z790 AORUS MASTER(E-ATX/Marvell 10G+無線/註冊五年)20+1+2相電源-尾盤,18990,2024-03-03,E-ATX,E-ATX,技嘉,技嘉
+主機板 MB,技嘉 Z790 AORUS ELITE X WIFI7(ATX/Intel 2.5Gb+Wi-Fi 7/註冊五年)16+1+2相電源,9990,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,技嘉 Z790 AORUS PRO X(ATX冰魄白/Realtek 5Gb+Wi-Fi 7/註冊五年)18+1+2相電源,13490,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,技嘉 Z790 AORUS MASTER X(E-ATX/Marvell 10G+Wi-Fi 7/註冊五年)20+1+2相電源,19990,2024-03-03,E-ATX,E-ATX,技嘉,技嘉
+主機板 MB,技嘉 Z790 AORUS TACHYON X(E-ATX/Intel 2.5Gb+無線/註冊五年)15+1+2相電源,22990,2024-03-03,E-ATX,E-ATX,技嘉,技嘉
+主機板 MB,技嘉 Z790 AORUS XTREME X(E-ATX/Marvell 10G+Intel 2.5Gb+Wi-Fi 7)24+1+2相電源,34990,2024-03-03,E-ATX,E-ATX,技嘉,技嘉
+主機板 MB,微星 Z790I EDGE WIFI(Mini-ITX/Intel 2.5Gb+無線/註冊五年)10+1+1相電源,9890,2024-03-03,Unknown,ITX,微星,微星
+主機板 MB,微星 Z790MPOWER(M-ATX/Realtek 2.5Gb+無線/2DIMM)12+1+1相-為極致超頻而生,7590,2024-03-03,M-ATX,ATX,微星,微星
+主機板 MB,微星 Z790MPOWER(M-ATX/Realtek 2.5Gb+無線/註冊五年)12+1+1相-任搭CPU優惠,6990,2024-03-03,M-ATX,ATX,微星,微星
+主機板 MB,微星 PRO Z790-S WIFI(ATX/Realtek 2.5Gb+無線/註冊四年)12+1+1相電源,5990,2024-03-03,Unknown,ATX,微星,微星
+主機板 MB,微星 PRO Z790-P WIFI(ATX/Intel 2.5Gb+無線/註冊四年)14+1+1相電源,6690,2024-03-03,Unknown,ATX,微星,微星
+主機板 MB,微星 PRO Z790-A MAX WIFI(ATX/Intel 2.5Gb+Wi-Fi 7/註冊四年)16+1+1相,7890,2024-03-03,Unknown,ATX,微星,微星
+主機板 MB,微星 Z790 PROJECT ZERO[背插](ATX/Intel 2.5Gb+Wi-Fi 7/註五年)14+1+1相,7990,2024-03-03,Unknown,ATX,微星,微星
+主機板 MB,微星 Z790 GAMING PRO WIFI(ATX/Realtek2.5Gb+Realtek 1Gb+無線/註五年)14+1+1相,7990,2024-03-03,Unknown,ATX,微星,微星
+主機板 MB,微星 MAG Z790 TOMAHAWK MAX WIFI(ATX/Intel 2.5Gb+Wi-Fi 7)18相.獨家,8888,2024-03-03,Unknown,ATX,微星,微星
+主機板 MB,微星 MAG Z790 TOMAHAWK MAX WIFI(ATX/Intel 2.5Gb+Wi-Fi 7)18相.獨家-任搭CPU,8490,2024-03-03,Unknown,ATX,微星,微星
+主機板 MB,微星 MPG Z790 EDGE TI MAX WIFI(ATX/Intel 2.5Gb+Wi-Fi 7/註五年)16+1+1相電源,10890,2024-03-03,Unknown,ATX,微星,微星
+主機板 MB,微星 MPG Z790 CARBON WIFI II(ATX/Intel 2.5Gb+Wi-Fi 7/註五年)19+1+1相,15890,2024-03-03,Unknown,ATX,微星,微星
+主機板 MB,微星 MEG Z790 ACE MAX(E-ATX/2*Intel 2.5Gb+Wi-Fi 7/註五年)24+1+2相,19890,2024-03-03,E-ATX,E-ATX,微星,微星
+主機板 MB,微星 MEG Z790 GODLIKE(E-ATX/Marvell10G+Intel 2.5Gb+Intel無線/註五年)26+2相 *最後機會,28890,2024-03-03,E-ATX,E-ATX,微星,微星
+主機板 MB,微星 MEG Z790 GODLIKE MAX(E-ATX/Marvell10G+Intel 2.5Gb+Wi-Fi 7/註五年)26+2相,29890,2024-03-03,E-ATX,E-ATX,微星,微星
+主機板 MB,華擎 Z790M-ITX WiFi(Mini-ITX/Intel 2.5Gb+無線/註冊五年)7+1+1相電源.支援eDP,7290,2024-03-03,M-ITX,ITX,Unknown,Unknown
+主機板 MB,華擎 Z790 Lightning WiFi(ATX/Killer 2.5Gb+無線/註冊五年)16+1+1相.支援eDP,6990,2024-03-03,Unknown,ATX,Unknown,Unknown
+主機板 MB,華擎 Z790 Pro RS(ATX/Realtek2.5Gb/註冊五年)14+1+1相電源.支援eDP,6390,2024-03-03,Unknown,ATX,Unknown,Unknown
+主機板 MB,華擎 Z790 PG SONIC-音速小子聯名版(ATX/Killer 2.5Gb/註五年)14+1+1相,6690,2024-03-03,SONIC-音速小子聯名版,ATX,Unknown,Unknown
+主機板 MB,華擎 Z790 Riptide WIFI(ATX/Killer 2.5G+Wi-Fi 7/註五年)16+1+1相.支援eDP,7990,2024-03-03,Unknown,ATX,Unknown,Unknown
+主機板 MB,華擎 Z790 NOVA WIFI(ATX/Killer 2.5G+Wi-Fi 7/註五年)20+1+1相供電,10990,2024-03-03,Unknown,ATX,Unknown,Unknown
+主機板 MB,華碩 H81M-K(M-ATX/1A1D/U3/註四年),1990,2024-03-03,M-K,ATX,華碩,華碩
+主機板 MB,技嘉 H81M-DS2(M-ATX/1A/U3/LPT+COM埠/三年保),1990,2024-03-03,M-DS2,ATX,技嘉,技嘉
+主機板 MB,技嘉 H81M-S2PH(M-ATX/1A1H/U3/LPT+COM埠/全固態/三年保),2090,2024-03-03,M-S2PH,ATX,技嘉,技嘉
+主機板 MB,技嘉 B450M K(M-ATX/1H/Realtek 1Gb/註四年/2DIMM),1990,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,微星 B450M-A PRO MAX II(M-ATX/1D1H/Realtek 2.5Gb/註四年/2DIMM),1990,2024-03-03,M-A,ATX,微星,微星
+主機板 MB,華碩 PRIME A520M-K(M-ATX/1A1H/Realtek LAN/註四年),1990,2024-03-03,M-K,ATX,華碩,華碩
+主機板 MB,微星 A520M-A PRO(M-ATX/1D1H/Realtek LAN/註四年/2DIMM),1990,2024-03-03,M-A,ATX,微星,微星
+主機板 MB,華擎 A520M-ITX/ac(mini-ITX/1H1P/Realtek LAN/ac+BT/註四年)8數位電源,3390,2024-03-03,M-ITX,ITX,Unknown,Unknown
+主機板 MB,華碩 PRIME B550M-K ARGB-CSM(M-ATX/Realtek LAN/註四年/2DIMM)4+2相供電,2590,2024-03-03,M-K,ATX,華碩,華碩
+主機板 MB,華碩 PRIME B550M-K/CSM(M-ATX/1A1D1H/Realtek LAN/註四年/4DIMM)4+2相供電,2790,2024-03-03,M-K,ATX,華碩,華碩
+主機板 MB,華碩 PRIME B550M-A WIFI II(M-ATX/1A1D1H/Realtek 1Gb+無線+BT5.2)4+2相供電,3690,2024-03-03,M-A,ATX,華碩,華碩
+主機板 MB,華碩 TUF GAMING B550M-PLUS(M-ATX/1H1P/Realtek 2.5G/註冊五年保)8+2相,3790,2024-03-03,M-PLUS,ATX,華碩,華碩
+主機板 MB,華碩 TUF GAMING B550-PRO(ATX/Realtek 2.5Gb/註冊五年)12+2相供電,4290,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,【狂】華碩 TUF GAMING B550-PRO + AMD R7 5700【8核/16緒】活動至3/31止,9690,2024-03-03,Unknown,Unknown,華碩,華碩
+主機板 MB,【狂】華碩 TUF GAMING B550-PRO + AMD R7 5700X3D【8核/16緒】活動至3/31止,12390,2024-03-03,Unknown,Unknown,華碩,華碩
+主機板 MB,技嘉 B550M K(M-ATX/1H1P/Realtek 1Gb/註四年/4dimm)4+2相供電,2490,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,技嘉 B550M DS3H AC(M-ATX/Realtek GbE LAN/註四年) 6+2相 (rev. 1.7),3490,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,技嘉 B550M AORUS ELITE(M-ATX/1D1H/Realtek LAN/註五年) 獨家5+3相,3790,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,技嘉 B550 AORUS ELITE V2(ATX/1H1P/Realtek 2.5/註五年)12+2相供電,3790,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,微星 B550M MORTAR MAX WIFI(M-ATX/1H1P/Realtek 2.5+無線/註五年)8+2+1相,4690,2024-03-03,M-ATX,ATX,微星,微星
+主機板 MB,微星 B550 GAMING GEN3(ATX/1D1H/Realtek LAN/註四年)4+2相供電,2990,2024-03-03,Unknown,ATX,微星,微星
+主機板 MB,華擎 B550M-HVS SE(M-ATX/1A1H/Realtek LAN/註四年)6相供電,2290,2024-03-03,M-HVS,ATX,Unknown,Unknown
+主機板 MB,華擎 B550M-HVS SE(M-ATX/1A1H/Realtek LAN/註四年)6相供電-搭機優惠價,2090,2024-03-03,M-HVS,ATX,Unknown,Unknown
+主機板 MB,華碩 PRIME A620M-K-CSM(M-ATX/Realtek 1Gb/註四年)8+2相,2790,2024-03-03,M-K,ATX,華碩,華碩
+主機板 MB,【狂】華碩 PRIME A620M-K-CSM + AMD R5 7600X 盒 [6核/12緒],10190,2024-03-03,M-K,Unknown,華碩,華碩
+主機板 MB,華碩 TUF GAMING A620-PRO WIFI(ATX/Realtek 2.5G+無線)支援超頻.12+2相電源,5290,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,技嘉 A620M S2H(M-ATX/Realtek LAN/三年保/2DIMM)5+2+2相電源,2790,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,技嘉 A620M GAMING X(M-ATX/Realtek LAN/三年保)8+2+1相電源,3990,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,微星 PRO A620M-E(M-ATX/Realtek LAN/註冊四年保/2DIMM)6+2+1相電源 C/P值首選,2790,2024-03-03,M-E,ATX,微星,微星
+主機板 MB,華擎 A620I Lightning WIFI(mini-ITX/Realtek 2.5G+無線/2DIMM)8+2+1 相供電,4790,2024-03-03,Unknown,ITX,Unknown,Unknown
+主機板 MB,華擎 A620M PRO RS WiFi(M-ATX/Realtek LAN+無線/註冊四年)6+2+1 相供電,3790,2024-03-03,M-ATX,ATX,Unknown,Unknown
+主機板 MB,NZXT N7 B650E(黑)(ATX/Realtek2.5Gb+無線/五年換新保固)16+1+2相電源,11500,2024-03-03,Unknown,ATX,Unknown,Unknown
+主機板 MB,NZXT N7 B650E(白)(ATX/Realtek2.5Gb+無線/五年換新保固)16+1+2相電源,11500,2024-03-03,Unknown,ATX,Unknown,Unknown
+主機板 MB,華碩 ROG STRIX B650E-I GAMING WIFI(Mini-ITX/Intel2.5G+無線/2DIMM)10+2相,8990,2024-03-03,E-I,ITX,華碩,華碩
+主機板 MB,華碩 PRIME B650M-K-CSM(M-ATX/Realtek 2.5G/註四年/2DIMM)8+2相電源 C/P首選,3290,2024-03-03,M-K,ATX,華碩,華碩
+主機板 MB,華碩 PRIME B650M-A II-CSM(M-ATX/Realtek 2.5G/註四年/4DIMM)8+2相電源,3490,2024-03-03,M-A,ATX,華碩,華碩
+主機板 MB,華碩 TUF GAMING B650M-E(M-ATX/Realtek 2.5G/註五年)8+2相電源,4490,2024-03-03,M-E,ATX,華碩,華碩
+主機板 MB,【狂】華碩 TUF GAMING B650M-E + AMD R5 8500G【6核/12緒】優惠到3/31,10490,2024-03-03,M-E,Unknown,華碩,華碩
+主機板 MB,【狂】華碩 TUF GAMING B650M-E + AMD R5 8600G【6核/12緒】優惠到3/31,11890,2024-03-03,M-E,Unknown,華碩,華碩
+主機板 MB,【狂】華碩 TUF GAMING B650M-E + AMD R7 8700G【8核/16緒】優惠到3/31,15190,2024-03-03,M-E,Unknown,華碩,華碩
+主機板 MB,華碩 TUF GAMING B650M-E WIFI(M-ATX/Realtek 2.5G+無線/註五年)8+2相電源,4990,2024-03-03,M-E,ATX,華碩,華碩
+主機板 MB,【狂】華碩 TUF GAMING B650M-E WIFI + AMD R5 7500F MPK(含風扇)【6核/12緒】,10990,2024-03-03,M-E,Unknown,華碩,華碩
+主機板 MB,【狂】華碩 TUF GAMING B650M-E WIFI + AMD R5 8500G【6核/12緒】優惠到3/31,12390,2024-03-03,M-E,Unknown,華碩,華碩
+主機板 MB,【狂】華碩 TUF GAMING B650M-E WIFI + AMD R7 8700G【8核/16緒】優惠到3/31,15690,2024-03-03,M-E,Unknown,華碩,華碩
+主機板 MB,華碩 TUF GAMING B650M-PLUS(M-ATX/Realtek 2.5G/註五年)12+2相電源 獨家支援,4790,2024-03-03,M-PLUS,ATX,華碩,華碩
+主機板 MB,華碩 TUF GAMING B650M-PLUS WIFI(M-ATX/Realtek 2.5G+無線/註五年)12+2相,5490,2024-03-03,M-PLUS,ATX,華碩,華碩
+主機板 MB,華碩 TUF GAMING B650-E WIFI(ATX/Realtek 2.5G+無線/註五年)8+2相電源,5490,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,華碩 ROG STRIX B650-A GAMING WIFI(ATX/Intel2.5G+無線/註五年)12+2相-限時優惠,6990,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,華碩 ProArt B650-CREATOR(ATX/Realtek 2.5G+Realtek 1Gb/註五年)12+2相電源,7990,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,技嘉 B650I AORUS ULTRA(mini-ITX/Intel 2.5G+無線/註五年)8+2+1相電源 *尾盤,8490,2024-03-03,Unknown,ITX,技嘉,技嘉
+主機板 MB,技嘉 B650M GAMING WIFI(M-ATX/Realtek 2.5G/註五年/2DIMM)5+2+2相電源,3990,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,技嘉 B650M DS3H(M-ATX/Realtek 2.5G/註四年)6+2+1相電源,4490,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,【狂】技嘉 B650M DS3H + AMD R5 7600X【盒裝】優規再加碼！,11990,2024-03-03,Unknown,Unknown,技嘉,技嘉
+主機板 MB,【狂】技嘉 B650M DS3H + AMD R7 7700X【盒裝】優規再加碼！,15090,2024-03-03,Unknown,Unknown,技嘉,技嘉
+主機板 MB,技嘉 B650M GAMING X AX(M-ATX/Realtek 2.5G+AMD 無線/註五年)6+2+1相電源,4690,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,技嘉 B650M AORUS ELITE(M-ATX/Realtek 2.5G/註五年)12+2+1相電源.獨家支援,4990,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,技嘉 B650M AORUS PRO AX(M-ATX/Realtek 2.5G+無線/註五年)12+2+1相電源,5990,2024-03-03,M-ATX,ATX,技嘉,技嘉
+主機板 MB,技嘉 B650M AORUS ELITE AX ICE(M-ATX冰魄白/Realtek 2.5G+無線/五年)12+2+2相,5490,2024-03-03,M-ATX冰魄白,ATX,技嘉,技嘉
+主機板 MB,技嘉 B650 EAGLE AX(ATX/Realtek 1Gb/註冊四年)12+2+2相電源,4990,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,技嘉 B650 AORUS ELITE AX V2(ATX/Realtek 2.5G+無線/註五年)12+2+2相電源,5990,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,技嘉 B650E AORUS ELITE X AX ICE(ATX冰魄白/Realtek 2.5G+無線/五年)12+2+2相,7990,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,技嘉 B650 AERO G(ATX/Intel2.5G+無線/註五年)16相電源,7990,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,微星 MPG B650I EDGE WIFI(Mini-ITX/Realtek 2.5G+無線/註五年)8+2+1相電源,6890,2024-03-03,Unknown,ITX,微星,微星
+主機板 MB,微星 PRO B650M-B(M-ATX/Realtek 2.5G/註四年)6+2+1相電源 任搭優惠實施中,3190,2024-03-03,M-B,ATX,微星,微星
+主機板 MB,微星 B650M GAMING WIFI(M-ATX/Realtek 2.5G+無線/註五年/2DIMM)6+2+1相電源,4390,2024-03-03,M-ATX,ATX,微星,微星
+主機板 MB,微星 PRO B650M-A WIFI(M-ATX/Realtek 2.5G+無線/註四年)8+1+1相電源,4790,2024-03-03,M-A,ATX,微星,微星
+主機板 MB,微星 MAG B650M MORTAR WIFI(M-ATX/Realtek2.5G+無線/五年)12+2+1相 獨家,5490,2024-03-03,M-ATX,ATX,微星,微星
+主機板 MB,微星 B650M PROJECT ZERO 背插(M-ATX/Realtek2.5G+無線/五年)10+2+1相,5490,2024-03-03,M-ATX,ATX,微星,微星
+主機板 MB,微星 B650 GAMING PLUS WIFI(ATX/Realtek2.5G+AMD 無線)12+2+1相電源,5890,2024-03-03,Unknown,ATX,微星,微星
+主機板 MB,微星 MAG B650 TOMAHAWK WIFI(ATX/Realtek2.5G+AMD 無線)14+2+1相電源,7290,2024-03-03,Unknown,ATX,微星,微星
+主機板 MB,微星 MPG B650 EDGE WIFI(ATX/Realtek2.5G+AMD 無線)14+2+1相電源,6790,2024-03-03,Unknown,ATX,微星,微星
+主機板 MB,華擎 B650I Lightning WIFI(Mini-ITX/Realtek 2.5G+無線/註冊五年保)8+2+1相電源,6490,2024-03-03,Unknown,ITX,Unknown,Unknown
+主機板 MB,華擎 B650M-HDV/M.2(M-ATX/Realtek 2.5G/註四年/2DIMM)8+2+1相電源,3890,2024-03-03,M-HDV,ATX,Unknown,Unknown
+主機板 MB,華擎 B650M PG Riptide(M-ATX/Realtek 2.5G/註五年)12+2+1相電源,4990,2024-03-03,M-ATX,ATX,Unknown,Unknown
+主機板 MB,華擎 B650 LiveMixer(ATX/Realtek2.5G/註五年)14+2+1相電源-創作者主板,6990,2024-03-03,Unknown,ATX,Unknown,Unknown
+主機板 MB,華擎 B650E PG Riptide WiFi(ATX/Killer 2.5G+無線/註五年)14+2+1相電源,6990,2024-03-03,Unknown,ATX,Unknown,Unknown
+主機板 MB,華擎 B650E Taichi Lite(EATX/Killer 2.5G+無線/註五年)24+2+1 相供電,10490,2024-03-03,Unknown,ATX,Unknown,Unknown
+主機板 MB,華碩 PRIME X670-P WIFI-CSM(ATX/Realtek2.5Gb+無線/註四年)12+2相電源-C/P之王,5990,2024-03-03,WIFI-CSM,ATX,華碩,華碩
+主機板 MB,華碩 PRIME X670E-PRO WIFI-CSM(ATX/Realtek2.5Gb+無線/註四年)14+2相電源,6990,2024-03-03,E-PRO,ATX,華碩,華碩
+主機板 MB,華碩 TUF GAMING X670E-PLUS(ATX/1H1P/Realtek 2.5Gb/註五年)14+2相-獨家供應,7590,2024-03-03,E-PLUS,ATX,華碩,華碩
+主機板 MB,華碩 TUF GAMING X670E-PLUS WIFI(ATX/Realtek2.5Gb+無線/註五年)14+2相-3/31止,8290,2024-03-03,E-PLUS,ATX,華碩,華碩
+主機板 MB,華碩 ROG STRIX X670E-F GAMING WIFI(ATX/Intel2.5G+無線/註五年)16+2相,13990,2024-03-03,E-F,ATX,華碩,華碩
+主機板 MB,華碩 ROG CROSSHAIR X670E HERO(ATX/Intel2.5G+無線/註五年)18+2相,19990,2024-03-03,Unknown,ATX,華碩,華碩
+主機板 MB,技嘉 X670 GAMING X AX V2(ATX/Realtek 2.5Gb+無線/註五年)14+2+2相.獨家,7490,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,技嘉 X670 AORUS ELITE AX(ATX/1H/Realtek 2.5G+無線/註五年)16+2+2相,9990,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,技嘉 X670E AORUS PRO X(ATX冰魄白/Intel2.5G+Wi-Fi 7/註五年)16+2+2相,11990,2024-03-03,Unknown,ATX,技嘉,技嘉
+主機板 MB,技嘉 X670E AORUS MASTER(E-ATX/Intel2.5G+無線/註五年)16+2+2相,14990,2024-03-03,E-ATX,E-ATX,技嘉,技嘉
+主機板 MB,微星 PRO X670-P WIFI(ATX/Realtek2.5G+無線/註四年)14+2+1相供電,7990,2024-03-03,Unknown,ATX,微星,微星
+主機板 MB,微星 MAG X670E TOMAHAWK WIFI(ATX/Realtek2.5G+無線/註五年)14+2+1相供電,8888,2024-03-03,Unknown,ATX,微星,微星
+主機板 MB,微星 MPG X670E CARBON WIFI(ATX/Realtek2.5G+無線/註五年)18+2+1相供電,14490,2024-03-03,Unknown,ATX,微星,微星
+主機板 MB,微星 MEG X670E ACE(E-ATX/Marvell 10G+無線/註五年)22+2+1相供電,23888,2024-03-03,E-ATX,E-ATX,微星,微星
+主機板 MB,華擎 X670E PG LIGHTNING(ATX/1H1P/Dragon2.5G/註五年)14+2+1相,7590,2024-03-03,Unknown,ATX,Unknown,Unknown
+主機板 MB,華擎 X670E Pro RS(ATX/1H1P/Realtek2.5G+無線/註五年)14+2+1相供電,7990,2024-03-03,Unknown,ATX,Unknown,Unknown
+主機板 MB,華碩 Pro WS WRX80E-SAGE SE WIFI II(E-ATX/2*Intel 10G/無線/註四年/8DIMM),37990,2024-03-03,E-SAGE,E-ATX,華碩,華碩
+主機板 MB,PRO WS WRX90E-SAGE SE(E-ATX/2*Intel 10G+Realtek 1G/註四年/8DIMM),39990,2024-03-03,E-SAGE,E-ATX,Unknown,Unknown
+主機板 MB,華碩 Pro WS TRX50-SAGE WIFI(CEB/Marvell 10Gb+Intel 2.5Gb+Wi-Fi 7/註四年)36相,29990,2024-03-03,Unknown,Unknown,華碩,華碩
+主機板 MB,技嘉 TRX50 AERO D(CEB/Marvell 10Gb+Realtek 2.5Gb+Wi-Fi 7/註五年)16+8+4相,24990,2024-03-03,Unknown,Unknown,技嘉,技嘉

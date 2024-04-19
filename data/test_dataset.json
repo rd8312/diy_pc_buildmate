@@ -1,0 +1,1796 @@
+{
+    "name": "test_dataset",
+    "build_dataset_time": "2024-03-21 21-04-00",
+    "build_dataset_time_number": "20240321210400",
+    "only_for_classification": false,
+    "data_list": [
+        {
+            "qa_index": "1",
+            "class": "1",
+            "question": "網友詢問有哪些機殼類型特別注重散熱？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "2",
+            "class": "1",
+            "question": "機殼的顏色有哪些常見選擇？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "3",
+            "class": "1",
+            "question": "目前市面上有哪些常見的機殼款式？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "4",
+            "class": "1",
+            "question": "為什麼有些人會選擇不帶側透和RGB燈的機殼？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "5",
+            "class": "1",
+            "question": "機殼的散熱性能為什麼重要？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "6",
+            "class": "1",
+            "question": "選擇機殼時應考慮哪些規格？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "7",
+            "class": "1",
+            "question": "有哪些常見的機殼品牌？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "8",
+            "class": "1",
+            "question": "機殼的尺寸大小有哪些規格？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "9",
+            "class": "1",
+            "question": "現代機殼在設計上有哪些變化？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "10",
+            "class": "1",
+            "question": "選擇機殼尺寸的考慮因素有哪些？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "11",
+            "class": "1",
+            "question": "如果我的空間有限，我可以選擇小一點的機殼嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "12",
+            "class": "1",
+            "question": "機殼側邊種類有哪些，它們各自的特點是什麼？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "13",
+            "class": "1",
+            "question": "選擇機殼時應考慮哪些關於風扇的因素？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "14",
+            "class": "1",
+            "question": "現代機殼對光碟機位置的設計趨勢是怎樣的？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "15",
+            "class": "1",
+            "question": "在選擇機殼時，如何確定它能支援你的顯卡長度？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "16",
+            "class": "1",
+            "question": "選擇機殼時，應如何考慮CPU塔扇的高度限制？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "17",
+            "class": "1",
+            "question": "在選擇機殼時，顯卡支援的長度是如何考慮的？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "18",
+            "class": "1",
+            "question": "選擇機殼時，應如何考慮CPU塔扇的高度？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "19",
+            "class": "1",
+            "question": "機殼散熱的一般建議是什麼？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "20",
+            "class": "1",
+            "question": "機殼價格考慮應該如何進行？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "21",
+            "class": "1",
+            "question": "機殼外型的選擇有哪些主流類型？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "22",
+            "class": "1",
+            "question": "為什麼建議選擇壓克力側透而不是玻璃側透機殼？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "23",
+            "class": "1",
+            "question": "新款機殼的主流設計趨勢是什麼？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "24",
+            "class": "1",
+            "question": "選擇玻璃側透機殼時有什麼特別建議？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "25",
+            "class": "1",
+            "question": "在選擇機殼時，電源供應器的空間考慮是什麼？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "26",
+            "class": "1",
+            "question": "如果官網指定的電供預留長度是16公分，那選擇同長度的電源供應器是否合適？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "27",
+            "class": "1",
+            "question": "機殼的清潔保養建議是什麼？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "28",
+            "class": "1",
+            "question": "機殼擺放的位置和散熱空間應如何考慮？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "29",
+            "class": "1",
+            "question": "選購機殼時常見的誤區有哪些？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "30",
+            "class": "1",
+            "question": "如何找到適合自己需求的機殼？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "31",
+            "class": "1",
+            "question": "我希望機殼是白色的，可以推薦一下嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "32",
+            "class": "1",
+            "question": "有前置type C 接口的機殼推薦嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "33",
+            "class": "1",
+            "question": "有些機殼取消 5.25光碟機 ，又把3.5硬碟搬到電源前面狹窄空間，這樣硬碟散熱不會有問題嗎？風幾乎都被硬碟架擋住了啊？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "34",
+            "class": "1",
+            "question": "我的舊電腦故障了，但舊機殼正常，我買新電腦能延用舊機殼嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "35",
+            "class": "1",
+            "question": "機殼一定要整線嗎？不整線可以嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "36",
+            "class": "1",
+            "question": "是不是機殼有自帶燈效切換開關，用SATA供電即可，就不需要透過主機板控制了？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "37",
+            "class": "1",
+            "question": "我摸電腦機殼被電到了，這是漏電嗎?",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "38",
+            "class": "1",
+            "question": "我換了機殼散熱風扇，接大4PIN電源，但運轉時感覺很大聲，怎麼辦?",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "39",
+            "class": "1",
+            "question": "可以推薦360水冷的機殼嗎？ 攻頂12代12900K，所以需要水冷。",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "40",
+            "class": "1",
+            "question": "為什麼有些人認為便宜的主機板就足夠使用？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "41",
+            "class": "1",
+            "question": "買較貴的主機板與買較便宜的主機板有什麼不同？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "42",
+            "class": "1",
+            "question": "為什麼建議選擇帶有五年保固的主機板？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "43",
+            "class": "1",
+            "question": "2021年11月 intel 第12代上市了，搭配600系列主機板，相比前代有哪些主要改進？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "44",
+            "class": "1",
+            "question": "2022年10月 intel 第13代上市了，相較上一代主要是核心數更多、時脈更快，效能更高，應該如何挑選主機板?",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "45",
+            "class": "1",
+            "question": "2023年10月 intel 第14代上市了，相較上一代主要是核心數更多、時脈更快，效能更高，應該如何挑選主機板?",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "46",
+            "class": "1",
+            "question": "2022年9月 AMD Ryzen 7000系列上市了，搭配的X670及B650主機板，與上一代相比有哪些顯著的改變？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "47",
+            "class": "1",
+            "question": "2024年1月 AMD Ryzen 8000系列上市了，應該如何挑選主機板?",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "48",
+            "class": "1",
+            "question": "挑選主機板時應該考慮哪些重點？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "49",
+            "class": "1",
+            "question": "選擇主機板時，應該如何根據CPU來選擇？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "50",
+            "class": "1",
+            "question": "主機板的品牌選擇有哪些建議？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "51",
+            "class": "1",
+            "question": "選擇主機板時，應如何根據晶片組來選擇？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "52",
+            "class": "1",
+            "question": "如何根據機殼大小選擇主機板的大小？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "53",
+            "class": "1",
+            "question": "為什麼要選擇提供五年保固的主機板？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "54",
+            "class": "1",
+            "question": "為什麼要挑選有自帶SSD散熱片的主機板？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "55",
+            "class": "1",
+            "question": "目前(2024年)你要買主機板，會看到哪些的規格及型號？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "56",
+            "class": "1",
+            "question": "我應該如何知道哪種CPU需要搭配哪種主機板？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "57",
+            "class": "1",
+            "question": "官方CPU規格表太長，讓人難以理解，該怎麼辦？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "58",
+            "class": "1",
+            "question": "組裝第14代Intel處理器的系統穩定嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "59",
+            "class": "1",
+            "question": "微星、華擎、技嘉、華碩主機板哪家更好？不同廠商的主機板有很大差異嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "60",
+            "class": "1",
+            "question": "主機板的晶片等級是如何區分的？這對性能和擴充性有什麼影響？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "61",
+            "class": "1",
+            "question": "為什麼要注意選擇適合自己CPU的主機板？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "62",
+            "class": "1",
+            "question": "AMD晶片組的等級如何區分？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "63",
+            "class": "1",
+            "question": "超頻應該考慮哪些因素？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "64",
+            "class": "1",
+            "question": "主機板的規格標示有什麼不同？比如mATX、microATX、ITX、Mini-ITX之間有什麼差異？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "65",
+            "class": "1",
+            "question": "從主機板的型號如何辨別其規格和特性？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "66",
+            "class": "1",
+            "question": "為什麼建議選擇五年保固的主機板？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "67",
+            "class": "1",
+            "question": "主機板的價格範圍通常是多少，是否新一代的主機板比舊一代的更貴？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "68",
+            "class": "1",
+            "question": "是否應該購買更貴的主機板，尤其是用於文書處理或不打算超頻的情況下？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "69",
+            "class": "1",
+            "question": "主機板最多能支援多少記憶體條數，以及支援的最高記憶體時脈是多少？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "70",
+            "class": "1",
+            "question": "如何才能支援DDR4-3200記憶體？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "71",
+            "class": "1",
+            "question": "Intel Core i5-13500處理器是否支援DDR5-6000記憶體？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "72",
+            "class": "1",
+            "question": "內建音效晶片是否足夠，我是否需要額外購買音效卡？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "73",
+            "class": "1",
+            "question": "每張主機板能支援多少記憶體插槽，以及記憶體的最高時脈是多少？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "74",
+            "class": "1",
+            "question": "如果想支援DDR4-3200的記憶體應該怎麼做？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "75",
+            "class": "1",
+            "question": "Intel Core i5-13500處理器是否支援DDR5-6000記憶體？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "76",
+            "class": "1",
+            "question": "擴充槽的支援程度有何不同？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "77",
+            "class": "1",
+            "question": "如何區分主機板上的PCIe和SATA&PCIe插槽？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "78",
+            "class": "1",
+            "question": "如果主機板只有一個M.2 SSD插槽，能否通過轉接卡再添加一個M.2 SSD？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "79",
+            "class": "1",
+            "question": "如果主機板沒有RGB支援，該如何安裝RGB風扇？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "80",
+            "class": "1",
+            "question": "大型和小型主機板在儲存裝置介面上有什麼區別？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "81",
+            "class": "1",
+            "question": "主機板上不同類型的USB接口有什麼差別？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "82",
+            "class": "1",
+            "question": "主機板內建無線網路的下載和上傳速度上限是多少？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "83",
+            "class": "1",
+            "question": "為什麼主機板的內建無線網卡速度比有線慢，並且使用時感覺卡頓？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "84",
+            "class": "1",
+            "question": "主機板如果標有Wi-Fi功能，是否一定支持藍牙？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "85",
+            "class": "1",
+            "question": "主機板的BIOS需要更新嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "86",
+            "class": "1",
+            "question": "主機板應該選用哪種腳位比較好？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "87",
+            "class": "1",
+            "question": "是否需要選購有雙PCI-Express 16x顯示卡插槽的主機板？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "88",
+            "class": "1",
+            "question": "主機板故障的維修流程是什麼？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "89",
+            "class": "1",
+            "question": "為什麼有時候主機板故障時店家會建議連CPU一起換？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "90",
+            "class": "1",
+            "question": "PCIe3.0主機板或筆電能否使用PCIe4.0 SSD？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "91",
+            "class": "1",
+            "question": "如果在安裝SSD時損壞了螺絲，該怎麼辦？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "92",
+            "class": "1",
+            "question": "如果主機板與機殼的螺絲孔位不匹配該怎麼辦？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "93",
+            "class": "1",
+            "question": "主機板型號中的PRIME與STRIX有什麼區別？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "94",
+            "class": "1",
+            "question": "大板與小板還不是都一樣，保固也一樣，為何要特地挑大板？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "95",
+            "class": "1",
+            "question": "一樣都是大板，B460與H470我看起來又一樣啊，為何要裝到H470呢？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "96",
+            "class": "1",
+            "question": "如何選擇CPU?",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "97",
+            "class": "1",
+            "question": "常用的電腦組裝CPU規格為何?",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "98",
+            "class": "1",
+            "question": "除了規格，是否有其他客觀經驗挑選電腦組裝的CPU?",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "99",
+            "class": "1",
+            "question": "intel 第12代相較上一代的主要差異?",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "100",
+            "class": "1",
+            "question": "Intel 第13代相較上一代主要差異?",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "101",
+            "class": "2",
+            "question": "Intel Processor 300多少錢呀？",
+            "answer": "2990",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "102",
+            "class": "2",
+            "question": "詢價Intel i3-14100F價格？",
+            "answer": "3990",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "103",
+            "class": "2",
+            "question": "查Intel i3-14100價格？",
+            "answer": "4800",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "104",
+            "class": "2",
+            "question": "請幫我查Intel i5-14400F多少錢呀？",
+            "answer": "6800",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "105",
+            "class": "2",
+            "question": "幫查Intel i5-14600K價格？",
+            "answer": "10150",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "106",
+            "class": "2",
+            "question": "想查價Intel i7-14700K？",
+            "answer": "13800",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "107",
+            "class": "2",
+            "question": "查Intel i5-14600KF價格？",
+            "answer": "9600",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "108",
+            "class": "2",
+            "question": "想查Intel i7-14700價格是多少？",
+            "answer": "12900",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "109",
+            "class": "2",
+            "question": "想查Inteli5-14600KF價格？",
+            "answer": "9600",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "110",
+            "class": "2",
+            "question": "想查Intel i5-14400價格？",
+            "answer": "7600",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "111",
+            "class": "2",
+            "question": "詢價GT710-SL-2GD3-BRK-EVO？",
+            "answer": "1690",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "112",
+            "class": "2",
+            "question": "請查詢華碩GT710-SL-2GD3-BRK-EVO 的價錢？",
+            "answer": "1690",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "113",
+            "class": "2",
+            "question": "詢問GT710 1GD3H LP 的價錢？",
+            "answer": "1450",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "114",
+            "class": "2",
+            "question": "查 微星 GT1030 2GD4 LP OC\t 的價錢？",
+            "answer": "2850",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "115",
+            "class": "2",
+            "question": "查詢有一台微星GT1030GPU價錢為3290是哪一台？",
+            "answer": "微星 GT1030 AERO ITX 2GD4 OCV1",
+            "answer_type": "str",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "116",
+            "class": "2",
+            "question": "查有一台品牌是Nvidia，價格為6890元的gpu產品名稱",
+            "answer": "RTX3050 AERO ITX 8G OCV1",
+            "answer_type": "str",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "117",
+            "class": "2",
+            "question": "想知道微星 RTX3050 AERO ITX 8G OCV1的價錢？",
+            "answer": "6890",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "118",
+            "class": "2",
+            "question": "華碩 DUAL-RTX3060-O12G-V2多少錢？",
+            "answer": "8990",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "119",
+            "class": "2",
+            "question": "想知道微星 RTX3060 VENTUS 2X 12G OC多少錢？",
+            "answer": "8990",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "120",
+            "class": "2",
+            "question": "查詢技嘉 RTX3050 EAGLE OC 6G的價錢？",
+            "answer": "5990",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "121",
+            "class": "2",
+            "question": "詢價UMAX 單條8GB DDR5-5600/CL46多少錢？",
+            "answer": "749",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "122",
+            "class": "2",
+            "question": "請查詢UMAX 單條16GB DDR5-5600/CL46的價錢？",
+            "answer": "1299",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "123",
+            "class": "2",
+            "question": "詢問UMAX 單條32GB DDR5-5600/CL46的價錢？",
+            "answer": "2599\t",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "124",
+            "class": "2",
+            "question": "請查詢產品名稱為[金士頓 單條16GB DDR5-5600 FURY Beast]的價錢？",
+            "answer": "1580",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "125",
+            "class": "2",
+            "question": "想要查詢產品名稱為，[金士頓 單條16GB DDR5-5600 FURY Beast RGB]的價錢？",
+            "answer": "1750",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "126",
+            "class": "2",
+            "question": "查詢一個品牌為美光Micron，價錢為1399的產品全名？",
+            "answer": "美光Micron Crucial 單條16GB DDR5 5600/CL46",
+            "answer_type": "str",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "127",
+            "class": "2",
+            "question": "想查名稱為[威剛 64GB(雙通32GB*2) DDR5 5600 XPG Lancer RGB/CL36 黑的價格？",
+            "answer": "6199",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "128",
+            "class": "2",
+            "question": "想查價格，其產品名字為[威剛 32GB(雙通16GB*2) DDR5 6000 XPG Lancer/CL30 黑]？",
+            "answer": "3499",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "129",
+            "class": "2",
+            "question": "想查產品名為[美光Micron Crucial 單條32GB DDR5 5600/CL46]多少錢？，DDR5 5600中間不要加入-的符號",
+            "answer": "2799",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "130",
+            "class": "2",
+            "question": "想查[美光Micron Crucial 64GB(雙通32GB*2) D5 5600/CL46]的價格？",
+            "answer": "5599",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "131",
+            "class": "2",
+            "question": "詢價UMAX S330 240GB價格？",
+            "answer": "490",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "132",
+            "class": "2",
+            "question": "請查詢UMAX S330 480GB的價錢？",
+            "answer": "880",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "133",
+            "class": "2",
+            "question": "詢問威剛 Ultimate SU650 120G的價錢？",
+            "answer": "350",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "134",
+            "class": "2",
+            "question": "請查威剛 Ultimate SU650 240G的價錢？",
+            "answer": "599",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "135",
+            "class": "2",
+            "question": "WD Blue SA510 250GB的價錢？",
+            "answer": "1100",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "136",
+            "class": "2",
+            "question": "想查WD Blue SA510 500GB價格？",
+            "answer": "1500",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "137",
+            "class": "2",
+            "question": "想查一個hdd的價格，它的產品名稱為美光 Crucial BX500 500G？",
+            "answer": "949",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "138",
+            "class": "2",
+            "question": "想查[十銓 T-Force Vulcan Z]硬碟的價格？",
+            "answer": "699",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "139",
+            "class": "2",
+            "question": "查詢有一個品牌叫做[美光Micron Crucial BX]的硬碟，價錢為630元的產品名稱？",
+            "answer": "美光 Crucial BX500 240G",
+            "answer_type": "str",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "140",
+            "class": "2",
+            "question": "查有一台品牌為[三星 Samsung]的硬碟，價格為1529元的產品名稱",
+            "answer": "三星 Samsung 870 EVO 500G",
+            "answer_type": "str",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "141",
+            "class": "2",
+            "question": "想從table叫做cool裡面拉一個資料，資料的名稱為[利民 HR-09 2280 SSD 固態硬碟散熱器/6 mm熱導管/電鍍鰭片/單雙面皆適用]，它的價格？",
+            "answer": "550",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "142",
+            "class": "2",
+            "question": "請查詢[快睿 Frostbit M.2 散熱片/2280/雙導管/可調式散熱鰭片]的價錢？",
+            "answer": "790",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "143",
+            "class": "2",
+            "question": "請從名字為cool的table裡面找資料，[be quiet! PURE ROCK 2 BLACK 4導管/高度15.5cm/TDP:150W【WXHZ】]的價錢？",
+            "answer": "1290",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "144",
+            "class": "2",
+            "question": "查詢品牌為利民$350的散熱器，它的產品名稱？",
+            "answer": "利民 M.2 2280 SSD 固態硬碟散熱片",
+            "answer_type": "str",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "145",
+            "class": "2",
+            "question": "想從cool的table中,查詢一台名字為[利民 LGA17XX-SS2 扣具 /支援AS AK TA PA120]價錢？",
+            "answer": "60",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "146",
+            "class": "2",
+            "question": "詢價一款散熱器，他的名稱為利民 Phantom Spirit 120 EVO，它的價格？",
+            "answer": "1890",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "147",
+            "class": "2",
+            "question": "利民 M.2 2280 SSD 固態硬碟散熱片/鋁合金/單雙面皆適用】價錢？",
+            "answer": "350",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "148",
+            "class": "2",
+            "question": "想知道從cool的table中，找尋[利民 HR-09 2280 SSD 固態硬碟散熱器/6 mm熱導管/電鍍鰭片/單雙面皆適用]的價格？",
+            "answer": "550",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "149",
+            "class": "2",
+            "question": "詢價[利民 M.2 2280 PRO SSD 固態硬碟散熱片/鋁合金+8 mm純銅導管/單雙面皆適用]的價格？",
+            "answer": "400",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "150",
+            "class": "2",
+            "question": "詢價一款在table中，產品名稱為[快睿 Frostbit M.2 散熱片/2280/雙導管/可調式散熱鰭片]的價錢？",
+            "answer": "790",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "151",
+            "class": "4",
+            "question": "請問3萬內能組一台什麼樣的主機，主要是玩LOL和看Netflix用？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "152",
+            "class": "4",
+            "question": "有推薦的組合嗎？預算大概在50K，要能處理攝影後製和輕遊戲，如：軒轅劍7。",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "153",
+            "class": "4",
+            "question": "碩士生研究用的電腦，預算約70K，需要跑深度學習模型，有沒有建議配置？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "154",
+            "class": "4",
+            "question": "預算大約20K，尋求一台能寫報告和上網的簡易電腦，要求瀏覽器多開流暢。",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "155",
+            "class": "4",
+            "question": "想請問80K左右，能組出來什麼級別的遊戲主機？想玩些新遊戲，畫質要好。",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "156",
+            "class": "4",
+            "question": "工作需要，我要一台能跑Solidworks和AutoCAD的工作站，預算大概60K，有建議嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "157",
+            "class": "4",
+            "question": "有沒有推薦的遊戲主機配置？預算在45K，想要玩 POE、APEX等槍戰、LOL。",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "158",
+            "class": "4",
+            "question": "預算約45K，需要一台主要用來跑Adobe系列軟體的電腦，特別是Photoshop和After Effects。",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "159",
+            "class": "4",
+            "question": "我需要一台適合股市分析的電腦，預算大概30K，需要大量運算和多螢幕，有什麼好提議？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "160",
+            "class": "4",
+            "question": "想要組一台約65K的電腦，主要用於VR遊戲和一般辦公，有沒有推薦配置？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "161",
+            "class": "4",
+            "question": "請問4萬預算可以組出來能玩FPS、3A大作、多開模擬器遊戲的電腦嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "162",
+            "class": "4",
+            "question": "預算25K，我想要一台電腦主要用於線上學習和偶爾寫程式，有建議配置嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "163",
+            "class": "4",
+            "question": "請問75K左右的預算能組一台什麼樣的4K影片剪輯機？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "164",
+            "class": "4",
+            "question": "我要組一台電腦，預算約35K，主要用於玩《英雄聯盟》和做寫作業與論文研究，推薦配置是？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "165",
+            "class": "4",
+            "question": "預算大概55K，尋找一台適合做3D動畫和模型設計的電腦，有推薦嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "166",
+            "class": "4",
+            "question": "我是遊戲開發學生，預算大約85K，需要一台能處理遊戲開發和渲染的高階機，有沒有好的配置？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "167",
+            "class": "4",
+            "question": "預算20K內，請問有適合辦公和輕度Photoshop使用的電腦配置嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "168",
+            "class": "4",
+            "question": "想問下，有沒有大約50K的電腦配置，適合玩大型開放世界遊戲的？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "169",
+            "class": "4",
+            "question": "我需要一台電腦，預算大概45K，主要用於音樂製作和錄音，需要特別注意什麼配件？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "170",
+            "class": "4",
+            "question": "預算約60K，想要一台電腦主要用於科學計算和寫程式，有推薦配置嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "171",
+            "class": "4",
+            "question": "請問我想組一台約70K的電腦，主要用於虛擬機運行和大數據處理，有什麼建議？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "172",
+            "class": "4",
+            "question": "預算大約30K，尋找一台適合初學者學習寫程式和偶爾玩遊戲的電腦，有推薦配置嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "173",
+            "class": "4",
+            "question": "我要組裝一台預算約40K的電腦，主要用來看4K電影和日常使用，有建議配置嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "174",
+            "class": "4",
+            "question": "想請問，85K預算能組一台什麼樣的專業級遊戲機？希望能玩最新遊戲。",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "175",
+            "class": "4",
+            "question": "預算約50K，我想要一台電腦主要用於AI學習和研究，有沒有好的配置建議？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "176",
+            "class": "4",
+            "question": "請問一下，25K預算可以組一台適合高中生用的課業學習電腦嗎？主要是寫作業和上網。",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "177",
+            "class": "4",
+            "question": "我是平面設計師，預算大概55K，需要一台適合設計工作的電腦，有推薦嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "178",
+            "class": "4",
+            "question": "預算大約7萬，想要一台適合專業影像處理和影片剪輯的電腦，有什麼建議配置？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "179",
+            "class": "4",
+            "question": "我想組一台電腦，預算約60K，主要用於玩模擬飛行遊戲，有沒有推薦的配置？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "180",
+            "class": "4",
+            "question": "請問有沒有大約35K的電腦配置推薦，適合用於網頁開發和輕度遊戲？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "181",
+            "class": "4",
+            "question": "預算約80K，我需要一台適合進行生物資訊學研究的電腦，有什麼好的配置建議？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "182",
+            "class": "4",
+            "question": "我要組裝一台電腦，預算大概45K，主要用於網絡安全測試和寫程式，有推薦配置嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "183",
+            "class": "4",
+            "question": "請問30K預算內，有沒有適合做基本影片剪輯和Photoshop的電腦配置？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "184",
+            "class": "4",
+            "question": "我想要一台約65K的電腦，主要用於遊戲開發和輕度3D建模，有什麼建議？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "185",
+            "class": "4",
+            "question": "預算大約75K，尋找一台適合高速股票交易和分析的電腦，需要考慮哪些配件？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "186",
+            "class": "4",
+            "question": "我需要一台電腦，預算約40K，主要用來做機器學習實驗和coding，有什麼好提議？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "187",
+            "class": "4",
+            "question": "請問55K預算能組一台什麼樣的電腦，適合做遊戲串流和錄製？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "188",
+            "class": "4",
+            "question": "想組一台預算約25K的電腦，主要用於日常使用和追劇，有推薦配置嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "189",
+            "class": "4",
+            "question": "我是電腦小白，想組文書機偶爾玩玩LOL，有建議嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "190",
+            "class": "4",
+            "question": "預算約20K，請問有適合老年人使用，簡單操作和看影片的電腦配置嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "191",
+            "class": "4",
+            "question": "我想要一台電腦，預算大概50K，主要用於數位藝術創作和動畫製作，有建議配置嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "192",
+            "class": "4",
+            "question": "請問65K預算內，適合玩高畫質遊戲和虛擬實境的電腦配置是？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "193",
+            "class": "4",
+            "question": "我需要一台約75K的電腦，主要用來做 deep learning 和大數據處理，有什麼配置建議？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "194",
+            "class": "4",
+            "question": "預算大約35K，尋找一台適合大學生學習寫 Python 和日常使用的電腦，有推薦嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "195",
+            "class": "4",
+            "question": "我想組一台預算約45K的電腦，主要用於攝影後期製作和輕度遊戲，有推薦配置嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "196",
+            "class": "4",
+            "question": "請問6萬預算能組出一台適合專業級音樂製作和錄音的電腦嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "197",
+            "class": "4",
+            "question": "我要組一台電腦，預算大約55K，主要用於科學研究和數據分析，有什麼好建議？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "198",
+            "class": "4",
+            "question": "請問有沒有大約70000的電腦配置推薦，適合用於VR開發和高階遊戲？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "199",
+            "class": "4",
+            "question": "預算約30K，我需要一台適合初學者學習3D建模和動畫製作的電腦，有推薦配置嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "200",
+            "class": "4",
+            "question": "我想組一台預算約35K的電腦，主要用於儲存照片跟檔案，有推薦嗎？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "201",
+            "class": "6",
+            "question": "30000文書機的電腦",
+            "question_childs": [
+                "我需要這台電腦主要用來處理文書工作，你有推薦的處理器型號嗎？",
+                "我希望這台電腦能夠快速開啟和運行多個應用程式，有什麼記憶體容量和類型的建議？",
+                "我需要這台電腦有足夠的儲存空間來存放大量文件，你會建議我選擇固態硬碟還是傳統硬碟？",
+                "我希望這台電腦的螢幕能夠顯示清晰的文字和圖片，有什麼螢幕解析度和尺寸的建議？",
+                "我需要這台電腦有良好的連網功能，你有推薦的網路卡型號或是無線網路功能嗎？",
+                "我希望這台電腦的鍵盤和滑鼠使用起來舒適且耐用，有什麼品牌或型號的建議？",
+                "我希望這台電腦的外觀設計簡潔大方，有什麼品牌或系列的電腦符合我的需求？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "202",
+            "class": "6",
+            "question": "5萬元的電競電腦",
+            "question_childs": [
+                "我想要組一台5萬元的電競電腦，請問您建議我應該選擇哪些主要零組件？",
+                "我主要打的遊戲是什麼類型？這對於選擇顯示卡和處理器有什麼影響？",
+                "我對於電腦的外觀也有一些要求，您有推薦的機殼或風扇嗎？",
+                "我對於電腦的噪音也比較敏感，您有推薦的靜音零組件嗎？",
+                "我希望這台電腦可以支援4K遊戲，您有推薦的顯示器和顯示卡組合嗎？",
+                "我對於電腦的散熱效果也比較在意，您有推薦的散熱器或水冷系統嗎？",
+                "我希望這台電腦可以支援未來的升級，您有推薦的主機板和電源供應器嗎？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "203",
+            "class": "6",
+            "question": "25000元以下的休閒用電腦",
+            "question_childs": [
+                "我想要一台休閒用電腦，主要用途是上網、看影片和處理文件，請問您建議我選擇什麼樣的處理器？",
+                "我希望電腦的儲存空間足夠大，可以存放大量的影片和文件，您會建議我選擇多大的硬碟容量？",
+                "我對電腦的顯示效果有一定要求，想要一個清晰的螢幕，您會建議我選擇什麼樣的螢幕解析度？",
+                "我希望電腦的運行速度快一點，不要出現卡頓現象，您會建議我選擇多大的記憶體容量？",
+                "我對電腦的外觀也有一定要求，希望可以有一個時尚且輕巧的外型，您有什麼建議的品牌或型號？",
+                "我想要一個可以長時間使用的電腦，不容易出現故障，您會建議我選擇什麼樣的品牌或是保固服務？",
+                "我對電腦的價格也有預算限制，希望可以在25000元以下，您有什麼推薦的選擇？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "204",
+            "class": "6",
+            "question": "七萬元可以打3A遊戲的電腦",
+            "question_childs": [
+                "這台電腦的主要用途是遊戲，我需要確保能夠流暢運行最新的3A遊戲，請問您推薦的CPU和顯示卡是什麼？",
+                "我希望這台電腦有足夠的儲存空間和快速的讀取速度，您會建議我使用SSD還是HDD？或者是結合使用？",
+                "除了CPU和顯示卡外，還有其他硬體規格需要特別注意嗎？例如RAM容量、散熱系統等。",
+                "我對電腦的外觀也有一定要求，您有推薦的機殼品牌或款式嗎？",
+                "我希望這台電腦能夠支援4K解析度的遊戲，請問您有相關的建議或注意事項嗎？",
+                "我對電腦的耗電量也有一定考量，您有推薦的高效能電源供應器嗎？",
+                "最後，我想確認這台電腦的價格是否在我預算範圍內，並且是否有任何折扣或優惠可以提供？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "205",
+            "class": "6",
+            "question": "15000可以做上網、做報告的文書機預算五萬左右的遊戲用電腦",
+            "question_childs": [
+                "我想要一台價格在五萬左右的遊戲用電腦，請問您推薦哪些品牌或型號？",
+                "我希望這台電腦可以流暢運行目前市面上的熱門遊戲，您認為需要搭配什麼樣的處理器和顯示卡？",
+                "我對電腦的外觀也有一定要求，您有推薦的外型設計或RGB燈效嗎？",
+                "除了遊戲用途外，我也需要這台電腦可以做一些上網、文書處理的工作，請問這樣的需求是否會影響到遊戲性能？",
+                "我對電腦的儲存空間也有一定要求，您認為SSD或HDD哪一種更適合我的需求？",
+                "我希望這台電腦可以支援多螢幕顯示，您有推薦的螢幕或多螢幕設定方式嗎？",
+                "最後，我想了解這台電腦的保固期限和售後服務，您可以提供相關資訊嗎？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "206",
+            "class": "6",
+            "question": "3萬元的電腦，可以防塵",
+            "question_childs": [
+                "這台電腦的主要用途是什麼？例如是用來遊戲、工作還是多媒體編輯？",
+                "我想要一台可以防塵的電腦，可以建議我哪些品牌或型號比較適合？",
+                "我對電腦硬體不太熟悉，可以幫我建議一下需要注意的規格或配備嗎？",
+                "這台電腦的散熱系統如何？有沒有特別的設計可以避免過熱？",
+                "我希望這台電腦可以有較長的使用壽命，有沒有建議的保養方式或注意事項？",
+                "這台電腦的售後服務如何？如果有問題或需要維修，可以提供快速的支援嗎？",
+                "除了防塵功能外，這台電腦還有其他特色或功能嗎？例如 RGB 燈效、快速開機等。"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "207",
+            "class": "6",
+            "question": "6萬元的看影片電腦",
+            "question_childs": [
+                "請問有沒有推薦的品牌或型號適合我這個價位的需求？",
+                "我主要是用來看高畫質影片，需要有什麼樣的顯示卡和螢幕？",
+                "我對聲音品質也有要求，有沒有建議的音響設備？",
+                "我需要多大的儲存空間來存放我的影片檔案？",
+                "有沒有推薦的處理器和記憶體組合可以確保流暢的影片播放？",
+                "我是否需要額外購買保護軟體或配件來確保電腦的安全？",
+                "這台電腦的保固期限是多久？是否有延長保固的選項？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "208",
+            "class": "6",
+            "question": "2萬元以下簡單的文書電腦",
+            "question_childs": [
+                "我需要這台電腦主要用來處理文書工作，你有推薦的處理器和記憶體配置嗎？",
+                "我希望這台電腦可以快速開啟和運行常用的辦公軟體，有什麼硬碟和作業系統的建議嗎？",
+                "我需要這台電腦有足夠的儲存空間來存放文件和資料，你有推薦的硬碟容量和類型嗎？",
+                "我希望這台電腦可以連接到網路，有無網路卡或無線網路功能的建議？",
+                "我對電腦的外觀和大小也有一些要求，有沒有符合我的需求的機殼和螢幕尺寸？",
+                "我希望這台電腦價格在2萬元以下，你有推薦的品牌或型號嗎？",
+                "這台電腦是否有保固服務？如果有，保固期限是多久？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "209",
+            "class": "6",
+            "question": "3萬元的電腦，CPU指定使用Intel",
+            "question_childs": [
+                "請問有哪些Intel CPU適合我的預算範圍，性能又不錯？",
+                "我主要使用電腦做什麼工作，需要哪些CPU性能特點？",
+                "我對電腦的散熱效果有一定要求，有沒有推薦的CPU散熱解決方案？",
+                "我是否需要考慮未來升級的可能性，有沒有支援未來CPU升級的主機板推薦？",
+                "我對電腦的靜音效果有一定要求，有沒有推薦的CPU散熱解決方案？",
+                "我對電腦的外觀設計有一定要求，有沒有推薦的CPU散熱解決方案？",
+                "我對電腦的耗電量有一定要求，有沒有推薦的CPU散熱解決方案？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "210",
+            "class": "6",
+            "question": "3萬內，主要是玩LOL和看Netflix的主機",
+            "question_childs": [
+                "我想要一台主要是用來玩LOL和看Netflix的電腦，請問您推薦的CPU和顯示卡是什麼？",
+                "我希望這台電腦可以在3萬內組裝完成，您認為有什麼品牌或型號的零件比較適合？",
+                "我對電腦組裝不太熟悉，您能否幫我選擇適合的主機殼和散熱器？",
+                "我想要一個快速的儲存裝置，您認為SSD或HDD哪一種比較適合我的需求？",
+                "我希望這台電腦可以支援多螢幕顯示，您有什麼建議嗎？",
+                "我對電腦的外觀也有一些要求，您有什麼款式或設計的建議嗎？",
+                "我希望這台電腦可以有一定的升級空間，您認為哪些零件可以在未來輕鬆升級？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "211",
+            "class": "6",
+            "question": "預算大概在50K，要能處理攝影後製和輕遊戲，如：軒轅劍7。",
+            "question_childs": [
+                "我需要一台電腦能夠處理攝影後製和輕遊戲，請問您推薦的處理器和顯示卡是什麼？",
+                "我的預算大概在50K，您認為這個價位能夠買到符合我的需求的電腦嗎？",
+                "我對軒轅劍7這款遊戲很感興趣，請問這款遊戲的最低系統需求是什麼？我需要確保我的電腦能夠運行這款遊戲。",
+                "我對電腦的外觀也有一定要求，您有推薦的外觀設計或品牌嗎？",
+                "我需要大容量的儲存空間來存放攝影作品，您認為SSD或HDD哪一種更適合我的需求？",
+                "我希望電腦的散熱效果良好，您有推薦的散熱系統或風扇嗎？",
+                "我對電腦的音效品質也有一定要求，您有推薦的音效卡或喇叭嗎？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "212",
+            "class": "6",
+            "question": "碩士生研究用的電腦，預算約70K，需要跑深度學習模型",
+            "question_childs": [
+                "您對於深度學習模型的需求是什麼？例如，您需要處理大型數據集還是複雜的神經網絡模型？",
+                "您是否需要額外的圖形處理單元（GPU）來加速深度學習計算？",
+                "您對於處理器性能有什麼要求？例如，您需要多核處理器來同時處理多個任務嗎？",
+                "您對於記憶體和儲存空間的需求是什麼？您需要大容量的記憶體和快速的儲存設備來處理大型數據集嗎？",
+                "您是否需要特定的輸入/輸出介面或連接埠來與其他設備或外部設備進行連接？",
+                "您對於電腦外觀或尺寸有什麼特別的要求？例如，您需要一台輕便的筆記型電腦或是一台桌上型電腦？",
+                "您對於電腦的耐用性和保固有什麼考量？您需要長時間使用的穩定性和可靠性嗎？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "213",
+            "class": "6",
+            "question": "預算大約20K，一台能寫報告和上網的簡易電腦，要求瀏覽器多開流暢。",
+            "question_childs": [
+                "請問有沒有適合我預算的電腦配置方案？",
+                "我需要多開瀏覽器流暢，請問CPU和RAM的配置應該怎麼搭配？",
+                "我需要一台能夠快速開機和運行應用程式的電腦，有什麼建議嗎？",
+                "我需要一個能夠長時間使用而不容易過熱的電腦，有沒有相關的產品推薦？",
+                "我需要一個輕巧方便攜帶的電腦，有沒有適合的款式？",
+                "我需要一個能夠長期使用而不容易出現故障的電腦，有沒有品牌或型號推薦？",
+                "我需要一個能夠支援多種應用程式和軟體的電腦，有沒有相關的配置建議？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "214",
+            "class": "6",
+            "question": "80K左右的遊戲主機，畫質要好。",
+            "question_childs": [
+                "請問有什麼顯示卡推薦可以支援高畫質遊戲？",
+                "我需要多少記憶體才能確保遊戲運行順暢？",
+                "請問CPU的選擇對於遊戲性能有多大影響？",
+                "有什麼品牌的主機板適合組裝遊戲主機？",
+                "我應該選擇SSD還是HDD來作為系統儲存裝置？",
+                "有什麼款式的機殼可以提供良好的散熱效果？",
+                "請問有什麼類型的電源供應器可以確保系統穩定運行？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "215",
+            "class": "6",
+            "question": "工作需要，一台能跑Solidworks和AutoCAD的電腦，預算大概60K",
+            "question_childs": [
+                "請問有沒有推薦的品牌或型號適合我這個預算範圍內的電腦？",
+                "我需要一台能夠運行Solidworks和AutoCAD的電腦，請問需要考慮哪些規格或配置？",
+                "我對電腦的硬碟容量有一定需求，您會建議我選擇SSD還是HDD？",
+                "我需要一個較大的螢幕來進行設計工作，您有推薦的螢幕尺寸或解析度嗎？",
+                "我對電腦的運行速度有一定要求，您會建議我選擇何種處理器？",
+                "我需要一個穩定的網路連接，您有推薦的網路卡或無線網路解決方案嗎？",
+                "我對電腦的散熱效果也有一定要求，您有推薦的散熱系統或風扇嗎？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "216",
+            "class": "6",
+            "question": "遊戲主機配置，預算在45K，能玩 POE、APEX等槍戰、LOL。",
+            "question_childs": [
+                "我需要一台遊戲主機配置，預算在45K，能夠流暢運行POE、APEX等槍戰遊戲以及LOL，您有什麼建議的配置組合嗎？",
+                "我對遊戲畫質和流暢度要求比較高，您會建議我選擇哪種顯卡和處理器？",
+                "我希望這台主機配置能夠支援4K畫質，您認為我需要多少記憶體和儲存空間？",
+                "我對主機的外觀也比較在意，您有什麼款式或品牌推薦嗎？",
+                "我希望這台主機配置能夠支援多人線上遊戲，您會建議我選擇有線或無線網路連接？",
+                "我對主機的散熱效果也比較在意，您有什麼散熱器或風扇推薦嗎？",
+                "我對主機的耗電量也比較在意，您會建議我選擇節能型的電源供應器嗎？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "217",
+            "class": "6",
+            "question": "預算約45K，一台主要用來跑Adobe系列軟體的電腦，特別是Photoshop和After Effects。",
+            "question_childs": [
+                "這個預算下，我應該選擇哪種處理器來確保能夠流暢運行Adobe軟體？",
+                "我應該選擇多少RAM才能確保Photoshop和After Effects能夠順暢運行？",
+                "哪種顯卡適合我這種使用需求？是否需要考慮顯卡的額外記憶體？",
+                "儲存空間對於運行Adobe軟體有多重要？SSD和HDD哪一種更適合我？",
+                "我應該選擇哪種螢幕解析度和尺寸來確保能夠有效地使用Photoshop和After Effects？",
+                "是否有其他配件或設備可以提升我的工作效率和創作品質？",
+                "這個預算下，有沒有任何特別的優惠或組合可以提供給我？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "218",
+            "class": "6",
+            "question": "適合股市分析的電腦，預算大概30K，需要大量運算和多螢幕",
+            "question_childs": [
+                "我需要一台電腦能夠支援多螢幕，請問您推薦什麼樣的顯示卡和連接方式？",
+                "股市分析需要大量運算，您會建議我選擇什麼樣的處理器和記憶體？",
+                "我需要儲存大量的資料和程式，您會建議我選擇什麼樣的硬碟或儲存裝置？",
+                "有沒有特定的軟體或工具是股市分析者常用的，我應該在電腦上安裝？",
+                "我需要一個穩定的網路連線來取得即時資訊，您會建議我選擇什麼樣的網路卡或設備？",
+                "我希望電腦的散熱效果好，不容易過熱，您有什麼建議或推薦的散熱系統？",
+                "我對電腦的外觀也有一定要求，您有沒有推薦的機殼或外觀設計？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "219",
+            "class": "6",
+            "question": "約65K的電腦，主要用於VR遊戲和一般辦公，有沒有推薦配置？",
+            "question_childs": [
+                "我想要組一台價格約65K的電腦，主要用於VR遊戲和一般辦公，你有推薦的配置嗎？",
+                "我對VR遊戲有興趣，這台電腦需要有什麼樣的顯示卡才能支援流暢的VR遊戲？",
+                "我需要多少記憶體和儲存空間才能確保遊戲和辦公應用程式運行順暢？",
+                "這台電腦需要有什麼樣的處理器才能應對VR遊戲的需求？",
+                "我對電腦的外觀也有一定要求，有沒有推薦的機殼或風扇可以讓電腦保持涼爽？",
+                "我希望這台電腦可以支援多個螢幕，這樣的需求需要注意哪些配備？",
+                "除了硬體配置外，我還需要考慮到什麼其他因素來確保這台電腦能夠長期使用並滿足我的需求？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "220",
+            "class": "6",
+            "question": "4萬預算，可以玩FPS、3A大作、多開模擬器遊戲的電腦",
+            "question_childs": [
+                "我需要一台能夠支援高畫質遊戲的顯示卡，您有什麼推薦的款式嗎？",
+                "我想要一個快速的處理器，以確保遊戲運行順暢，您會建議我選擇哪一款？",
+                "我需要多大的記憶體容量才能夠同時運行多個模擬器遊戲，您認為多少GB的記憶體足夠？",
+                "我希望電腦的硬碟容量足夠大，可以存放大型遊戲檔案和其他資料，您會建議我選擇SSD還是HDD？",
+                "我對電腦的散熱系統也很重視，您有什麼建議可以確保電腦在長時間遊戲時不會過熱？",
+                "我希望電腦的外觀設計也能夠符合我的喜好，您有什麼款式的機殼可以推薦給我？",
+                "我對電腦的連接埠也有需求，例如USB、HDMI等，您會建議我選擇擁有多少個連接埠的電腦？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "221",
+            "class": "6",
+            "question": "預算25K，主要用於線上學習和偶爾寫程式的電腦",
+            "question_childs": [
+                "我需要一台電腦來進行線上學習和偶爾寫程式，您會建議我選擇桌上型還是筆記型電腦？",
+                "我的預算是25K，您認為這個價位能夠買到符合我的需求的電腦嗎？",
+                "我需要一台能夠流暢運行線上課程和程式開發工具的電腦，您會建議我選擇什麼樣的處理器和記憶體？",
+                "我對電腦的顯示效果要求不高，但希望能夠有足夠的儲存空間來存放學習資料和程式檔案，您會建議我選擇什麼樣的硬碟？",
+                "我希望電腦的操作系統能夠穩定且易於使用，您會建議我選擇Windows還是Mac作業系統？",
+                "我對電腦的外觀和重量要求不高，但希望能夠有足夠的連接埠來接入外部設備，您會建議我選擇什麼樣的連接埠配置？",
+                "我對電腦的耗電量和散熱效果也比較關注，您會建議我選擇什麼樣的電源和散熱系統？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "222",
+            "class": "6",
+            "question": "75K左右的4K影片剪輯機",
+            "question_childs": [
+                "請問有什麼品牌的電腦是適合進行4K影片剪輯的？",
+                "我需要多少RAM才能確保順暢的剪輯過程？",
+                "哪種處理器速度比較適合處理4K影片剪輯？",
+                "請問我需要多大的硬碟空間來存放大量的4K影片素材？",
+                "有沒有推薦的顯示卡可以提升剪輯效率？",
+                "我需要考慮什麼樣的螢幕解析度來確保我看到真實的4K畫質？",
+                "有沒有其他配件或軟體是必要的來提升我的剪輯效率？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "223",
+            "class": "6",
+            "question": "預算約35K，主要用於玩《英雄聯盟》和做寫作業與論文研究的電腦",
+            "question_childs": [
+                "我需要一台能夠流暢運行《英雄聯盟》的電腦，您有推薦的CPU和顯示卡嗎？",
+                "我也需要這台電腦能夠順暢運行辦公軟體，您有推薦的RAM容量和儲存空間大小嗎？",
+                "我對電腦的外觀也有一定要求，您有推薦的機殼或風格嗎？",
+                "我希望這台電腦能夠支援雙螢幕顯示，您有推薦的顯示輸出接口嗎？",
+                "我對電腦的散熱性能也比較關注，您有推薦的散熱系統或風扇嗎？",
+                "我希望這台電腦能夠擁有一定的升級空間，您有推薦的主機板和擴充插槽嗎？",
+                "最後，我想確認一下這台電腦的保固期限和售後服務，您能提供相關資訊嗎？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "224",
+            "class": "6",
+            "question": "預算大概55K，適合做3D動畫和模型設計的電腦",
+            "question_childs": [
+                "這台電腦的處理器是什麼型號？是否足夠強大以應付3D動畫和模型設計的需求？",
+                "這台電腦的顯示卡是什麼型號？是否能夠支援較高的圖形處理需求？",
+                "這台電腦的記憶體容量是多少？是否足夠應付大型的3D檔案處理？",
+                "這台電腦的儲存空間是多少？是否足夠存放大型的3D動畫和模型檔案？",
+                "這台電腦的螢幕解析度和色彩表現如何？是否能夠呈現出高品質的3D圖像？",
+                "這台電腦是否支援外接設備，如顯示器或繪圖板？是否有足夠的連接埠？",
+                "這台電腦的散熱系統如何？是否能夠有效地保持電腦運作時的穩定性和效能？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "225",
+            "class": "6",
+            "question": "預算大約85K，需要一台能處理遊戲開發和渲染的高階機",
+            "question_childs": [
+                "請問有沒有推薦的CPU和GPU組合，能夠處理遊戲開發和渲染的需求？",
+                "我需要多少RAM才能確保順暢的遊戲開發和渲染過程？",
+                "請問有沒有推薦的主機板，能夠支援我所需的CPU和GPU？",
+                "我需要多大的儲存空間來存放遊戲開發和渲染所需的檔案？",
+                "請問有沒有推薦的散熱系統，能夠確保電腦在長時間運作下不會過熱？",
+                "我需要一個高品質的顯示器來進行遊戲開發和渲染，有沒有推薦的款式？",
+                "請問有沒有其他配件或軟體推薦，能夠提升我的遊戲開發和渲染效率？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "226",
+            "class": "6",
+            "question": "預算20K內，適合辦公和輕度Photoshop使用的電腦",
+            "question_childs": [
+                "我需要一台能夠處理輕度Photoshop使用的電腦，請問您推薦的處理器是什麼？",
+                "我希望電腦的記憶體能夠支援順暢的多工作業，您會建議我選擇多少GB的記憶體？",
+                "我需要儲存大量檔案，您會建議我選擇SSD還是HDD硬碟？",
+                "我希望電腦的顯示效果能夠清晰，您會推薦我選擇什麼樣的螢幕解析度？",
+                "我需要連接多個外接設備，您會建議我選擇擁有多少個USB埠的電腦？",
+                "我希望電腦的散熱效果良好，您會推薦我選擇什麼樣的散熱系統？",
+                "我對電腦的外觀也有一定要求，您有推薦的外型設計或品牌嗎？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "227",
+            "class": "6",
+            "question": "大約50K，適合玩大型開放世界遊戲的電腦",
+            "question_childs": [
+                "我需要一台電腦可以流暢運行大型開放世界遊戲，請問您推薦的CPU和GPU是什麼？",
+                "我希望能夠在遊戲中享受高畫質的視覺效果，請問您推薦的顯示器解析度和刷新率是多少？",
+                "我想要一個快速的儲存裝置，以確保遊戲的讀取速度，您會建議我使用SSD還是HDD？",
+                "我希望電腦的散熱效果良好，以確保長時間遊戲時不會過熱，您有什麼建議的散熱系統嗎？",
+                "我希望電腦的記憶體足夠大，以確保遊戲運行時不會出現卡頓現象，您會建議我使用多少RAM？",
+                "我希望電腦的外觀設計也能符合我的喜好，您有什麼款式或品牌推薦嗎？",
+                "我想要一個可以擴充的電腦，以便將來升級硬體，您有什麼建議的主機板和機殼嗎？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "228",
+            "class": "6",
+            "question": "預算約25K的電腦，主要用於日常使用和追劇",
+            "question_childs": [
+                "我主要使用電腦的用途是日常使用和追劇，你會建議我選擇什麼樣的處理器和顯示卡？",
+                "我希望電腦的運行速度快且流暢，有什麼建議的內存和硬碟容量？",
+                "我對電腦的外觀也有一定要求，有沒有推薦的機殼或外觀設計？",
+                "我希望電腦的散熱效果好，不容易過熱，有什麼散熱器或風扇的建議？",
+                "我對電腦的音效品質也有一定要求，有沒有推薦的音箱或音效卡？",
+                "我希望電腦的連接埠多樣化，方便接入各種外設，有什麼建議？",
+                "我對電腦的耗電量也有一定要求，有沒有節能的建議？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "229",
+            "class": "6",
+            "question": "想組文書機偶爾玩玩LOL",
+            "question_childs": [
+                "我需要一台電腦來處理文書工作，請問您推薦的處理器是什麼？",
+                "我偶爾會玩LOL，請問您建議的顯示卡是哪一款？",
+                "我需要足夠的儲存空間來存放文件和遊戲，您會建議我選擇多大的硬碟？",
+                "我對電腦的外觀也有一定要求，您有推薦的外型設計或品牌嗎？",
+                "我希望電腦的散熱效果好，您有什麼建議或推薦的散熱系統？",
+                "我對電腦的效能要求不高，但希望可以順暢運行LOL，您會建議我選擇哪種記憶體？",
+                "我對價格也有一定的考量，您有推薦的價格範圍或品牌嗎？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "230",
+            "class": "6",
+            "question": "預算約20K，適合老年人使用，簡單操作和看影片的電腦",
+            "question_childs": [
+                "這台電腦是否適合老年人使用？有沒有特別的設計或功能讓他們更容易上手？",
+                "這台電腦的操作系統是什麼？是否容易學習和使用？",
+                "這台電腦的螢幕大小和解析度如何？適合觀看影片嗎？",
+                "這台電腦的儲存空間足夠嗎？老年人通常會存放哪些檔案？",
+                "這台電腦的效能如何？能夠順暢地執行基本的操作和觀看影片嗎？",
+                "這台電腦的價格是否在我的預算範圍內？有沒有其他選擇可以考慮？",
+                "這台電腦有沒有保固服務？如果出現問題，可以怎麼處理？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        }
+    ],
+    "token": 0,
+    "score_data": {
+        "Classifier": 0,
+        "General": 0,
+        "SQL": 0,
+        "Retrieve": 0
+    },
+    "Classifier Accuracy": 0
+}

@@ -1,0 +1,10 @@
+pip install bz2file
+pip install gensim
+pip install langchain
+pip install langchain_community
+pip install nest_asyncio
+pip install opencc-python-reimplemented
+pip install pandas
+pip install tqdm
+pip install wikipedia
+pip install wikiextractor

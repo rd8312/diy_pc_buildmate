@@ -1,0 +1,52 @@
+{
+    "name": "test_dataset",
+    "build_dataset_time": "2024-03-22 00-09-26",
+    "build_dataset_time_number": "20240322000926",
+    "only_for_classification": false,
+    "data_list": [
+        {
+            "qa_index": "1",
+            "class": "1",
+            "question": "網友詢問有哪些機殼類型特別注重散熱？",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "2",
+            "class": "2",
+            "question": "B760M-K-CSM多少錢呀？",
+            "answer": "10590",
+            "answer_type": "int",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "3",
+            "class": "4",
+            "question": "請提供一組清單，是40K左右 遊戲機",
+            "only_for_classification": false
+        },
+        {
+            "qa_index": "4",
+            "class": "6",
+            "question": "30000文書機的電腦",
+            "question_childs": [
+                "請問有沒有推薦的品牌或型號適合我的預算？",
+                "我主要使用電腦來處理文書工作，需要有什麼樣的處理器和記憶體？",
+                "我需要多大的硬碟容量來存放文檔和資料？",
+                "請問有沒有建議的螢幕尺寸和解析度？",
+                "我需要考慮購買額外的軟體或配件嗎？",
+                "有沒有推薦的保固服務或延長保固計畫？",
+                "這台電腦的性能和耗電量如何？"
+            ],
+            "answer_childs": [],
+            "only_for_classification": false
+        }
+    ],
+    "token": 0,
+    "score_data": {
+        "Classifier": 0,
+        "General": 0,
+        "SQL": 0,
+        "Retrieve": 0
+    },
+    "Classifier Accuracy": 0
+}
